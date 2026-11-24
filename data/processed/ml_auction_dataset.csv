@@ -1,0 +1,1280 @@
+player,auction_year,team,base_price_cr,sold_price_cr,status,role,player_origin,bbb_name,career_runs,career_balls_faced,career_batting_sr,career_batting_avg,career_fours,career_sixes,career_boundary_pct,ipl_seasons_batted,career_bat_matches,recent_runs,recent_batting_sr,career_wickets,career_bowl_balls,career_economy,career_bowling_avg,ipl_seasons_bowled,recent_wickets,recent_economy,total_ipl_seasons,total_potm,price_ratio,has_ipl_experience
+Christopher Barnwell,2013,Royal Challengers Bangalore,0.305,0.305,sold,All-Rounder,Overseas,Christopher Barnwell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Johan Botha,2013,Delhi Daredevils,1.83,2.745,sold,All-Rounder,Overseas,J Botha,335,297,112.79,22.83,29,3,40.16,3,19,288,112.94,21,545,6.85,27.85,3,16,6.97,3,1,1.5,1
+Daniel Christian,2013,Royal Challengers Bangalore,0.61,0.61,sold,All-Rounder,Overseas,DT Christian,335,283,118.37,24.0,17,13,43.97,2,20,335,118.37,20,460,7.79,29.56,2,20,7.79,2,0,1.0,1
+Michael Clarke,2013,Pune Warriors India,2.44,2.44,sold,Batsman,Overseas,MJ Clarke,98,96,102.08,16.33,12,0,48.98,1,6,98,102.08,3,66,6.55,24.0,1,3,6.55,1,0,1.0,1
+Nathan Coulter-Nile,2013,Mumbai Indians,0.61,2.745,sold,Bowler,Overseas,NM Coulter-Nile,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.5,0
+Akila Dananjaya,2013,Chennai Super Kings,0.122,0.122,sold,All-Rounder,Overseas,A Dananjaya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Quinton de Kock,2013,Sunrisers Hyderabad,0.122,0.122,sold,,,Q de Kock,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Fidel Edwards,2013,Rajasthan Royals,0.61,1.281,sold,Bowler,Overseas,FH Edwards,4,5,80.0,4.0,0,0,0.0,1,2,0,0.0,6,150,6.4,26.67,1,0,0.0,1,0,2.1,1
+James Faulkner,2013,Rajasthan Royals,0.61,2.44,sold,All-Rounder,Overseas,JP Faulkner,14,14,100.0,14.0,0,0,0.0,1,2,14,100.0,4,61,8.26,17.33,2,4,8.26,2,0,4.0,1
+Manpreet Gony,2013,Kings XI Punjab,1.22,3.05,sold,Bowler,Indian,MS Gony,54,49,110.2,9.5,2,5,33.32,5,11,4,40.0,32,735,8.36,45.54,5,8,8.83,5,0,2.5,1
+Moisés Henriques,2013,Royal Challengers Bangalore,0.61,1.83,sold,,,MC Henriques,49,45,108.89,15.0,4,1,54.78,2,4,0,0.0,3,100,8.52,44.25,2,0,0.0,2,0,3.0,1
+Jason Holder,2013,Chennai Super Kings,0.122,0.122,sold,Bowler,Overseas,JO Holder,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Phillip Hughes,2013,Mumbai Indians,0.61,0.61,sold,,,Phillip Hughes,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Laughlin,2013,Chennai Super Kings,0.122,0.122,sold,Bowler,Overseas,B Laughlin,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Glenn Maxwell,2013,Mumbai Indians,1.22,6.1,sold,All-Rounder,Overseas,GJ Maxwell,6,11,54.55,6.0,0,0,0.0,1,2,6,54.55,2,19,6.95,11.0,1,2,6.95,1,0,5.0,1
+Nathan McCullum,2013,Sunrisers Hyderabad,0.61,0.61,sold,Bowler,Overseas,NL McCullum,26,23,113.04,8.67,0,1,23.08,1,2,26,113.04,0,30,7.0,0.0,1,0,7.0,1,0,1.0,1
+Clint McKay,2013,Sunrisers Hyderabad,0.61,0.61,sold,,,CJ McKay,8,15,53.33,8.0,0,0,0.0,1,1,8,53.33,1,42,8.57,60.0,1,1,8.57,1,0,1.0,1
+Ryan McLaren,2013,Kolkata Knight Riders,0.305,0.305,sold,Bowler,Overseas,R McLaren,156,172,90.7,26.0,14,1,40.1,2,11,90,89.11,10,326,8.52,46.3,2,5,9.84,2,1,1.0,1
+Ajantha Mendis,2013,Pune Warriors India,0.305,4.4225,sold,Bowler,Overseas,Ajantha Mendis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,14.5,0
+Jeevan Mendis,2013,Delhi Daredevils,0.305,0.305,sold,All-Rounder,Overseas,Jeevan Mendis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Morris,2013,Chennai Super Kings,0.122,3.8125,sold,,,CH Morris,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,31.25,0
+Dirk Nannes,2013,Chennai Super Kings,1.22,3.66,sold,Bowler,Overseas,DP Nannes,4,13,30.77,4.0,0,0,0.0,1,2,0,0.0,33,563,6.93,18.69,3,2,7.44,3,1,3.0,1
+Abhishek Nayar,2013,Pune Warriors India,0.61,4.1175,sold,All-Rounder,Indian,AM Nayar,563,464,121.34,21.34,45,19,49.29,5,37,106,91.38,7,189,8.38,45.83,4,2,9.65,5,0,6.75,1
+Jacob Oram,2013,Mumbai Indians,0.305,0.305,sold,All-Rounder,Overseas,JDP Oram,106,110,96.36,10.89,6,5,35.19,3,11,0,0.0,13,218,9.19,31.33,3,1,11.5,3,1,1.0,1
+Kusal Perera,2013,Rajasthan Royals,0.122,0.122,sold,,,Kusal Perera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Thisara Perera,2013,Sunrisers Hyderabad,0.305,4.1175,sold,All-Rounder,Overseas,Thisara Perera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,13.5,0
+Luke Pomersbach,2013,Kings XI Punjab,0.305,1.83,sold,Batsman,Overseas,LA Pomersbach,244,191,127.75,59.47,20,12,56.18,3,13,51,124.39,0,0,0.0,0.0,0,0,0.0,3,0,6.0,1
+Ricky Ponting,2013,Mumbai Indians,2.44,2.44,sold,Batsman,Overseas,RT Ponting,39,53,73.58,13.0,2,1,35.9,1,4,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Ravi Rampaul,2013,Royal Challengers Bangalore,0.305,1.769,sold,Bowler,Overseas,R Rampaul,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.8,0
+Kane Richardson,2013,Pune Warriors India,0.61,4.27,sold,Bowler,Overseas,KW Richardson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.0,0
+Jesse Ryder,2013,Delhi Daredevils,0.61,1.586,sold,All-Rounder,Overseas,JD Ryder,604,466,129.61,18.98,69,19,64.09,3,29,548,131.41,11,241,7.82,40.67,3,6,8.45,3,1,2.6,1
+Darren Sammy,2013,Sunrisers Hyderabad,0.61,2.5925,sold,All-Rounder,Overseas,DJG Sammy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.25,0
+Sachithra Senanayake,2013,Kolkata Knight Riders,0.305,3.8125,sold,,,SMSM Senanayake,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,12.5,0
+Pankaj Singh,2013,Royal Challengers Bangalore,0.305,0.915,sold,Bowler,Indian,Pankaj Singh,7,12,58.33,2.33,0,0,0.0,3,5,0,0.0,11,311,9.11,32.81,5,7,8.42,5,0,3.0,1
+R. P. Singh,2013,Royal Challengers Bangalore,0.61,2.44,sold,,,RP Singh,52,78,66.67,3.18,2,1,10.37,5,28,8,50.0,83,1547,7.63,25.04,5,26,7.24,5,1,4.0,1
+Sudeep Tyagi,2013,Sunrisers Hyderabad,0.61,0.61,sold,Bowler,Indian,S Tyagi,3,4,75.0,3.0,0,0,0.0,1,1,0,0.0,6,220,8.29,94.8,2,0,0.0,2,0,1.0,1
+Jaydev Unadkat,2013,Royal Challengers Bangalore,0.61,3.2025,sold,Bowler,Indian,JD Unadkat,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,10,191,8.42,23.21,3,6,8.51,3,1,5.25,1
+Mitchell Johnson,2014,Kings XI Punjab,2.0,6.5,sold,All-Rounder,Overseas,MG Johnson,39,37,105.41,9.75,2,2,51.28,1,6,39,105.41,24,403,7.01,19.62,1,24,7.01,1,2,3.25,1
+Jacques Kallis,2014,Kolkata Knight Riders,2.0,5.5,sold,All-Rounder,Overseas,JH Kallis,2276,2160,105.37,27.76,242,40,53.25,6,88,720,100.0,70,1665,7.77,38.4,6,35,7.37,6,9,2.75,1
+Kevin Pietersen,2014,Delhi Daredevils,2.0,9.0,sold,Batsman,Overseas,KP Pietersen,634,458,138.43,41.78,53,30,58.28,3,21,305,145.24,9,180,7.27,32.09,3,1,7.95,3,3,4.5,1
+Virender Sehwag,2014,Kings XI Punjab,2.0,3.2,sold,Batsman,Indian,V Sehwag,2174,1410,154.18,30.28,266,85,72.15,6,79,790,140.82,6,138,10.26,26.17,5,0,10.8,6,10,1.6,1
+Yuvraj Singh,2014,Royal Challengers Bangalore,2.0,14.0,sold,All-Rounder,Indian,Yuvraj Singh,1479,1176,125.77,26.56,108,82,62.71,5,68,238,123.32,30,624,6.99,24.92,5,6,6.86,5,3,7.0,1
+Murali Vijay,2014,Delhi Daredevils,2.0,5.0,sold,Batsman,Indian,M Vijay,1600,1289,124.13,26.06,140,66,57.09,5,63,648,114.49,0,0,0.0,0.0,0,0,0.0,5,5,2.5,1
+David Warner,2014,Sunrisers Hyderabad,1.5,5.5,sold,Batsman,Overseas,DA Warner,1435,1107,129.63,28.45,146,58,65.03,5,55,666,134.82,0,0,0.0,0.0,0,0,0.0,5,5,3.67,1
+George Bailey,2014,Kings XI Punjab,2.0,3.25,sold,Batsman,Overseas,GJ Bailey,63,67,94.03,12.0,9,0,53.33,2,3,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,1.62,1
+Faf du Plessis,2014,Chennai Super Kings,1.5,4.75,sold,,,F du Plessis,398,310,128.39,36.18,29,17,54.77,1,12,398,128.39,0,6,16.0,0.0,1,0,16.0,1,2,3.17,1
+Michael Hussey,2014,Mumbai Indians,2.0,5.0,sold,Batsman,Overseas,MEK Hussey,1691,1388,121.83,39.4,176,42,51.86,5,45,994,121.07,0,0,0.0,0.0,0,0,0.0,5,10,2.5,1
+Dinesh Karthik,2014,Delhi Daredevils,2.0,12.5,sold,Wicket Keeper,Indian,Dinesh Karthik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.25,0
+Zaheer Khan,2014,Mumbai Indians,1.0,2.6,sold,Bowler,Indian,Z Khan,99,108,91.67,9.0,10,1,38.7,5,19,12,70.59,81,1466,7.7,21.57,6,26,7.57,6,0,2.6,1
+Brendon McCullum,2014,Chennai Super Kings,2.0,3.25,sold,Wicket Keeper,Overseas,BB McCullum,1240,1047,118.43,30.03,127,48,64.72,6,48,295,100.34,0,0,0.0,0.0,0,0,0.0,6,3,1.62,1
+Amit Mishra,2014,Sunrisers Hyderabad,2.0,4.75,sold,Bowler,Indian,A Mishra,275,292,94.18,13.06,25,3,41.14,6,35,105,84.68,101,1703,6.89,19.65,6,37,7.0,6,8,2.38,1
+Darren Sammy,2014,Sunrisers Hyderabad,1.0,3.5,sold,All-Rounder,Overseas,DJG Sammy,174,136,127.94,29.0,11,10,59.77,1,9,174,127.94,11,138,7.35,15.36,1,11,7.35,1,1,3.5,1
+Jean-Paul Duminy,2014,Delhi Daredevils,1.0,2.2,sold,Batsman,Overseas,JP Duminy,978,839,116.57,46.9,61,35,46.82,4,38,244,125.13,10,329,7.04,50.56,4,1,8.0,4,2,2.2,1
+Aaron Finch,2014,Sunrisers Hyderabad,1.0,4.0,sold,Batsman,Overseas,AJ Finch,579,468,123.72,21.95,65,20,54.75,4,23,511,129.04,1,44,9.14,49.0,3,1,12.25,4,1,4.0,1
+Brad Hodge,2014,Rajasthan Royals,2.0,2.4,sold,Batsman,Overseas,BJ Hodge,1299,1079,120.39,26.73,118,37,55.23,6,59,538,133.17,18,238,7.82,19.0,5,1,8.33,6,6,1.2,1
+Shaun Marsh,2014,Kings XI Punjab,2.0,2.2,sold,Batsman,Overseas,SE Marsh,1903,1462,130.16,44.74,203,63,62.05,5,49,636,116.91,0,0,0.0,0.0,0,0,0.0,5,7,1.1,1
+Cheteshwar Pujara,2014,Kings XI Punjab,1.5,1.9,sold,Batsman,Indian,CA Pujara,265,274,96.72,17.62,33,4,56.85,4,16,109,88.62,0,0,0.0,0.0,0,0,0.0,4,0,1.27,1
+Dwayne Smith,2014,Chennai Super Kings,1.5,4.5,sold,Batsman,Overseas,DR Smith,857,653,131.24,26.36,76,43,61.12,5,33,575,126.93,12,288,8.42,48.55,5,5,8.49,5,5,3.0,1
+Ross Taylor,2014,Delhi Daredevils,2.0,2.0,sold,Batsman,Overseas,Ross Taylor,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manoj Tiwary,2014,Delhi Daredevils,2.0,2.8,sold,Batsman,Indian,MK Tiwary,1115,1021,109.21,25.25,99,23,47.67,6,56,406,103.31,1,26,10.38,11.0,3,0,0.0,6,3,1.4,1
+Robin Uthappa,2014,Kolkata Knight Riders,2.0,5.0,sold,Batsman,Indian,RV Uthappa,1972,1649,119.59,26.03,180,71,57.98,6,86,839,113.07,0,0,0.0,0.0,0,0,0.0,6,1,2.5,1
+Quinton de Kock,2014,Delhi Dardevils,1.0,3.5,sold,,,Q de Kock,6,16,37.5,2.0,1,0,66.67,1,3,6,37.5,0,0,0.0,0.0,0,0,0.0,1,0,3.5,1
+Naman Ojha,2014,Sunrisers Hyderabad,0.5,0.5,sold,Wicket Keeper,Indian,NV Ojha,969,848,114.27,19.98,86,50,62.13,5,54,264,110.0,0,0,0.0,0.0,0,0,0.0,5,1,1.0,1
+Parthiv Patel,2014,Royal Challengers Bangalore,1.0,2.75,sold,Wicket Keeper,Indian,PA Patel,1206,1145,105.33,20.14,148,17,56.51,6,64,488,114.29,0,0,0.0,0.0,0,0,0.0,6,2,2.75,1
+Wriddhiman Saha,2014,Kings XI Punjab,1.0,2.2,sold,Wicket Keeper,Indian,WP Saha,442,351,125.93,28.36,32,20,47.49,6,29,76,107.04,0,0,0.0,0.0,0,0,0.0,6,1,2.2,1
+Shakib Al Hasan,2014,Kolkata Knight Riders,1.0,2.8,sold,All-Rounder,Overseas,Shakib Al Hasan,120,100,120.0,14.83,10,3,50.66,2,10,91,118.18,23,343,6.65,16.5,2,12,6.58,2,2,2.8,1
+Albie Morkel,2014,Royal Challengers Bangalore,1.5,2.4,sold,All-Rounder,Overseas,Albie Morkel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.6,0
+Irfan Pathan,2014,Sunrisers Hyderabad,1.5,2.4,sold,All-Rounder,Indian,IK Pathan,1082,910,118.9,24.04,83,38,51.72,6,72,329,112.67,91,1909,7.59,28.99,6,21,7.65,6,2,1.6,1
+Yusuf Pathan,2014,Kolkata Knight Riders,2.0,3.25,sold,All-Rounder,Indian,YK Pathan,1838,1286,142.92,27.5,154,98,63.53,6,85,526,123.47,41,1038,7.15,39.97,6,5,8.06,6,13,1.62,1
+Thisara Perera,2014,Kings XI Punjab,0.5,1.6,sold,All-Rounder,Overseas,Thisara Perera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.2,0
+Steve Smith,2014,Rajasthan Royals,2.0,4.0,sold,,,SPD Smith,521,406,128.33,34.0,39,18,51.28,2,21,521,128.33,0,2,15.0,0.0,1,0,15.0,2,2,2.0,1
+Ashok Dinda,2014,Royal Challengers Bangalore,1.0,1.5,sold,Bowler,Indian,AB Dinda,15,29,51.72,1.58,1,0,7.41,6,12,11,68.75,62,1104,7.67,24.06,6,28,8.34,6,0,1.5,1
+Bhuvneshwar Kumar,2014,Sunrisers Hyderabad,1.5,4.25,sold,Bowler,Overseas,B Kumar,93,114,81.58,7.25,7,1,24.87,3,18,92,81.42,25,666,6.68,28.18,3,22,6.75,3,0,2.83,1
+Morne Morkel,2014,Kolkata Knight Riders,1.5,2.8,sold,Bowler,Overseas,M Morkel,117,85,137.65,9.38,11,5,45.63,5,17,60,171.43,53,1000,7.49,30.54,5,38,7.61,5,1,1.87,1
+Ravi Rampaul,2014,Royal Challengers Bangalore,0.5,0.9,sold,Bowler,Overseas,R Rampaul,38,39,97.44,9.5,3,1,47.37,1,6,38,97.44,15,241,7.02,18.8,1,15,7.02,1,0,1.8,1
+Mohammed Shami,2014,Delhi Dardevils,1.0,4.25,sold,,,Mohammed Shami,5,10,50.0,5.0,0,0,0.0,1,1,5,50.0,1,57,8.32,79.0,1,1,8.32,1,0,4.25,1
+Ishant Sharma,2014,Sunrisers Hyderabad,1.5,4.25,sold,Bowler,Indian,I Sharma,37,46,80.43,6.5,2,1,24.72,4,14,0,0.0,52,1345,7.53,34.14,5,16,7.56,5,2,2.83,1
+Mitchell Starc,2014,Royal Challengers Bangalore,2.0,5.0,sold,Bowler,Overseas,MA Starc,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.5,0
+Ranganath Vinay Kumar,2014,Kolkata Knight Riders,1.5,2.8,sold,Bowler,Indian,R Vinay Kumar,287,264,108.71,20.17,20,8,42.82,6,35,138,126.61,100,1625,8.18,23.43,6,48,8.38,6,3,1.87,1
+Umesh Yadav,2014,Kolkata Knight Riders,1.0,2.6,sold,Bowler,Indian,UT Yadav,44,56,78.57,10.75,3,1,11.84,4,13,40,86.96,53,1017,8.0,32.21,4,42,7.91,4,2,2.6,1
+Piyush Chawla,2014,Kolkata Knight Riders,0.5,4.25,sold,Bowler,Indian,PP Chawla,401,366,109.56,13.52,36,12,50.99,6,49,170,114.86,89,1806,7.59,26.7,6,29,7.38,6,2,8.5,1
+Murali Kartik,2014,Kings XI Punjab,1.0,1.0,sold,Bowler,Indian,M Kartik,113,109,103.67,15.5,7,1,24.69,6,14,28,116.67,37,1133,7.03,45.34,6,15,7.17,6,1,1.0,1
+Muttiah Muralitharan,2014,Royal Challengers Bangalore,1.0,1.0,sold,Bowler,Overseas,M Muralitharan,20,30,66.67,2.6,1,0,10.0,5,9,6,66.67,63,1482,6.64,38.48,6,18,7.09,6,2,1.0,1
+Pragyan Ojha,2014,Mumbai Indians,2.0,3.25,sold,Bowler,Indian,PP Ojha,12,37,32.43,1.87,0,0,0.0,5,16,6,33.33,94,1651,7.24,21.93,6,28,7.3,6,1,1.62,1
+Rahul Sharma,2014,Delhi Daredevils,0.5,1.9,sold,Bowler,Indian,R Sharma,66,77,85.71,6.5,5,3,41.27,4,19,13,46.43,41,899,6.91,27.48,4,18,7.48,4,2,3.8,1
+Nic Maddinson,2014,Royal Challengers Bangalore,0.5,0.5,sold,Batsman,Overseas,NJ Maddinson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Saurabh Tiwary,2014,Delhi Daredevils,0.5,0.7,sold,Batsman,Indian,SS Tiwary,945,833,113.45,21.68,58,36,41.2,6,50,300,104.9,0,0,0.0,0.0,0,0,0.0,6,0,1.4,1
+Brendan Taylor,2014,Sunrisers Hyderabad,0.3,0.3,sold,Wicket Keeper,Overseas,Brendan Taylor,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Corey Anderson,2014,Mumbai Indians,1.0,4.5,sold,All-Rounder,Overseas,CJ Anderson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.5,0
+Moises Henriques,2014,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Overseas,MC Henriques,214,172,124.42,23.75,24,4,56.32,3,13,165,129.92,11,232,8.51,37.29,3,8,8.5,3,0,1.0,1
+Glenn Maxwell,2014,Kings XI Punjab,1.0,6.0,sold,All-Rounder,Overseas,GJ Maxwell,42,38,110.53,12.0,1,4,38.89,2,5,42,110.53,2,31,8.9,11.0,2,2,8.9,2,0,6.0,1
+Abhishek Nayar,2014,Rajasthan Royals,0.3,1.0,sold,All-Rounder,Indian,AM Nayar,629,538,116.91,19.36,50,19,46.13,6,46,111,90.24,9,239,8.11,41.75,5,2,8.04,6,0,3.33,1
+Laxmi Ratan Shukla,2014,Delhi Daredevils,0.5,1.5,sold,All-Rounder,Indian,LR Shukla,374,320,116.88,13.07,31,15,48.51,6,30,78,111.43,16,268,8.28,22.28,5,2,6.8,6,1,3.0,1
+Andre Russell,2014,Kolkata Knight Riders,0.5,0.6,sold,All-Rounder,Overseas,AD Russell,58,42,138.1,14.5,3,3,31.91,2,4,58,138.1,1,142,9.72,162.0,2,1,9.72,2,0,1.2,1
+Varun Aaron,2014,Royal Challengers Bangalore,1.5,2.0,sold,Bowler,Indian,VR Aaron,1,8,12.5,0.5,0,0,0.0,2,3,1,33.33,11,269,8.07,36.25,2,9,8.72,2,0,1.33,1
+Parvinder Awana,2014,Kings XI Punjab,0.5,0.65,sold,Bowler,Indian,P Awana,5,14,35.71,2.17,0,0,0.0,2,5,5,35.71,34,628,7.62,23.61,2,34,7.62,2,0,1.3,1
+Lakshmipathy Balaji,2014,Kings XI Punjab,0.5,1.8,sold,Bowler,Indian,L Balaji,35,47,74.47,4.8,2,1,20.0,5,11,9,90.0,73,1363,7.83,24.19,6,25,6.82,6,3,3.6,1
+Nathan Coulter-Nile,2014,Delhi Daredevils,1.0,4.25,sold,Bowler,Overseas,NM Coulter-Nile,9,6,150.0,9.0,0,1,66.67,1,1,9,150.0,1,25,6.96,29.0,1,1,6.96,1,0,4.25,1
+Ashish Nehra,2014,Chennai Super Kings,2.0,2.0,sold,Bowler,Indian,A Nehra,39,55,70.91,7.65,3,1,19.45,5,12,12,57.14,67,1203,7.7,23.48,5,25,8.55,5,2,1.0,1
+Mohit Sharma,2014,Chennai Super Kings,1.0,2.0,sold,Bowler,Indian,MM Sharma,0,5,0.0,0.0,0,0,0.0,1,2,0,0.0,21,311,6.31,15.57,1,21,6.31,1,0,2.0,1
+Jaydev Unadkat,2014,Delhi Daredevils,1.0,2.8,sold,Bowler,Indian,JD Unadkat,2,2,100.0,2.0,0,0,0.0,1,2,2,100.0,23,490,7.85,25.04,4,13,7.67,4,2,2.8,1
+Samuel Badree,2014,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas,S Badree,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,25,8.4,0.0,1,0,8.4,1,0,1.0,1
+Chris Lynn,2014,Kolkata Knight Riders,0.5,1.3,sold,Batsman,Overseas,CA Lynn,6,10,60.0,6.0,1,0,66.67,1,1,6,60.0,0,0,0.0,0.0,0,0,0.0,1,0,2.6,1
+Yalaka Venugopal Rao,2014,Sunrisers Hyderabad,0.3,0.55,sold,,,Y Venugopal Rao,914,800,114.25,22.26,69,37,50.9,5,47,132,102.33,7,210,9.2,38.21,5,0,13.0,5,0,1.83,1
+John Hastings,2014,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas,JW Hastings,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+James Neesham,2014,Delhi Daredevils,0.3,1.0,sold,All-Rounder,Overseas,JDS Neesham,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.33,0
+Ben Cutting,2014,Rajasthan Royals,0.5,0.8,sold,Bowler,Overseas,BCJ Cutting,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.6,0
+Josh Hazlewood,2014,Mumbai Indians,0.5,0.5,sold,Bowler,Overseas,JR Hazlewood,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Hilfenhaus,2014,Chennai Super Kings,1.0,1.0,sold,Bowler,Overseas,BW Hilfenhaus,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,14,215,6.75,17.29,1,14,6.75,1,2,1.0,1
+Jason Holder,2014,Sunrisers Hyderabad,0.5,0.75,sold,Bowler,Overseas,JO Holder,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4,125,8.3,43.25,1,4,8.3,1,0,1.5,1
+Kane Richardson,2014,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas,KW Richardson,34,36,94.44,17.0,2,1,41.18,1,2,34,94.44,2,73,8.47,51.5,1,2,8.47,1,0,1.0,1
+Tim Southee,2014,Rajasthan Royals,0.5,1.2,sold,Bowler,Overseas,TG Southee,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4,119,8.42,41.75,1,0,0.0,1,0,2.4,1
+Patrick Cummins,2014,Kolkata Knight Riders,1.0,1.0,sold,,,PJ Cummins,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Wayne Parnell,2014,Delhi Daredevils,1.0,1.0,sold,Bowler,Overseas,WD Parnell,61,78,78.21,7.36,4,1,26.65,3,11,24,66.67,24,411,7.24,20.45,3,14,7.24,3,0,1.0,1
+Marchant de Lange,2014,Mumbai Indians,0.3,0.3,sold,,,M de Lange,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3,64,10.12,36.0,1,3,10.12,1,0,1.0,1
+Krishmar Santokie,2014,Mumbai Indians,0.3,0.3,sold,,,K Santokie,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Matt Henry,2014,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas,MJ Henry,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mayank Agarwal,2014,Delhi Daredevils,0.1,1.6,sold,Batsman,Indian,MA Agarwal,433,357,121.29,18.0,41,22,66.29,3,24,292,128.07,0,0,0.0,0.0,0,0,0.0,3,0,16.0,1
+Srikkanth Anirudha,2014,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian,S Anirudha,133,116,114.66,14.15,9,7,40.3,5,11,19,172.73,0,0,0.0,0.0,0,0,0.0,5,1,1.0,1
+Baba Aparajith,2014,Chennai Super Kings,0.1,0.1,sold,Batsman,Indian,Baba Aparajith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Unmukt Chand,2014,Rajasthan Royals,0.3,0.65,sold,Batsman,Indian,UBT Chand,196,210,93.33,12.19,19,7,43.48,3,13,194,97.98,0,0,0.0,0.0,0,0,0.0,3,0,2.17,1
+Kedar Jadhav,2014,Delhi Daredevils,0.3,2.0,sold,Batsman,Indian,KM Jadhav,246,210,117.14,14.67,16,7,38.55,3,19,152,119.69,0,0,0.0,0.0,0,0,0.0,3,1,6.67,1
+Manprit Juneja,2014,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian,MC Juneja,125,134,93.28,17.86,11,1,40.0,1,7,125,93.28,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Gurkeerat Singh,2014,Kings XI Punjab,0.2,1.3,sold,,,Gurkeerat Singh,194,152,127.63,20.33,22,5,61.74,2,13,194,127.63,0,0,0.0,0.0,0,0,0.0,2,0,6.5,1
+Manish Pandey,2014,Kolkata Knight Riders,0.2,1.7,sold,Batsman,Indian,MK Pandey,945,850,111.18,29.31,95,26,46.58,6,44,279,109.84,0,0,0.0,0.0,0,0,0.0,6,3,8.5,1
+KL Rahul,2014,Sunrisers Hyderabad,0.1,1.0,sold,Batsman,Indian,KL Rahul,20,16,125.0,10.0,4,0,80.0,1,2,20,125.0,0,0,0.0,0.0,0,0,0.0,1,0,10.0,1
+Suryakumar Yadav,2014,Kolkata Knight Riders,0.2,0.7,sold,Batsman,Indian,SA Yadav,0,4,0.0,0.0,0,0,0.0,1,1,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,3.5,1
+Vijay Zol,2014,Royal Challengers Bangalore,0.3,0.3,sold,Batsman,Indian,VH Zol,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ankush Bains,2014,Rajasthan Royals,0.1,0.1,sold,Wicket Keeper,Indian,Ankush Bains,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manvinder Bisla,2014,Kolkata Knight Riders,0.3,0.6,sold,Wicket Keeper,Indian,MS Bisla,758,698,108.6,22.72,87,22,59.83,4,36,468,111.69,0,0,0.0,0.0,0,0,0.0,4,1,2.0,1
+Debabrata Das,2014,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian,DB Das,304,267,113.86,52.72,23,16,62.63,3,22,201,116.86,0,0,0.0,0.0,0,0,0.0,3,0,1.0,1
+Ben Dunk,2014,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Overseas,BR Dunk,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+CM Gautam,2014,Mumbai Indians,0.2,0.2,sold,,,CM Gautam,44,37,118.92,22.0,4,1,50.0,1,3,44,118.92,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Sushant Marathe,2014,Mumbai Indians,0.1,0.1,sold,Wicket Keeper,Indian,Sushant Marathe,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Yogesh Takawale,2014,Royal Challengers Bangalore,0.1,0.1,sold,Wicket Keeper,Indian,YV Takawale,88,91,96.7,26.5,9,2,50.79,2,5,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Aditya Tare,2014,Mumbai Indians,0.2,1.6,sold,Wicket Keeper,Indian,AP Tare,173,125,138.4,18.55,19,8,72.96,2,9,123,146.43,0,0,0.0,0.0,0,0,0.0,2,1,8.0,1
+Iqbal Abdullah,2014,Rajasthan Royals,0.3,0.65,sold,All-Rounder,Indian,Iqbal Abdullah,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.17,0
+Rajat Bhatia,2014,Rajasthan Royals,0.3,1.7,sold,All-Rounder,Indian,R Bhatia,225,197,114.21,11.21,19,7,53.28,6,33,134,120.72,61,1148,7.43,25.83,6,28,7.48,6,1,5.67,1
+Kevon Cooper,2014,Rajasthan Royals,0.3,0.3,sold,All-Rounder,Overseas,KK Cooper,77,42,183.33,14.38,7,5,75.37,2,9,77,183.33,32,490,7.87,19.71,2,32,7.87,2,1,1.0,1
+Rishi Dhawan,2014,Kings XI Punjab,0.2,3.0,sold,All-Rounder,Indian,R Dhawan,21,21,100.0,7.0,3,0,57.14,1,4,21,100.0,2,95,7.26,57.5,1,2,7.26,1,0,15.0,1
+Mithun Manhas,2014,Chennai Super Kings,0.3,0.3,sold,All-Rounder,Indian,M Manhas,479,460,104.13,23.73,40,9,42.85,5,33,133,114.66,0,42,6.0,0.0,1,0,0.0,5,0,1.0,1
+Parvez Rasool,2014,Sunrisers Hyderabad,0.2,0.95,sold,,,Parvez Rasool,5,9,55.56,5.0,0,0,0.0,1,2,5,55.56,1,30,5.8,29.0,1,1,5.8,1,0,4.75,1
+Mandeep Singh,2014,Kings XI Punjab,0.3,0.8,sold,,,Mandeep Singh,743,630,117.94,14.85,94,8,65.25,4,37,692,119.93,0,0,0.0,0.0,0,0,0.0,4,2,2.67,1
+Ryan Ten Doeschate,2014,Kolkata Knight Riders,1.0,1.0,sold,All-Rounder,Overseas,RN ten Doeschate,213,160,133.12,24.83,19,8,55.26,3,10,106,126.19,1,46,7.17,24.0,3,1,7.38,3,0,1.0,1
+Abu Nechim Ahmed,2014,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Indian,AN Ahmed,22,21,104.76,11.0,1,1,27.78,2,2,0,0.0,10,197,8.1,20.21,4,3,6.76,4,0,1.0,1
+Jasprit Bumrah,2014,Mumbai Indians,0.2,1.2,sold,Bowler,Indian,JJ Bumrah,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3,45,9.87,24.67,1,3,9.87,1,0,6.0,1
+Siddarth Kaul,2014,Delhi Daredevils,0.2,0.45,sold,Bowler,Indian,S Kaul,7,9,77.78,7.0,0,0,0.0,1,1,7,77.78,5,133,7.76,34.4,1,5,7.76,1,0,2.25,1
+Dhawal Kulkarni,2014,Rajasthan Royals,0.3,1.1,sold,Bowler,Indian,DS Kulkarni,23,44,52.27,4.62,2,0,20.0,4,6,10,200.0,39,676,7.67,26.03,6,14,7.57,6,0,3.67,1
+Ishwar Pandey,2014,Chennai Super Kings,0.1,1.5,sold,,,IC Pandey,0,2,0.0,0.0,0,0,0.0,1,1,0,0.0,1,25,12.0,50.0,1,1,12.0,1,0,15.0,1
+Prasanth Parameswaran,2014,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Indian,P Parameswaran,1,3,33.33,0.5,0,0,0.0,2,2,0,0.0,9,159,8.53,26.02,2,5,8.61,2,1,1.0,1
+Sandeep Sharma,2014,Kings XI Punjab,0.3,0.85,sold,Bowler,Indian,Sandeep Sharma,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,8,98,7.96,16.25,1,8,7.96,1,0,2.83,1
+Rahul Shukla,2014,Delhi Daredevils,0.2,0.4,sold,Bowler,Indian,R Shukla,1,2,50.0,1.0,0,0,0.0,1,1,1,50.0,4,72,9.33,20.0,2,4,9.33,2,0,2.0,1
+Anureet Singh,2014,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian,Anureet Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,34,8.29,23.5,1,0,0.0,1,0,1.0,1
+Shreyas Gopal,2014,Mumbai Indians,0.1,0.1,sold,Bowler,Indian,S Gopal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shadab Jakati,2014,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian,SB Jakati,27,28,96.43,8.5,3,0,30.0,2,4,7,58.33,48,924,7.79,26.2,4,10,8.15,4,1,1.0,1
+Shahbaz Nadeem,2014,Delhi Daredevils,0.3,0.85,sold,Bowler,Indian,S Nadeem,14,30,46.67,0.93,1,0,9.52,3,8,14,48.28,21,657,6.66,35.19,3,17,6.46,3,1,2.83,1
+Pawan Negi,2014,Chennai Super Kings,0.1,0.1,sold,Bowler,Indian,P Negi,36,30,120.0,18.0,4,1,61.11,1,4,36,120.0,7,159,6.83,21.86,2,7,6.83,2,1,1.0,1
+Karn Sharma,2014,Sunrisers Hyderabad,0.3,3.75,sold,Bowler,Indian,KV Sharma,86,92,93.48,9.0,6,2,21.18,2,8,85,95.51,12,211,6.68,19.58,1,12,6.68,2,0,12.5,1
+Yuzvendra Chahal,2014,Royal Challengers Bangalore,0.1,0.1,sold,,,YS Chahal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,24,8.75,0.0,1,0,8.75,1,0,1.0,1
+Kuldeep Yadav,2014,Kolkata Knight Riders,0.1,0.4,sold,Bowler,Indian,Kuldeep Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Pravin Tambe,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian,PV Tambe,3,6,50.0,3.0,0,0,0.0,1,1,3,50.0,1,69,7.91,91.0,1,1,7.91,1,0,1.0,1
+Karun Nair,2014,Rajasthan Royals,0.1,0.75,sold,Batsman,Indian,KK Nair,9,12,75.0,4.5,0,0,0.0,1,2,9,75.0,0,0,0.0,0.0,0,0,0.0,1,0,7.5,1
+Apoorv Vijay Wankhade,2014,Mumbai Indians,0.1,0.1,sold,Batsman,Indian,Apoorv Vijay Wankhade,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Amit Paunikar,2014,Sunrisers Hyderabad,0.2,0.2,sold,Wicket Keeper,Indian,AG Paunikar,49,61,80.33,6.12,9,0,36.73,2,5,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Dishant Yagnik,2014,Rajasthan Royals,0.3,0.3,sold,Wicket Keeper,Indian,DH Yagnik,166,136,122.06,19.62,23,2,56.33,3,16,150,132.74,0,0,0.0,0.0,0,0,0.0,3,0,1.0,1
+Akshar Patel,2014,Kings XI Punjab,0.2,0.75,sold,,,AR Patel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.75,0
+Jalaj Saxena,2014,Mumbai Indians,0.2,0.9,sold,All-Rounder,Indian,Jalaj S Saxena,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.5,0
+Vijay Shankar,2014,Chennai Super Kings,0.1,0.1,sold,All-Rounder,Indian,V Shankar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Beuran Hendricks,2014,Kings XI Punjab,0.3,1.8,sold,Bowler,Overseas,BE Hendricks,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.0,0
+Vikramjeet Malik,2014,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,VS Malik,6,5,120.0,6.0,1,0,66.67,1,1,0,0.0,5,193,7.43,48.5,4,2,5.8,4,0,1.0,1
+Ronit More,2014,Chennai Super Kings,0.1,0.1,sold,Bowler,Indian,RG More,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Harshal Patel,2014,Royal Challengers Bangalore,0.3,0.4,sold,Bowler,Indian,HV Patel,15,17,88.24,7.5,1,0,26.67,1,3,15,88.24,9,249,8.48,39.11,1,9,8.48,1,0,1.33,1
+Veer Pratap Singh,2014,Kolkata Knight Riders,0.2,0.4,sold,Bowler,Indian,V Pratap Singh,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,12,211,8.53,25.0,1,12,8.53,1,0,2.0,1
+Ashish Reddy,2014,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian,A Ashish Reddy,160,120,133.33,14.79,11,6,50.51,2,15,160,133.33,14,210,8.83,22.65,2,14,8.83,2,0,1.0,1
+Pawan Suyal,2014,Mumbai Indians,0.1,0.1,sold,Bowler,Indian,P Suyal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,19,6.95,22.0,1,1,6.95,1,0,1.0,1
+Sandeep Warrier,2014,Royal Challengers Bangalore,0.1,0.1,sold,Bowler,Indian,S Sandeep Warrier,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ankit Nagendra Sharma,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian,Ankit Sharma,18,13,138.46,6.0,0,2,66.67,1,4,18,138.46,4,159,6.94,41.75,2,4,6.94,2,0,1.0,1
+Ricky Bhui,2014,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Overseas,RK Bhui,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rahul Tewatia,2014,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian,R Tewatia,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jayant Yadav,2014,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian,J Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Amit Mishra,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian,A Mishra,275,292,94.18,13.06,25,3,41.14,6,35,105,84.68,101,1703,6.89,19.65,6,37,7.0,6,8,1.0,1
+Sachin Rana,2014,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian,S Rana,18,16,112.5,18.0,2,0,44.44,1,1,0,0.0,0,4,3.0,0.0,1,0,0.0,1,0,1.0,1
+HS Sharath,2014,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian,HS Sharath,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shivam Sharma,2014,Kings XI Punjab,0.1,0.1,sold,Bowler,Indian,Shivam Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Deepak Hooda,2014,Rajasthan Royals,0.1,0.4,sold,Bowler,Indian,DJ Hooda,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Chama Milind,2014,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian,Chama Milind,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shardul Thakur,2014,Kings XI Punjab,0.1,0.2,sold,Bowler,Indian,SN Thakur,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.0,0
+Tanmay Mishra,2014,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian,Tanmay Mishra,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sayan Sekhar Mondal,2014,Kolkata Knight Riders,0.1,0.1,sold,,,Sayan Sekhar Mondal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Karanveer Singh,2014,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian,Karanveer Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Milind Kumar,2014,Delhi Daredevils,0.1,0.1,sold,Batsman,Indian,Milind Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Michael Hussey,2015,Chennai Super Kings,1.5,1.5,sold,Batsman,Overseas,MEK Hussey,1900,1575,120.63,37.19,193,49,51.99,6,54,942,122.82,0,0,0.0,0.0,0,0,0.0,6,12,1.0,1
+Irfan Pathan,2015,Chennai Super Kings,1.5,1.5,sold,All-Rounder,Indian,IK Pathan,1137,968,117.46,22.57,88,38,49.52,7,78,208,95.85,97,2053,7.67,29.82,7,17,7.84,7,2,1.0,1
+Rahul Sharma,2015,Chennai Super Kings,0.3,0.3,sold,Bowler,Indian,R Sharma,66,77,85.71,6.5,5,3,41.27,4,19,11,64.71,42,935,7.06,34.98,5,10,7.36,5,2,1.0,1
+Kyle Abbott,2015,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas,KJ Abbott,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Andrew Tye,2015,Chennai Super Kings,0.2,0.2,sold,Bowler,Overseas,AJ Tye,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pratyush Singh,2015,Chennai Super Kings,0.1,0.1,sold,All-Rounder,Indian,Pratyush Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ankush Bains,2015,Chennai Super Kings,0.1,0.1,sold,Wicket Keeper,Indian,Ankush Bains,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Eklavya Dwivedi,2015,Chennai Super Kings,0.1,0.1,sold,Wicket Keeper,Indian,ER Dwivedi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Yuvraj Singh,2015,Delhi Daredevils,2.0,16.0,sold,Batsman,Indian,Yuvraj Singh,1855,1464,126.71,28.4,130,110,63.61,6,82,614,127.65,36,764,7.21,26.07,6,12,7.54,6,4,8.0,1
+Angelo Mathews,2015,Delhi Daredevils,1.5,7.5,sold,All-Rounder,Overseas,AD Mathews,548,462,118.61,23.62,30,22,45.66,4,29,172,121.99,21,591,8.01,36.11,4,6,7.82,4,1,5.0,1
+Zaheer Khan,2015,Delhi Daredevils,1.0,4.0,sold,Bowler,Indian,Z Khan,107,115,93.04,8.83,10,2,44.75,6,22,8,114.29,87,1604,7.62,22.2,7,11,6.92,7,0,4.0,1
+Amit Mishra,2015,Delhi Daredevils,0.1,3.5,sold,Bowler,Indian,A Mishra,279,299,93.31,11.76,25,3,35.26,7,37,93,84.55,109,1933,7.13,22.95,7,32,7.3,7,8,35.0,1
+Shreyas Iyer,2015,Delhi Daredevils,0.1,2.6,sold,Batsman,Indian,SS Iyer,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,26.0,0
+Gurinder Sandhu,2015,Delhi Daredevils,0.3,1.7,sold,Bowler,Indian,GS Sandhu,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.67,0
+Jaydev Unadkat,2015,Delhi Daredevils,0.5,1.1,sold,Bowler,Indian,JD Unadkat,3,8,37.5,1.5,0,0,0.0,2,4,3,37.5,33,679,8.12,25.73,5,23,8.0,5,2,2.2,1
+Domnic Joseph,2015,Delhi Daredevils,0.1,0.75,sold,,,Domnic Joseph,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.5,0
+Albie Morkel,2015,Delhi Daredevils,0.3,0.3,sold,All-Rounder,Overseas,Albie Morkel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Marcus Stoinis,2015,Delhi Daredevils,0.2,0.25,sold,All-Rounder,Overseas,MP Stoinis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.25,0
+CM Gautam,2015,Delhi Daredevils,0.2,0.2,sold,,,CM Gautam,165,153,107.84,21.08,17,6,58.88,2,12,165,107.84,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Srikar Bharat,2015,Delhi Daredevils,0.1,0.1,sold,,,Srikar Bharat,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+KK Jiyas,2015,Delhi Daredevils,0.1,0.1,sold,,,KK Jiyas,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Murali Vijay,2015,Kings XI Punjab,0.5,3.0,sold,Batsman,Indian,M Vijay,1807,1486,121.6,24.59,160,71,56.43,6,74,519,105.92,0,6,13.0,0.0,1,0,13.0,6,6,6.0,1
+Nikhil Naik,2015,Kings XI Punjab,0.1,0.3,sold,,,NS Naik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.0,0
+Yogesh Golwalkar,2015,Kings XI Punjab,0.1,0.1,sold,,,Yogesh Golwalkar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+KC Cariappa,2015,Kolkata Knight Riders,0.1,2.4,sold,,,KC Cariappa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,24.0,0
+James Neesham,2015,Kolkata Knight Riders,0.3,0.5,sold,All-Rounder,Overseas,JDS Neesham,42,46,91.3,14.0,3,1,42.86,1,3,42,91.3,1,57,10.11,96.0,1,1,10.11,1,0,1.67,1
+Brad Hogg,2015,Kolkata Knight Riders,0.5,0.5,sold,Bowler,Overseas,Brad Hogg,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aditya Garhwal,2015,Kolkata Knight Riders,0.1,0.25,sold,All-Rounder,Indian,Aditya Garhwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.5,0
+Sheldon Jackson,2015,Kolkata Knight Riders,0.1,0.15,sold,Batsman,Indian,SP Jackson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Sumit Narwal,2015,Kolkata Knight Riders,0.1,0.1,sold,All-Rounder,Indian,S Narwal,37,29,127.59,13.83,6,0,63.35,2,4,23,143.75,6,113,10.78,31.0,2,0,7.29,2,0,1.0,1
+Vaibhav Rawal,2015,Kolkata Knight Riders,0.1,0.1,sold,All-Rounder,Indian,Vaibhav Rawal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aaron Finch,2015,Mumbai Indians,1.0,3.2,sold,Batsman,Overseas,AJ Finch,888,736,120.65,23.18,96,29,55.32,5,36,765,125.0,1,44,9.14,49.0,3,1,12.25,5,2,3.2,1
+Pragyan Ojha,2015,Mumbai Indians,0.5,0.5,sold,Bowler,Indian,PP Ojha,16,45,35.56,2.22,0,0,0.0,6,19,6,50.0,99,1933,7.38,29.8,7,23,7.76,7,1,1.0,1
+Abhimanyu Mithun,2015,Mumbai Indians,0.3,0.3,sold,Bowler,Indian,A Mithun,34,26,130.77,5.33,4,1,48.89,3,6,2,100.0,8,312,9.17,43.39,5,1,8.88,5,0,1.0,1
+Mitchell McClenaghan,2015,Mumbai Indians,0.3,0.3,sold,Bowler,Overseas,MJ McClenaghan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aiden Blizzard,2015,Mumbai Indians,0.3,0.3,sold,Batsman,Overseas,AC Blizzard,120,91,131.87,10.0,21,2,40.0,2,7,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Hardik Pandya,2015,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian,HH Pandya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akshay Wakhare,2015,Mumbai Indians,0.1,0.1,sold,Bowler,Indian,Akshay Wakhare,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nitish Rana,2015,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian,N Rana,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Siddhesh Lad,2015,Mumbai Indians,0.1,0.1,sold,,,SD Lad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jagadeesha Suchith,2015,Mumbai Indians,0.1,0.1,sold,,,J Suchith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Morris,2015,Rajasthan Royals,0.5,1.4,sold,,,CH Morris,14,17,82.35,7.0,0,0,0.0,1,6,14,82.35,17,309,7.96,24.12,1,17,7.96,1,0,2.8,1
+Rusty Theron,2015,Rajasthan Royals,0.3,0.3,sold,,,Rusty Theron,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Barinder Sran,2015,Rajasthan Royals,0.1,0.1,sold,,,BB Sran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dinesh Salunkhe,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian,D Salunkhe,33,24,137.5,33.0,5,0,60.61,1,3,0,0.0,1,51,9.41,80.0,1,0,0.0,1,0,1.0,1
+Sagar Trivedi,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian,SK Trivedi,42,61,68.85,4.03,3,1,15.0,6,14,3,42.86,73,1557,7.49,26.6,6,12,6.93,6,2,1.0,1
+Pardeep Sahu,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian,P Sahu,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dinesh Karthik,2015,Royal Challengers Bangalore,2.0,10.5,sold,Wicket Keeper,Indian,Dinesh Karthik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.25,0
+Darren Sammy,2015,Royal Challengers Bangalore,1.0,2.8,sold,All-Rounder,Overseas,DJG Sammy,282,233,121.03,22.21,15,18,59.51,2,18,282,121.03,14,226,8.71,34.18,2,14,8.71,2,1,2.8,1
+David Wiese,2015,Royal Challengers Bangalore,0.3,2.8,sold,All-Rounder,Overseas,D Wiese,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.33,0
+Sean Abbott,2015,Royal Challengers Bangalore,0.5,1.0,sold,Bowler,Overseas,SA Abbott,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.0,0
+Adam Milne,2015,Royal Challengers Bangalore,0.3,0.7,sold,Bowler,Overseas,AF Milne,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.33,0
+Sarfaraz Khan,2015,Royal Challengers Bangalore,0.1,0.5,sold,,,SN Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.0,0
+Subramaniam Badrinath,2015,Royal Challengers Bangalore,0.3,0.3,sold,Batsman,Indian,S Badrinath,1441,1245,115.74,31.59,154,28,53.76,6,65,124,100.81,0,0,0.0,0.0,0,0,0.0,6,1,1.0,1
+Jalaj Saxena,2015,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian,Jalaj S Saxena,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shishir Bhavane,2015,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian,Shishir Bhavane,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Trent Boult,2015,Sunrisers Hyderabad,0.5,3.8,sold,Bowler,Overseas,TA Boult,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.6,0
+Praveen Kumar,2015,Sunrisers Hyderabad,0.5,2.2,sold,Bowler,Indian,P Kumar,291,262,111.07,9.19,18,17,40.73,7,45,48,111.63,79,1980,7.4,30.29,7,17,6.67,7,1,4.4,1
+Kevin Pietersen,2015,Sunrisers Hyderabad,2.0,2.0,sold,Batsman,Overseas,KP Pietersen,928,697,133.14,38.68,87,37,58.84,4,32,294,123.01,9,180,7.27,32.09,3,0,0.0,4,3,1.0,1
+Eoin Morgan,2015,Sunrisers Hyderabad,1.5,1.5,sold,Batsman,Overseas,EJG Morgan,479,404,118.56,19.83,47,17,54.89,3,26,307,122.8,0,0,0.0,0.0,0,0,0.0,3,0,1.0,1
+Ravi Bopara,2015,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Indian,RS Bopara,386,347,111.24,27.0,33,10,50.6,2,14,0,0.0,5,90,9.13,26.4,2,0,0.0,2,1,1.0,1
+Kane Williamson,2015,Sunrisers Hyderabad,0.5,0.6,sold,All-Rounder,Overseas,KS Williamson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.2,0
+Laxmi Ratan Shukla,2015,Sunrisers Hyderabad,0.3,0.3,sold,All-Rounder,Indian,LR Shukla,405,358,113.13,12.68,33,16,48.03,7,33,34,66.67,17,326,8.43,33.23,6,2,8.68,7,1,1.0,1
+Padmanabhan Prasanth,2015,Sunrisers Hyderabad,0.1,0.1,sold,,,P Prasanth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,6,18.0,0.0,1,0,0.0,1,0,1.0,1
+Hanuma Vihari,2015,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian,Hanuma Vihari,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Siddarth Kaul,2015,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian,S Kaul,9,11,81.82,4.5,0,0,0.0,2,2,9,81.82,7,215,8.6,51.2,2,7,8.6,2,0,1.0,1
+Kevin Pietersen,2016,Rising Pune Supergiant,2.0,3.0,sold,Batsman,Overseas,KP Pietersen,928,697,133.14,38.68,87,37,58.84,4,32,294,123.01,9,180,7.27,32.09,3,0,0.0,4,3,1.5,1
+Dwayne Smith,2016,Gujarat Lions,0.5,2.3,sold,All-Rounder,Overseas,DR Smith,1822,1419,128.4,27.65,178,93,64.74,7,65,965,125.98,17,362,8.62,40.65,7,5,9.41,7,8,4.6,1
+Ishant Sharma,2016,Rising Pune Supergiant,2.0,3.8,sold,Bowler,Indian,I Sharma,37,46,80.43,6.5,2,1,24.72,4,14,0,0.0,56,1502,7.79,52.2,7,4,10.01,7,2,1.9,1
+Shane Watson,2016,Royal Challengers Bangalore,2.0,9.5,sold,All-Rounder,Overseas,SR Watson,2378,1734,137.14,36.79,238,109,67.94,7,76,593,124.84,72,1436,7.33,26.13,7,15,8.11,7,9,4.75,1
+Ashish Nehra,2016,Sunrisers Hyderabad,2.0,5.5,sold,Bowler,Indian,A Nehra,40,62,64.52,6.46,3,1,16.21,6,16,1,14.29,100,1681,7.63,21.91,7,33,7.48,7,5,2.75,1
+Yuvraj Singh,2016,Sunrisers Hyderabad,2.0,7.0,sold,All-Rounder,Indian,Yuvraj Singh,2103,1679,125.25,27.06,153,120,63.28,7,95,624,124.06,37,819,7.27,33.06,7,7,8.18,7,4,3.5,1
+Dale Steyn,2016,Gujarat Lions,1.5,2.3,sold,Bowler,Overseas,DW Steyn,165,159,103.77,8.44,14,3,33.13,8,31,42,107.69,100,2146,6.59,27.19,8,15,8.02,8,5,1.53,1
+Sanju Samson,2016,Delhi Daredevils,2.0,4.2,sold,Wicket Keeper,Indian,SV Samson,749,625,119.84,24.08,60,30,55.32,3,34,543,121.75,0,0,0.0,0.0,0,0,0.0,3,1,2.1,1
+Jos Buttler,2016,Mumbai Indians,1.5,3.8,sold,Wicket Keeper,Overseas,JC Buttler,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.53,0
+Dinesh Karthik,2016,Gujarat Lions,2.0,2.3,sold,Wicket Keeper,Indian,Dinesh Karthik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.15,0
+Irfan Pathan,2016,Rising Pune Supergiant,1.0,1.0,sold,All-Rounder,Indian,IK Pathan,1137,968,117.46,22.57,88,38,49.52,7,78,55,94.83,97,2053,7.67,29.82,7,6,8.71,7,2,1.0,1
+Chris Morris,2016,Delhi Daredevils,0.5,7.0,sold,,,CH Morris,90,64,140.62,22.5,3,5,27.63,2,13,76,161.7,32,579,7.73,23.26,2,15,7.47,2,0,14.0,1
+Colin Munro,2016,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas,C Munro,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Stuart Binny,2016,Royal Challengers Bangalore,2.0,2.0,sold,All-Rounder,Indian,STR Binny,625,501,124.75,22.1,48,22,48.31,6,44,197,103.14,22,413,7.29,20.85,6,12,7.21,6,0,1.0,1
+Mitchell Marsh,2016,Rising Pune Supergiant,2.0,4.8,sold,All-Rounder,Overseas,MR Marsh,218,190,114.74,19.67,9,14,49.24,3,13,0,0.0,16,272,8.27,28.45,3,0,0.0,3,1,2.4,1
+Dhawal Kulkarni,2016,Gujarat Lions,2.0,2.3,sold,Bowler,Indian,DS Kulkarni,62,83,74.7,9.25,3,2,20.95,6,10,39,100.0,58,1070,7.74,27.02,8,19,7.86,8,0,1.15,1
+John Hastings,2016,Kolkata Knight Riders,1.0,1.3,sold,Bowler,Overseas,JW Hastings,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,19,9.16,29.0,1,1,9.16,1,0,1.3,1
+Praveen Kumar,2016,Gujarat Lions,0.5,3.5,sold,Bowler,Indian,P Kumar,308,287,107.32,9.11,19,17,38.58,8,49,18,66.67,86,2210,7.55,32.54,8,11,8.3,8,1,7.0,1
+Tim Southee,2016,Mumbai Indians,1.0,2.5,sold,Bowler,Overseas,TG Southee,17,13,130.77,8.5,2,0,65.38,2,3,17,130.77,13,357,8.4,35.04,3,9,8.39,3,0,2.5,1
+Mohit Sharma,2016,Kings XI Punjab,1.5,6.5,sold,Bowler,Indian,MM Sharma,29,26,111.54,5.0,1,2,19.05,3,8,29,138.1,62,985,7.71,21.76,3,41,8.36,3,1,4.33,1
+Carlos Brathwaite,2016,Delhi Daredevils,0.3,4.2,sold,All-Rounder,Overseas,CR Brathwaite,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,14.0,0
+Marcus Stoinis,2016,Kings XI Punjab,0.3,0.55,sold,All-Rounder,Overseas,MP Stoinis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.83,0
+Mustafizur Rahman,2016,Sunrisers Hyderabad,0.5,1.4,sold,Bowler,Overseas,Mustafizur Rahman,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.8,0
+Jaydev Unadkat,2016,Kolkata Knight Riders,0.3,1.6,sold,Bowler,Indian,JD Unadkat,3,8,37.5,1.5,0,0,0.0,2,4,1,16.67,33,697,8.17,25.73,6,10,8.93,6,2,5.33,1
+Kyle Abbott,2016,Kings XI Punjab,0.3,2.1,sold,Bowler,Overseas,KJ Abbott,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.0,0
+Barinder Sran,2016,Sunrisers Hyderabad,0.5,1.2,sold,,,BB Sran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,20,10.8,0.0,1,0,10.8,1,0,2.4,1
+Abhimanyu Mithun,2016,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Indian,A Mithun,34,26,130.77,5.33,4,1,48.89,3,6,0,0.0,8,312,9.17,43.39,5,0,0.0,5,0,1.0,1
+R. P. Singh,2016,Rising Pune Supergiant,0.3,0.3,sold,,,RP Singh,52,78,66.67,3.18,2,1,10.37,5,28,0,0.0,97,1798,7.69,24.86,6,0,0.0,6,1,1.0,1
+Travis Head,2016,Royal Challengers Bangalore,0.3,0.5,sold,Batsman,Overseas,TM Head,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.67,0
+Sachin Baby,2016,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian,Sachin Baby,3,7,42.86,3.0,0,0,0.0,1,1,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Karun Nair,2016,Delhi Daredevils,0.1,4.0,sold,Batsman,Indian,KK Nair,520,396,131.31,17.53,56,14,39.59,3,25,511,133.07,0,0,0.0,0.0,0,0,0.0,3,1,40.0,1
+Paras Dogra,2016,Gujarat Lions,0.1,4.0,sold,Batsman,Indian,P Dogra,127,141,90.07,8.61,4,5,14.33,3,12,0,0.0,0,0,0.0,0.0,0,0,0.0,3,0,40.0,1
+Ishan Kishan,2016,Gujarat Lions,0.1,0.35,sold,Wicket Keeper,Indian,Ishan Kishan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.5,0
+Rishabh Pant,2016,Delhi Daredevils,0.1,1.9,sold,Wicket Keeper,Indian,RR Pant,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,19.0,0
+Eklavya Dwivedi,2016,Gujarat Lions,0.2,1.0,sold,Wicket Keeper,Indian,ER Dwivedi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.0,0
+Aditya Tare,2016,Sunrisers Hyderabad,0.2,1.2,sold,Wicket Keeper,Indian,AP Tare,313,245,127.76,14.96,36,11,59.89,4,22,140,116.67,0,0,0.0,0.0,0,0,0.0,4,1,6.0,1
+Iqbal Abdulla,2016,Royal Challengers Bangalore,0.1,0.1,sold,,,Iqbal Abdulla,46,52,88.46,7.67,5,0,17.78,6,10,20,100.0,36,754,6.8,27.49,7,4,7.58,7,2,1.0,1
+Deepak Hooda,2016,Sunrisers Hyderabad,0.1,4.2,sold,All-Rounder,Indian,DJ Hooda,151,99,152.53,16.78,6,11,59.6,1,9,151,152.53,1,97,8.1,131.0,1,1,8.1,1,1,42.0,1
+Ankit Sharma,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian,Ankit Sharma,59,50,118.0,10.0,5,3,62.84,3,8,41,110.81,11,293,7.0,30.25,4,7,7.07,4,0,1.0,1
+Pawan Negi,2016,Delhi Daredevils,0.3,8.5,sold,All-Rounder,Indian,P Negi,152,107,142.06,18.67,14,6,60.73,2,13,116,150.65,15,385,8.04,44.95,4,8,8.89,4,2,28.33,1
+Rajat Bhatia,2016,Rising Pune Supergiant,0.3,0.6,sold,All-Rounder,Indian,R Bhatia,292,253,115.42,10.08,23,10,46.31,8,41,67,119.64,74,1410,7.47,25.3,8,13,7.65,8,1,2.0,1
+Pradeep Sangwan,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian,PJ Sangwan,22,32,68.75,4.5,1,0,25.0,4,9,0,0.0,35,702,8.11,30.81,5,0,0.0,5,0,1.0,1
+Nathu Singh,2016,Mumbai Indians,0.1,3.2,sold,Bowler,Indian,NB Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,32.0,0
+Ishwar Pandey,2016,Rising Pune Supergiant,0.2,0.2,sold,,,IC Pandey,0,2,0.0,0.0,0,0,0.0,1,1,0,0.0,19,469,7.79,39.34,3,18,7.55,3,0,1.0,1
+Ankit Rajpoot,2016,Kolkata Knight Riders,0.1,1.5,sold,,,AS Rajpoot,2,6,33.33,2.0,0,0,0.0,1,1,0,0.0,1,25,8.88,37.0,1,0,0.0,1,0,15.0,1
+Pravin Tambe,2016,Gujarat Lions,0.1,0.2,sold,Bowler,Indian,PV Tambe,11,20,55.0,3.67,0,0,0.0,3,5,8,57.14,23,577,7.52,51.16,3,22,7.46,3,2,2.0,1
+Shivil Kaushik,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian,S Kaushik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sarabjit Ladda,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian,S Ladda,0,10,0.0,0.0,0,0,0.0,1,2,0,0.0,5,129,9.49,27.0,3,0,0.0,3,0,1.0,1
+Murugan Ashwin,2016,Rising Pune Supergiant,0.1,4.5,sold,,,M Ashwin,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,45.0,0
+KC Cariappa,2016,Kings XI Punjab,0.1,0.8,sold,,,KC Cariappa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,12,14.0,28.0,1,1,14.0,1,0,8.0,1
+Aaron Finch,2016,Gujarat Lions,1.0,1.0,sold,Batsman,Overseas,AJ Finch,911,769,118.47,20.59,100,29,57.7,6,39,332,110.3,1,44,9.14,49.0,3,0,0.0,6,2,1.0,1
+Sam Billings,2016,Delhi Daredevils,0.3,0.3,sold,Wicket Keeper,Overseas,SW Billings,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tirumalasetti Suman,2016,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian,TL Suman,676,587,115.16,18.69,55,26,61.84,5,39,0,0.0,7,152,7.82,17.0,4,0,0.0,5,1,1.0,1
+Ankush Bains,2016,Rising Pune Supergiant,0.1,0.1,sold,Wicket Keeper,Indian,Ankush Bains,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Umang Sharma,2016,Gujarat Lions,0.1,0.1,sold,Batsman,Indian,Umang Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Peter Handscomb,2016,Rising Pune Supergiant,0.3,0.3,sold,Wicket Keeper,Overseas,PSP Handscomb,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jitesh Sharma,2016,Mumbai Indians,0.1,0.1,sold,Wicket Keeper,Indian,JM Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Armaan Jaffer,2016,Kings XI Punjab,0.1,0.1,sold,Batsman,Indian,Armaan Jaffer,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jason Holder,2016,Kolkata Knight Riders,0.5,0.7,sold,All-Rounder,Overseas,JO Holder,16,12,133.33,16.0,2,1,87.5,1,1,16,133.33,5,145,8.61,39.12,2,1,10.5,2,0,1.4,1
+Thisara Perera,2016,Rising Pune Supergiant,1.0,1.0,sold,All-Rounder,Overseas,Thisara Perera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Cutting,2016,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas,BCJ Cutting,8,6,133.33,8.0,0,1,75.0,1,1,8,133.33,2,24,7.75,15.5,1,2,7.75,1,0,1.0,1
+Andrew Tye,2016,Gujarat Lions,0.3,0.5,sold,All-Rounder,Overseas,AJ Tye,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.67,0
+Praveen Dubey,2016,Royal Challengers Bangalore,0.1,0.35,sold,All-Rounder,Indian,P Dubey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.5,0
+Rajagopal Sathish,2016,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian,R Sathish,246,212,116.04,17.66,21,5,38.61,3,21,0,0.0,4,106,9.85,39.5,3,0,0.0,3,0,1.0,1
+Vijay Shankar,2016,Sunrisers Hyderabad,0.1,0.35,sold,All-Rounder,Indian,V Shankar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,6,19.0,0.0,1,0,19.0,1,0,3.5,1
+Shadab Jakati,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian,SB Jakati,27,28,96.43,8.5,3,0,30.0,2,4,0,0.0,48,946,7.87,26.2,5,0,11.18,5,1,1.0,1
+Akshay Karnewar,2016,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian,Akshay Karnewar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akshdeep Nath,2016,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian,AD Nath,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manan Sharma,2016,Kolkata Knight Riders,0.1,0.1,sold,,,MM Sharma,29,26,111.54,5.0,1,2,19.05,3,8,29,138.1,62,985,7.71,21.76,3,41,8.36,3,1,1.0,1
+Baba Aparajith,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian,Baba Aparajith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Deepak Chahar,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian,DL Chahar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kishore Kamath,2016,Mumbai Indians,0.1,1.4,sold,,,Kishore Kamath,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,14.0,0
+Pardeep Sahu,2016,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian,P Sahu,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Krunal Pandya,2016,Mumbai Indians,0.1,2.0,sold,All-Rounder,Indian,KH Pandya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+Deepak Punia,2016,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian,Deepak Punia,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Swapnil Singh,2016,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian,Swapnil Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Khaleel Ahmed,2016,Delhi Daredevils,0.1,0.1,sold,,,KK Ahmed,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jaydev Shah,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian,Jaydev Shah,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pratyush Singh,2016,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian,Pratyush Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ashok Dinda,2016,Rising Pune Supergiant,0.5,0.5,sold,Bowler,Indian,AB Dinda,19,42,45.24,1.93,1,0,6.35,7,15,4,30.77,67,1332,7.86,28.37,8,5,8.79,8,0,1.0,1
+Kane Richardson,2016,Royal Challengers Bangalore,2.0,2.0,sold,Bowler,Overseas,KW Richardson,35,38,92.11,9.0,2,1,20.59,2,3,1,50.0,12,240,7.8,36.2,2,10,7.51,2,0,1.0,1
+Samuel Badree,2016,Royal Challengers Bangalore,0.5,0.5,sold,Bowler,Overseas,S Badree,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,112,7.39,51.5,2,2,7.1,2,0,1.0,1
+Joel Paris,2016,Delhi Daredevils,0.3,0.3,sold,Bowler,Overseas,Joel Paris,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Scott Boland,2016,Rising Pune Supergiant,0.5,0.5,sold,Bowler,Overseas,SM Boland,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vikramjeet Malik,2016,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian,VS Malik,7,7,100.0,3.5,1,0,33.33,2,2,1,50.0,6,212,7.58,43.62,5,1,9.16,5,0,1.0,1
+Pawan Suyal,2016,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian,P Suyal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,107,8.64,28.5,3,1,9.0,3,0,1.0,1
+Adam Zampa,2016,Rising Pune Supergiant,0.3,0.3,sold,Bowler,Overseas,A Zampa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Amit Mishra,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian,A Mishra,287,312,91.99,10.79,25,3,30.85,8,41,12,60.0,118,2182,7.18,24.41,8,17,8.19,8,8,1.0,1
+Jaskaran Singh,2016,Rising Pune Supergiant,0.1,0.1,sold,Bowler,Indian,Jaskaran Singh,8,11,72.73,4.0,0,0,0.0,1,4,0,0.0,6,111,9.41,23.67,2,0,0.0,2,0,1.0,1
+Chama Milind,2016,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian,Chama Milind,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vikas Tokas,2016,Royal Challengers Bangalore,0.1,0.1,sold,Bowler,Indian,Vikas Tokas,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Farhaan Behardien,2016,Kings XI Punjab,0.3,0.3,sold,All-Rounder,Overseas,F Behardien,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akhil Herwadkar,2016,Delhi Daredevils,0.1,0.1,sold,,,Akhil Herwadkar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mahipal Lomror,2016,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian,MK Lomror,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Eoin Morgan,2017,Kings XI Punjab,2.0,2.0,sold,Batsman,Overseas,EJG Morgan,789,663,119.0,21.49,66,32,53.8,5,41,310,119.69,0,0,0.0,0.0,0,0,0.0,5,1,1.0,1
+Pawan Negi,2017,Royal Challengers Bangalore,0.3,1.0,sold,All-Rounder,Indian,P Negi,209,170,122.94,18.78,16,9,55.69,3,19,173,123.57,17,439,8.2,44.21,5,9,8.68,5,2,3.33,1
+Angelo Mathews,2017,Delhi Daredevils,2.0,2.0,sold,All-Rounder,Overseas,AD Mathews,692,571,121.19,23.01,42,28,48.2,5,39,144,132.11,28,776,8.03,35.97,5,7,8.08,5,1,1.0,1
+Ben Stokes,2017,Rising Pune Supergiants,2.0,14.5,sold,,,BA Stokes,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.25,0
+Corey Anderson,2017,Delhi Daredevils,1.0,1.0,sold,All-Rounder,Overseas,CJ Anderson,379,284,133.45,33.72,32,21,67.92,2,15,114,116.33,5,138,9.61,40.0,2,1,8.25,2,2,1.0,1
+Nicholas Pooran,2017,Mumbai Indians,0.3,0.3,sold,,,N Pooran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kagiso Rabada,2017,Delhi Daredevils,1.0,5.0,sold,Bowler,Overseas,K Rabada,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.0,0
+Trent Boult,2017,Kolkata Knight Riders,1.5,5.0,sold,Bowler,Overseas,TA Boult,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,11,207,8.06,31.45,2,11,8.06,2,1,3.33,1
+Tymal Mills,2017,Royal Challengers Bangalore,0.5,12.0,sold,Bowler,Overseas,TS Mills,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,24.0,0
+Pat Cummins,2017,Delhi Daredevils,2.0,4.5,sold,Bowler,Overseas,PJ Cummins,0,2,0.0,0.0,0,0,0.0,1,1,0,0.0,3,90,8.8,58.75,2,1,9.36,2,0,2.25,1
+Mitchell Johnson,2017,Mumbai Indians,2.0,2.0,sold,Bowler,Overseas,MG Johnson,131,140,93.57,9.28,7,6,36.06,4,24,36,69.23,55,1043,7.91,28.39,4,14,9.08,4,2,1.0,1
+Ankit Bawne,2017,Delhi Daredevils,0.1,0.1,sold,,,AR Bawne,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tanmay Agarwal,2017,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian,Tanmay Agarwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammad Nabi,2017,Sunrisers Hyderabad,0.3,0.3,sold,All-Rounder,Overseas,Mohammad Nabi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+K Gowtham,2017,Mumbai Indians,0.1,2.0,sold,,,K Gowtham,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+Rahul Tewatia,2017,Kings XI Punjab,0.1,0.25,sold,All-Rounder,Indian,R Tewatia,16,13,123.08,16.0,0,1,37.5,1,1,0,0.0,5,73,7.4,17.58,2,2,10.33,2,0,2.5,1
+Aditya Tare,2017,Delhi Daredevils,0.2,0.25,sold,Wicket Keeper,Indian,AP Tare,321,260,123.46,12.77,37,11,57.91,5,24,22,66.67,0,0,0.0,0.0,0,0,0.0,5,1,1.25,1
+Eklavya Dwivedi,2017,Sunrisers Hyderabad,0.3,0.75,sold,Wicket Keeper,Indian,ER Dwivedi,24,15,160.0,12.0,2,2,83.33,1,2,24,160.0,0,0,0.0,0.0,0,0,0.0,1,0,2.5,1
+Aniket Choudhary,2017,Royal Challengers Bangalore,0.1,2.0,sold,Bowler,Indian,A Choudhary,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+T Natarajan,2017,Kings XI Punjab,0.1,3.0,sold,Bowler,Indian,T Natarajan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,30.0,0
+Nathu Singh,2017,Gujarat Lions,0.3,0.5,sold,Bowler,Indian,NB Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.67,0
+Basil Thampi,2017,Gujarat Lions,0.1,0.85,sold,Bowler,Indian,Basil Thampi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.5,0
+M Ashwin,2017,Delhi Daredevils,0.1,1.0,sold,,,M Ashwin,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,7,176,8.35,35.0,1,7,8.35,1,0,10.0,1
+Tejas Baroka,2017,Gujarat Lions,0.1,0.1,sold,,,Tejas Baroka,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rashid Khan,2017,Sunrisers Hyderabad,0.5,4.0,sold,,,Rashid Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.0,0
+Pravin Tambe,2017,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian,PV Tambe,18,39,46.15,4.5,1,0,14.29,4,6,10,41.67,28,674,7.71,45.52,4,12,8.17,4,2,1.0,1
+Chris Woakes,2017,Kolkata Knight Riders,2.0,4.2,sold,All-Rounder,Overseas,CR Woakes,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.1,0
+Karn Sharma,2017,Mumbai Indians,0.3,3.2,sold,All-Rounder,Indian,KV Sharma,268,243,110.29,17.07,13,12,38.18,5,28,140,115.7,41,857,7.98,61.86,4,12,9.06,5,0,10.67,1
+Rishi Dhawan,2017,Kolkata Knight Riders,0.3,0.55,sold,All-Rounder,Indian,R Dhawan,153,135,113.33,20.0,13,4,50.47,4,16,50,128.21,20,513,7.66,55.34,4,3,8.08,4,0,1.83,1
+Matt Henry,2017,Kings XI Punjab,0.5,0.5,sold,Bowler,Overseas,MJ Henry,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jaydev Unadkat,2017,Rising Pune Supergiants,0.3,0.3,sold,Bowler,Indian,JD Unadkat,3,8,37.5,1.5,0,0,0.0,2,4,0,0.0,33,716,8.36,25.73,7,0,12.81,7,2,1.0,1
+Varun Aaron,2017,Kings XI Punjab,0.3,2.8,sold,Bowler,Indian,VR Aaron,42,45,93.33,10.5,2,2,35.0,4,7,6,200.0,33,775,8.36,50.26,5,6,9.16,5,1,9.33,1
+Manpreet Gony,2017,Gujarat Lions,0.3,0.6,sold,Bowler,Indian,MS Gony,99,76,130.26,10.42,6,8,40.36,6,15,0,0.0,39,910,8.47,44.16,6,0,0.0,6,1,2.0,1
+Martin Guptill,2017,Kings XI Punjab,0.5,0.5,sold,Batsman,Overseas,MJ Guptill,57,55,103.64,19.0,3,3,52.63,1,3,57,103.64,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Jason Roy,2017,Gujarat Lions,1.0,1.0,sold,Batsman,Overseas,JJ Roy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Saurabh Tiwary,2017,Mumbai Indians,0.3,0.3,sold,Batsman,Indian,SS Tiwary,1224,1065,114.93,33.43,84,45,45.24,8,63,279,120.26,0,0,0.0,0.0,0,0,0.0,8,0,1.0,1
+Chris Jordan,2017,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas,CJ Jordan,3,4,75.0,3.0,0,0,0.0,1,1,3,75.0,13,181,8.82,20.46,1,13,8.82,1,0,1.0,1
+Nathan Coulter-Nile,2017,Kolkata Knight Riders,1.0,3.5,sold,Bowler,Overseas,NM Coulter-Nile,38,40,95.0,8.22,3,2,60.37,3,8,29,85.29,23,408,7.46,23.3,4,20,7.58,4,1,3.5,1
+Praveen Dubey,2017,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian,P Dubey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Navdeep Saini,2017,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian,Navdeep Saini,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Laughlin,2017,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Overseas,B Laughlin,4,9,44.44,4.0,0,0,0.0,1,2,0,0.0,1,45,9.6,72.0,1,0,0.0,1,0,1.0,1
+Billy Stanlake,2017,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Overseas,B Stanlake,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammed Siraj,2017,Sunrisers Hyderabad,0.2,2.6,sold,Bowler,Indian,Mohammed Siraj,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,13.0,0
+Rahul Chahar,2017,Rising Pune Supergiants,0.1,0.1,sold,Bowler,Indian,RD Chahar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Saurabh Kumar,2017,Rising Pune Supergiants,0.1,0.1,sold,Bowler,Indian,Saurabh Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Asela Gunaratne,2017,Mumbai Indians,0.3,0.3,sold,,,Asela Gunaratne,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Daniel Christian,2017,Rising Pune Supergiants,1.0,1.0,sold,All-Rounder,Overseas,DT Christian,341,299,114.05,17.0,17,13,29.32,3,22,0,0.0,20,498,7.87,29.56,3,0,0.0,3,0,1.0,1
+Rovman Powell,2017,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas,R Powell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Darren Sammy,2017,Kings XI Punjab,0.3,0.3,sold,All-Rounder,Overseas,DJG Sammy,295,251,117.53,16.98,15,18,39.68,3,20,13,72.22,14,244,8.7,34.18,3,0,8.67,3,1,1.0,1
+Munaf Patel,2017,Gujarat Lions,0.3,0.3,sold,Bowler,Indian,MM Patel,39,40,97.5,3.4,5,0,12.12,5,11,0,0.0,81,1340,7.5,24.8,6,0,0.0,6,2,1.0,1
+Rinku Singh,2017,Kings XI Punjab,0.1,0.1,sold,Batsman,Indian,RK Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shashank Singh,2017,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian,Shashank Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Milind Tandon,2017,Rising Pune Supergiants,0.1,0.1,sold,All-Rounder,Indian,Milind Tandon,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kulwant Khejroliya,2017,Mumbai Indians,0.1,0.1,sold,Bowler,Indian,K Khejroliya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chirag Suri,2017,Gujarat Lions,0.1,0.1,sold,Batsman,Indian,Chirag Suri,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+R Sanjay Yadav,2017,Kolkata Knight Riders,0.1,0.1,sold,,,R Sanjay Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shelley Shaurya,2017,Gujarat Lions,0.1,0.1,sold,Bowler,Indian,Shelley Shaurya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shubham Agarwal,2017,Gujarat Lions,0.1,0.1,sold,,,SS Agarwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ishank Jaggi,2017,Kolkata Knight Riders,0.1,0.1,sold,Batsman,Indian,IR Jaggi,43,60,71.67,10.75,3,0,21.43,2,5,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Rahul Tripathi,2017,Rising Pune Supergiants,0.1,0.1,sold,,,RA Tripathi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pratham Singh,2017,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian,Pratham Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akshdeep Nath,2017,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian,AD Nath,20,27,74.07,6.67,1,0,20.0,1,3,20,74.07,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Lockie Ferguson,2017,Rising Pune Supergiants,0.5,0.5,sold,Bowler,Overseas,LH Ferguson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manoj Tiwary,2017,Rising Pune Supergiants,0.5,0.5,sold,Batsman,Indian,MK Tiwary,1324,1202,110.15,25.67,121,28,50.67,8,66,57,98.28,1,38,11.53,11.0,4,0,0.0,8,3,1.0,1
+Darren Bravo,2017,Kolkata Knight Riders,0.5,0.5,sold,Batsman,Overseas,DM Bravo,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sayan Ghosh,2017,Kolkata Knight Riders,0.1,0.1,sold,Bowler,Indian,Sayan Ghosh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shikhar Dhawan,2018,Sunrisers Hyderabad,2.0,5.2,sold,Batsman,Indian,S Dhawan,3561,3005,118.5,31.3,401,71,54.75,10,126,980,119.37,4,49,8.82,16.0,2,0,0.0,10,2,2.6,1
+Ravichandran Ashwin,2018,Kings XI Punjab,2.0,7.6,sold,All-Rounder,Overseas,R Ashwin,231,246,93.9,11.76,22,2,38.0,8,36,41,107.89,110,2359,6.49,21.77,8,11,6.93,8,1,3.8,1
+Kieron Pollard,2018,Mumbai Indians,2.0,5.4,sold,All-Rounder,Overseas,KA Pollard,2353,1674,140.56,27.88,158,148,64.11,8,112,602,133.78,67,1276,8.39,33.62,8,0,13.71,8,9,2.7,1
+Ben Stokes,2018,Rajasthan Royals,2.0,12.5,sold,,,BA Stokes,316,227,139.21,28.73,22,15,56.33,1,11,316,139.21,14,274,7.16,23.36,1,14,7.16,1,3,6.25,1
+Faf du Plessis,2018,Chennai Super Kings,1.5,1.6,sold,,,F du Plessis,1295,1043,124.16,28.67,110,38,51.8,5,46,214,121.59,0,6,16.0,0.0,1,0,0.0,5,2,1.07,1
+Ajinkya Rahane,2018,Rajasthan Royals,2.0,4.0,sold,Batsman,Indian,AM Rahane,3057,2602,117.49,29.77,320,60,57.5,9,105,862,120.56,1,6,5.0,5.0,1,0,0.0,9,12,2.0,1
+Mitchell Starc,2018,Kolkata Knight Riders,2.0,9.4,sold,Bowler,Overseas,MA Starc,96,98,97.96,14.0,10,0,39.36,2,11,0,0.0,39,612,7.11,19.28,2,0,0.0,2,1,4.7,1
+Harbhajan Singh,2018,Chennai Super Kings,2.0,2.0,sold,Bowler,Indian,Harbhajan Singh,799,591,135.19,16.28,76,41,66.43,10,82,108,100.0,136,2989,6.93,28.89,10,17,7.36,10,6,1.0,1
+Shakib Al Hasan,2018,Sunrisers Hyderabad,1.0,2.0,sold,All-Rounder,Overseas,Shakib Al Hasan,500,401,124.69,15.15,44,15,44.09,6,32,115,105.5,48,947,7.12,25.92,6,5,8.11,6,2,2.0,1
+Glenn Maxwell,2018,Delhi Daredevils,2.0,9.0,sold,All-Rounder,Overseas,GJ Maxwell,1229,780,157.56,20.11,96,82,59.07,6,55,489,155.24,12,334,8.68,52.62,6,7,7.31,6,5,4.5,1
+Gautam Gambhir,2018,Delhi Daredevils,2.0,2.8,sold,Batsman,Indian,G Gambhir,4132,3433,120.36,31.6,484,58,54.52,10,146,999,120.51,0,0,0.0,0.0,0,0,0.0,10,13,1.4,1
+Dwayne Bravo,2018,Chennai Super Kings,2.0,6.4,sold,All-Rounder,Overseas,DJ Bravo,1262,1032,122.29,20.32,102,48,61.13,9,81,99,112.5,137,2110,8.0,24.25,8,19,8.66,9,2,3.2,1
+Kane Williamson,2018,Sunrisers Hyderabad,1.5,3.0,sold,Batsman,Overseas,KS Williamson,411,325,126.46,34.29,35,11,44.04,3,15,380,128.38,0,6,7.0,0.0,1,0,7.0,3,1,2.0,1
+Yuvraj Singh,2018,Kings XI Punjab,2.0,2.0,sold,All-Rounder,Indian,Yuvraj Singh,2591,2050,126.39,26.47,205,141,64.44,9,116,488,131.54,39,869,7.37,30.37,9,2,9.0,9,5,1.0,1
+Karun Nair,2018,Kings XI Punjab,0.5,5.6,sold,Batsman,Indian,KK Nair,1158,929,124.65,21.33,135,26,48.4,5,50,638,119.7,0,0,0.0,0.0,0,0,0.0,5,3,11.2,1
+KL Rahul,2018,Kings XI Punjab,2.0,11.0,sold,Batsman,Indian,KL Rahul,725,592,122.47,23.79,61,24,56.22,4,30,397,143.32,0,0,0.0,0.0,0,0,0.0,4,0,5.5,1
+David Miller,2018,Kings XI Punjab,1.5,3.0,sold,Batsman,Overseas,DA Miller,1563,1135,137.71,37.01,104,78,53.04,6,64,244,110.41,0,0,0.0,0.0,0,0,0.0,6,3,2.0,1
+Aaron Finch,2018,Kings XI Punjab,1.5,6.2,sold,Batsman,Overseas,AJ Finch,1604,1270,126.3,24.71,170,59,60.01,8,64,693,138.32,1,44,9.14,49.0,3,0,0.0,8,5,4.13,1
+Brendon McCullum,2018,Royal Challengers Bangalore,2.0,3.6,sold,Batsman,Overseas,BB McCullum,2755,2181,126.32,29.16,277,124,66.66,10,103,674,134.8,0,0,0.0,0.0,0,0,0.0,10,5,1.8,1
+Jason Roy,2018,Delhi Daredevils,1.5,1.5,sold,Batsman,Overseas,JJ Roy,59,41,143.9,29.5,9,1,71.19,1,3,59,143.9,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Chris Lynn,2018,Kolkata Knight Riders,2.0,9.6,sold,Batsman,Overseas,CA Lynn,384,260,147.69,27.29,31,23,57.18,4,12,320,161.62,0,0,0.0,0.0,0,0,0.0,4,2,4.8,1
+Manish Pandey,2018,Sunrisers Hyderabad,1.0,11.0,sold,Batsman,Indian,MK Pandey,2223,1901,116.94,31.03,197,65,48.33,10,95,644,127.52,0,0,0.0,0.0,0,0,0.0,10,4,11.0,1
+Chris Woakes,2018,Royal Challengers Bangalore,2.0,7.4,sold,All-Rounder,Overseas,CR Woakes,46,47,97.87,15.33,4,1,47.83,1,7,46,97.87,18,278,8.48,21.83,1,18,8.48,1,0,3.7,1
+Carlos Brathwaite,2018,Sunrisers Hyderabad,1.0,2.0,sold,All-Rounder,Overseas,CR Brathwaite,95,56,169.64,9.92,8,8,76.71,2,8,95,169.64,10,181,8.59,44.17,2,10,8.59,2,1,2.0,1
+Shane Watson,2018,Chennai Super Kings,1.0,4.0,sold,All-Rounder,Overseas,SR Watson,2628,1949,134.84,31.46,258,122,65.48,9,98,250,116.28,100,1961,7.62,28.15,9,28,8.41,9,10,4.0,1
+Kedar Jadhav,2018,Chennai Super Kings,2.0,7.8,sold,All-Rounder,Indian,KM Jadhav,893,684,130.56,26.22,72,33,48.91,7,57,309,136.12,0,0,0.0,0.0,0,0,0.0,7,2,3.9,1
+Colin de Grandhomme,2018,Royal Challengers Bangalore,0.75,2.2,sold,,,C de Grandhomme,126,92,136.96,15.75,10,6,60.32,1,9,126,136.96,4,102,8.0,34.0,1,4,8.0,1,0,2.93,1
+Yusuf Pathan,2018,Sunrisers Hyderabad,0.75,1.9,sold,All-Rounder,Indian,YK Pathan,2922,2076,140.75,30.68,240,149,61.71,10,133,504,132.98,45,1166,7.31,40.43,10,2,7.16,10,16,2.53,1
+Colin Munro,2018,Delhi Daredevils,0.5,1.9,sold,All-Rounder,Overseas,C Munro,30,31,96.77,30.0,3,0,40.0,1,3,30,96.77,0,12,7.5,0.0,1,0,7.5,1,0,3.8,1
+Stuart Binny,2018,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Indian,STR Binny,766,619,123.75,20.49,59,29,51.7,8,56,141,119.49,27,554,7.43,38.32,8,5,7.83,8,0,1.0,1
+Marcus Stoinis,2018,Kings XI Punjab,2.0,6.2,sold,All-Rounder,Overseas,MP Stoinis,163,136,119.85,21.08,14,4,37.79,2,8,163,119.85,11,209,9.01,39.03,2,11,9.01,2,2,3.1,1
+Moeen Ali,2018,Royal Challengers Bangalore,1.5,1.7,sold,All-Rounder,Overseas,MM Ali,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.13,0
+Quinton de Kock,2018,Royal Challengers Bangalore,2.0,2.8,sold,,,Q de Kock,726,566,128.27,25.6,90,21,68.75,4,26,445,130.88,0,0,0.0,0.0,0,0,0.0,4,1,1.4,1
+Wriddhiman Saha,2018,Sunrisers Hyderabad,1.0,5.0,sold,Wicket Keeper,Indian,WP Saha,1557,1219,127.73,26.74,130,57,50.09,10,78,504,123.53,0,0,0.0,0.0,0,0,0.0,10,3,5.0,1
+Dinesh Karthik,2018,Kolkata Knight Riders,2.0,7.4,sold,Wicket Keeper,Indian,Dinesh Karthik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.7,0
+Robin Uthappa,2018,Kolkata Knight Riders,2.0,6.4,sold,Batsman,Indian,RV Uthappa,3778,2960,127.64,28.47,377,125,59.42,10,143,782,145.08,0,0,0.0,0.0,0,0,0.0,10,7,3.2,1
+Sanju Samson,2018,Rajasthan Royals,1.0,8.0,sold,Wicket Keeper,Indian,SV Samson,1426,1165,122.4,25.78,112,57,54.53,5,62,677,125.37,0,0,0.0,0.0,0,0,0.0,5,3,8.0,1
+Ambati Rayudu,2018,Chennai Super Kings,0.5,2.2,sold,Wicket Keeper,Indian,AT Rayudu,2416,1964,123.01,27.23,205,79,53.02,8,105,425,116.76,0,0,0.0,0.0,0,0,0.0,8,7,4.4,1
+Jos Buttler,2018,Rajasthan Royals,1.5,4.4,sold,Wicket Keeper,Overseas,JC Buttler,528,375,140.8,26.76,50,26,67.24,2,24,528,140.8,0,0,0.0,0.0,0,0,0.0,2,1,2.93,1
+Mustafizur Rahman,2018,Mumbai Indians,1.0,2.2,sold,Bowler,Overseas,Mustafizur Rahman,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,19,393,7.04,22.47,2,19,7.04,2,1,2.2,1
+Pat Cummins,2018,Mumbai Indians,2.0,5.4,sold,Bowler,Overseas,PJ Cummins,77,56,137.5,7.7,5,4,28.57,2,9,77,142.59,19,379,8.31,47.35,3,16,8.16,3,0,2.7,1
+Umesh Yadav,2018,Royal Challengers Bangalore,1.0,4.2,sold,Bowler,Indian,UT Yadav,94,95,98.95,11.06,8,3,25.46,8,23,19,100.0,107,2033,8.27,29.67,8,30,8.71,8,6,4.2,1
+Mohammed Shami,2018,Delhi Daredevils,1.0,3.0,sold,,,Mohammed Shami,46,46,100.0,4.38,4,2,19.44,4,13,38,135.71,27,659,8.74,44.9,4,16,9.35,4,1,3.0,1
+Kagiso Rabada,2018,Delhi Daredevils,1.5,4.2,sold,Bowler,Overseas,K Rabada,55,68,80.88,18.33,5,1,47.27,1,3,55,80.88,8,137,8.67,24.75,1,8,8.67,1,0,2.8,1
+Piyush Chawla,2018,Kolkata Knight Riders,1.0,4.2,sold,Bowler,Indian,PP Chawla,515,467,110.28,11.33,49,15,49.54,10,65,29,90.62,133,2594,7.67,25.74,10,18,8.02,10,3,4.2,1
+Imran Tahir,2018,Chennai Super Kings,1.0,1.0,sold,Bowler,Overseas,Imran Tahir,18,25,72.0,3.5,3,0,45.0,4,6,5,55.56,50,734,8.19,21.17,4,24,8.01,4,0,1.0,1
+Karn Sharma,2018,Chennai Super Kings,2.0,5.0,sold,Bowler,Indian,KV Sharma,317,285,111.23,15.58,18,14,42.7,6,34,85,111.84,54,1046,7.78,52.82,5,14,8.12,6,1,2.5,1
+Rashid Khan,2018,Sunrisers Hyderabad,2.0,9.0,sold,,,Rashid Khan,11,9,122.22,5.5,0,1,54.55,1,3,11,122.22,18,328,6.73,20.44,1,18,6.73,1,2,4.5,1
+Amit Mishra,2018,Delhi Daredevils,1.5,4.0,sold,Bowler,Indian,A Mishra,340,382,89.01,13.73,27,5,28.76,10,49,53,75.71,142,2703,7.34,25.48,10,24,8.0,10,9,2.67,1
+Yuzvendra Chahal,2018,Royal Challengers Bangalore,2.0,6.0,sold,,,YS Chahal,15,29,51.72,2.83,0,0,0.0,3,8,13,50.0,72,1219,7.88,23.35,5,36,7.88,5,1,3.0,1
+Kuldeep Yadav,2018,Kolkata Knight Riders,1.5,5.8,sold,Bowler,Indian,Kuldeep Yadav,20,22,90.91,10.0,2,0,40.0,1,2,20,90.91,19,324,8.28,21.66,2,19,8.28,2,0,3.87,1
+Suryakumar Yadav,2018,Mumbai Indians,0.3,3.2,sold,Batsman,Indian,SA Yadav,608,479,126.93,17.66,54,21,44.43,5,42,287,121.1,0,6,8.0,0.0,1,0,0.0,5,1,10.67,1
+Shubman Gill,2018,Kolkata Knight Riders,0.2,1.8,sold,Batsman,Indian,Shubman Gill,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.0,0
+Ishank Jaggi,2018,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian,IR Jaggi,76,100,76.0,18.17,6,0,26.41,3,7,33,82.5,0,0,0.0,0.0,0,0,0.0,3,0,1.0,1
+Ricky Bhui,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Overseas,RK Bhui,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mayank Agarwal,2018,Kings XI Punjab,0.2,1.0,sold,Batsman,Indian,MA Agarwal,814,692,117.63,15.33,82,33,61.71,7,48,53,96.36,0,0,0.0,0.0,0,0,0.0,7,1,5.0,1
+Rahul Tripathi,2018,Rajasthan Royals,0.2,3.4,sold,Batsman,Indian,RA Tripathi,391,275,142.18,32.58,43,17,70.08,1,14,391,142.18,0,6,12.0,0.0,1,0,12.0,1,1,17.0,1
+Manan Vohra,2018,Royal Challengers Bangalore,0.2,1.1,sold,Batsman,Indian,M Vohra,957,750,127.6,25.31,95,35,60.66,5,41,390,127.45,0,0,0.0,0.0,0,0,0.0,5,3,5.5,1
+Prithvi Shaw,2018,Delhi Daredevils,0.2,1.2,sold,Batsman,Indian,PP Shaw,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.0,0
+Rahul Tewatia,2018,Delhi Daredevils,0.2,3.0,sold,All-Rounder,Indian,R Tewatia,35,24,145.83,17.5,4,1,60.86,2,3,19,172.73,8,128,6.61,17.39,3,3,5.56,3,0,15.0,1
+Deepak Hooda,2018,Sunrisers Hyderabad,0.4,3.6,sold,All-Rounder,Indian,DJ Hooda,373,277,134.66,18.62,20,20,53.95,3,30,222,124.72,6,201,8.06,61.44,3,5,8.02,3,1,9.0,1
+Vijay Shankar,2018,Delhi Daredevils,0.4,3.2,sold,All-Rounder,Indian,V Shankar,101,77,131.17,50.5,12,1,53.47,1,4,101,131.17,0,6,19.0,0.0,1,0,0.0,1,0,8.0,1
+Harshal Patel,2018,Delhi Daredevils,0.2,0.2,sold,All-Rounder,Indian,HV Patel,47,38,123.68,6.25,2,3,55.58,3,12,0,0.0,37,707,8.48,34.86,5,5,9.91,5,1,1.0,1
+Kamlesh Nagarkoti,2018,Kolkata Knight Riders,0.2,3.2,sold,All-Rounder,Indian,KL Nagarkoti,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,16.0,0
+Krunal Pandya,2018,Mumbai Indians,0.4,8.8,sold,All-Rounder,Indian,KH Pandya,480,313,153.35,41.06,46,20,63.42,2,19,480,153.35,17,440,7.06,31.0,2,17,7.06,2,4,22.0,1
+Nitish Rana,2018,Kolkata Knight Riders,0.2,3.4,sold,All-Rounder,Indian,N Rana,437,355,123.1,31.21,31,25,66.27,2,15,437,123.1,0,6,3.0,0.0,1,0,3.0,2,2,17.0,1
+D'Arcy Short,2018,Rajasthan Royals,0.2,4.0,sold,,,DJM Short,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+Jofra Archer,2018,Rajasthan Royals,0.4,7.2,sold,All-Rounder,Overseas,JC Archer,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,18.0,0
+Ishan Kishan,2018,Mumbai Indians,0.4,6.2,sold,Wicket Keeper,Indian,Ishan Kishan,319,255,125.1,19.1,34,13,58.83,2,15,319,125.1,0,0,0.0,0.0,0,0,0.0,2,0,15.5,1
+Kulwant Khejroliya,2018,Royal Challengers Bangalore,0.2,0.85,sold,Bowler,Indian,K Khejroliya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.25,0
+Siddharth Kaul,2018,Sunrisers Hyderabad,0.3,3.8,sold,,,S Kaul,9,13,69.23,3.0,0,0,0.0,3,3,0,0.0,23,436,8.41,40.45,3,16,8.23,3,0,12.67,1
+T Natarajan,2018,Sunrisers Hyderabad,0.4,0.4,sold,Bowler,Indian,T Natarajan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,82,8.49,58.0,1,2,8.49,1,0,1.0,1
+Basil Thampi,2018,Sunrisers Hyderabad,0.3,0.95,sold,Bowler,Indian,Basil Thampi,28,30,93.33,28.0,1,1,35.71,1,5,28,93.33,15,278,9.24,28.53,1,15,9.24,1,0,3.17,1
+Aniket Choudhary,2018,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Indian,A Choudhary,25,20,125.0,12.5,1,1,40.0,1,3,25,125.0,5,108,8.0,28.8,1,5,8.0,1,0,1.0,1
+Khaleel Ahmed,2018,Sunrisers Hyderabad,0.2,3.0,sold,,,KK Ahmed,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,15.0,0
+Navdeep Saini,2018,Royal Challengers Bangalore,0.2,3.0,sold,Bowler,Indian,Navdeep Saini,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,15.0,0
+Avesh Khan,2018,Delhi Daredevils,0.2,0.7,sold,Bowler,Indian,Avesh Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,24,6.0,24.0,1,1,6.0,1,0,3.5,1
+Ankit Rajpoot,2018,Kings XI Punjab,0.3,3.0,sold,,,AS Rajpoot,6,13,46.15,3.0,1,0,50.0,2,2,4,57.14,8,184,8.18,32.97,3,7,8.08,3,0,10.0,1
+Rahul Chahar,2018,Mumbai Indians,0.2,1.9,sold,Bowler,Indian,RD Chahar,3,2,150.0,3.0,0,0,0.0,1,1,3,150.0,2,46,7.7,29.5,1,2,7.7,1,0,9.5,1
+Shahbaz Nadeem,2018,Delhi Daredevils,0.4,3.2,sold,Bowler,Indian,S Nadeem,26,71,36.62,1.42,1,0,4.08,7,16,3,21.43,39,1137,7.03,33.77,7,9,7.34,7,1,8.0,1
+Krishnappa Gowtham,2018,Rajasthan Royals,0.2,6.2,sold,Bowler,Indian,K Gowtham,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,31.0,0
+Murugan Ashwin,2018,Royal Challengers Bangalore,0.2,2.2,sold,,,M Ashwin,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,7,176,8.35,35.0,1,7,8.35,1,0,11.0,1
+Evin Lewis,2018,Mumbai Indians,1.5,3.8,sold,Batsman,Overseas,E Lewis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.53,0
+Saurabh Tiwary,2018,Mumbai Indians,0.5,0.8,sold,Batsman,Indian,SS Tiwary,1276,1111,114.85,35.49,93,45,47.9,9,64,222,113.85,0,0,0.0,0.0,0,0,0.0,9,0,1.6,1
+Mandeep Singh,2018,Royal Challengers Bangalore,0.5,1.4,sold,All-Rounder,Indian,Mandeep Singh,1112,938,118.55,15.28,134,18,59.72,7,58,188,105.62,0,0,0.0,0.0,0,0,0.0,7,3,2.8,1
+Manoj Tiwary,2018,Kings XI Punjab,0.5,1.0,sold,Batsman,Indian,MK Tiwary,1648,1444,114.13,26.82,152,39,51.55,9,79,324,133.88,1,38,11.53,11.0,4,0,0.0,9,3,2.0,1
+Washington Sundar,2018,Royal Challengers Bangalore,1.5,3.2,sold,All-Rounder,Indian,Washington Sundar,9,12,75.0,9.0,0,0,0.0,1,5,9,75.0,9,182,6.23,21.0,1,9,6.23,1,1,2.13,1
+Pawan Negi,2018,Royal Challengers Bangalore,0.5,1.0,sold,All-Rounder,Indian,P Negi,353,284,124.3,18.08,26,16,56.0,4,29,201,113.56,34,639,7.53,37.75,6,19,6.76,6,2,2.0,1
+Daniel Christian,2018,Delhi Daredevils,1.0,1.5,sold,All-Rounder,Overseas,DT Christian,420,351,119.66,16.04,22,18,37.81,4,31,79,151.92,32,747,7.68,28.12,4,12,7.3,4,0,1.5,1
+Jayant Yadav,2018,Delhi Daredevils,0.5,0.5,sold,All-Rounder,Indian,J Yadav,6,12,50.0,6.0,0,0,0.0,1,2,6,50.0,4,183,6.46,38.5,3,2,7.15,3,0,1.0,1
+Gurkeerat Singh,2018,Delhi Daredevils,0.5,0.75,sold,,,Gurkeerat Singh,342,280,122.14,16.62,36,9,57.44,4,24,113,129.89,5,82,7.1,18.75,2,2,7.15,4,0,1.5,1
+Ben Cutting,2018,Mumbai Indians,1.0,2.2,sold,All-Rounder,Overseas,BCJ Cutting,124,70,177.14,18.39,9,10,76.5,3,8,116,181.25,9,171,8.21,31.0,3,7,8.29,3,1,2.2,1
+Mohammad Nabi,2018,Sunrisers Hyderabad,0.5,1.0,sold,All-Rounder,Overseas,Mohammad Nabi,2,3,66.67,2.0,0,0,0.0,1,1,2,66.67,2,66,5.36,29.5,1,2,5.36,1,0,2.0,1
+Dhawal Kulkarni,2018,Rajasthan Royals,0.5,0.75,sold,Bowler,Indian,DS Kulkarni,90,101,89.11,8.75,6,2,21.27,8,16,28,155.56,81,1485,7.75,29.21,10,23,7.78,10,0,1.5,1
+Mohit Sharma,2018,Kings XI Punjab,1.5,2.4,sold,Bowler,Indian,MM Sharma,112,104,107.69,6.3,8,4,31.31,5,20,83,106.41,91,1566,8.0,24.52,5,29,8.49,5,2,1.6,1
+Sandeep Sharma,2018,Sunrisers Hyderabad,0.5,3.0,sold,Bowler,Indian,Sandeep Sharma,26,36,72.22,5.2,1,0,8.89,5,11,15,93.75,76,1273,7.65,21.21,5,36,7.65,5,5,6.0,1
+Vinay Kumar,2018,Kolkata Knight Riders,1.0,1.0,sold,,,Vinay Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammed Siraj,2018,Royal Challengers Bangalore,1.0,2.6,sold,Bowler,Indian,Mohammed Siraj,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,10,141,9.11,21.4,1,10,9.11,1,1,2.6,1
+Nathan Coulter-Nile,2018,Royal Challengers Bangalore,1.5,2.2,sold,Bowler,Overseas,NM Coulter-Nile,52,53,98.11,7.33,3,4,66.71,4,11,23,85.19,39,586,7.57,21.54,5,20,7.79,5,4,1.47,1
+Jaydev Unadkat,2018,Rajasthan Royals,1.5,11.5,sold,Bowler,Indian,JD Unadkat,5,13,38.46,1.67,0,0,0.0,3,5,2,40.0,60,995,8.01,23.03,8,27,7.63,8,4,7.67,1
+Trent Boult,2018,Delhi Daredevils,1.5,2.2,sold,Bowler,Overseas,TA Boult,5,8,62.5,5.0,0,0,0.0,1,1,5,62.5,16,355,8.45,35.77,3,6,9.0,3,1,1.47,1
+Shardul Thakur,2018,Chennai Super Kings,0.75,2.6,sold,Bowler,Indian,SN Thakur,7,9,77.78,3.5,1,0,28.57,2,4,0,0.0,14,259,8.29,31.77,2,13,8.01,2,0,3.47,1
+Mujeeb Zadran,2018,Kings XI Punjab,0.5,4.0,sold,Bowler,Overseas,Mujeeb Zadran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.0,0
+Apoorv Wankhade,2018,Kolkata Knight Riders,0.2,0.2,sold,,,Apoorv Wankhade,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rinku Singh,2018,Kolkata Knight Riders,0.2,0.8,sold,Batsman,Indian,RK Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Sachin Baby,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian,Sachin Baby,137,106,129.25,10.6,11,5,36.27,3,10,134,135.35,3,10,4.8,2.67,1,3,4.8,3,0,1.0,1
+Manjot Kalra,2018,Delhi Daredevils,0.2,0.2,sold,Batsman,Indian,Manjot Kalra,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ankit Sharma,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,Ankit Sharma,87,69,126.09,11.6,7,4,48.9,5,10,28,147.37,12,369,7.19,43.69,6,1,7.89,6,0,1.0,1
+Shivam Mavi,2018,Kolkata Knight Riders,0.2,3.0,sold,All-Rounder,Indian,Shivam Mavi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,15.0,0
+Abhishek Sharma,2018,Delhi Daredevils,0.2,0.55,sold,All-Rounder,Indian,Abhishek Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.75,0
+Pradeep Sangwan,2018,Mumbai Indians,0.3,1.5,sold,Bowler,Indian,PJ Sangwan,24,36,66.67,3.8,1,0,20.0,5,12,2,50.0,41,837,8.47,30.75,7,6,10.31,7,0,5.0,1
+Anureet Singh,2018,Rajasthan Royals,0.3,0.3,sold,Bowler,Indian,Anureet Singh,33,43,76.74,10.5,2,1,43.33,2,7,15,125.0,19,406,8.78,32.44,4,1,8.4,4,0,1.0,1
+Narayan Jagadeesan,2018,Chennai Super Kings,0.2,0.2,sold,,,N Jagadeesan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Zahir Khan Pakteen,2018,Rajasthan Royals,0.2,0.6,sold,Bowler,Indian,Zahir Khan Pakteen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.0,0
+Jean-Paul Duminy,2018,Mumbai Indians,1.0,1.0,sold,All-Rounder,Overseas,JP Duminy,1993,1634,121.97,45.49,123,78,47.1,7,73,191,121.66,23,683,7.12,46.63,7,2,7.67,7,4,1.0,1
+Chris Jordan,2018,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Overseas,CJ Jordan,3,5,60.0,1.5,0,0,0.0,2,2,3,60.0,14,188,8.81,15.23,2,14,8.81,2,0,1.0,1
+Mitchell Santner,2018,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas,MJ Santner,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jason Behrendorff,2018,Mumbai Indians,1.0,1.5,sold,Bowler,Overseas,JP Behrendorff,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Barinder Sran,2018,Kings XI Punjab,0.5,2.2,sold,,,BB Sran,4,4,100.0,4.0,0,0,0.0,1,3,4,100.0,14,345,8.43,30.0,3,14,8.29,3,0,4.4,1
+Billy Stanlake,2018,Sunrisers Hyderabad,0.5,0.5,sold,Batsman,Overseas,B Stanlake,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,50,8.4,35.0,1,2,8.4,1,0,1.0,1
+Andrew Tye,2018,Kings XI Punjab,1.0,7.2,sold,Bowler,Overseas,AJ Tye,53,30,176.67,53.0,4,3,64.15,1,3,53,176.67,12,128,6.84,12.17,1,12,6.84,1,2,7.2,1
+Tanmay Agarwal,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian,Tanmay Agarwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Deepak Chahar,2018,Chennai Super Kings,0.2,0.8,sold,All-Rounder,Indian,DL Chahar,14,6,233.33,14.0,0,2,85.71,1,1,14,233.33,1,77,9.12,75.0,2,1,9.12,2,0,4.0,1
+Cameron Delport,2018,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas,Cameron Delport,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tajinder Singh,2018,Mumbai Indians,0.2,0.55,sold,,,Tajinder Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.75,0
+Shreyas Gopal,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,S Gopal,14,27,51.85,4.67,1,0,12.12,3,3,2,12.5,7,116,8.02,20.92,3,0,6.33,3,0,1.0,1
+Akshdeep Nath,2018,Kings XI Punjab,0.2,1.0,sold,All-Rounder,Indian,AD Nath,20,28,71.43,3.33,1,0,10.0,2,4,20,71.43,0,0,0.0,0.0,0,0,0.0,2,0,5.0,1
+Shreevats Goswami,2018,Sunrisers Hyderabad,0.2,1.0,sold,Wicket Keeper,Indian,SP Goswami,241,260,92.69,16.6,26,2,59.47,5,16,0,0.0,0,0,0.0,0.0,0,0,0.0,5,1,5.0,1
+Ben Dwarshuis,2018,Kings XI Punjab,0.2,1.4,sold,Bowler,Overseas,Ben Dwarshuis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.0,0
+KM Asif,2018,Chennai Super Kings,0.2,0.4,sold,,,KM Asif,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.0,0
+Sandeep Lamichhane,2018,Delhi Daredevils,0.2,0.2,sold,Bowler,Overseas,S Lamichhane,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Lungisani Ngidi,2018,Chennai Super Kings,0.5,0.5,sold,Bowler,Overseas,L Ngidi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sharad Lumba,2018,Mumbai Indians,0.2,0.2,sold,Batsman,Indian,Sharad Lumba,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kanishk Seth,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian,Kanishk Seth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dhruv Shorey,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian,DR Shorey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aniruddha Joshi,2018,Royal Challengers Bangalore,0.2,0.2,sold,,,Aniruddha Joshi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sudhesan Midhun,2018,Rajasthan Royals,0.2,0.2,sold,,,S Midhun,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Murali Vijay,2018,Chennai Super Kings,2.0,2.0,sold,Batsman,Indian,M Vijay,2511,2092,120.03,26.65,237,89,57.27,8,99,453,121.45,0,37,7.95,0.0,3,0,6.86,8,6,1.0,1
+Sam Billings,2018,Chennai Super Kings,1.0,1.0,sold,Wicket Keeper,Overseas,SW Billings,226,173,130.64,22.5,23,5,52.44,2,10,226,130.64,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Naman Ojha,2018,Delhi Daredevils,0.75,1.4,sold,Wicket Keeper,Indian,NV Ojha,1553,1356,114.53,20.79,121,79,56.32,9,93,215,101.42,0,0,0.0,0.0,0,0,0.0,9,1,1.87,1
+Parthiv Patel,2018,Royal Challengers Bangalore,1.0,1.7,sold,Wicket Keeper,Indian,PA Patel,2322,2060,112.72,21.15,297,35,59.21,10,116,572,121.96,0,0,0.0,0.0,0,0,0.0,10,4,1.7,1
+Mitchell Johnson,2018,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Overseas,MG Johnson,151,157,96.18,11.42,8,7,38.85,5,26,25,80.65,64,1168,7.82,25.98,5,12,7.89,5,2,1.0,1
+Tim Southee,2018,Royal Challengers Bangalore,1.0,1.0,sold,Bowler,Overseas,TG Southee,54,36,150.0,8.5,3,3,67.45,4,8,37,160.87,25,691,8.08,34.85,5,12,7.72,5,0,1.0,1
+Siddhesh Lad,2018,Mumbai Indians,0.2,0.2,sold,,,SD Lad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prashant Chopra,2018,Rajasthan Royals,0.2,0.2,sold,Wicket Keeper,Indian,P Chopra,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aditya Tare,2018,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Indian,AP Tare,339,285,118.95,11.64,40,11,59.37,6,27,26,65.0,0,0,0.0,0.0,0,0,0.0,6,1,1.0,1
+Bipul Sharma,2018,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian,Bipul Sharma,187,124,150.81,25.17,11,9,38.67,6,17,82,164.0,22,436,8.0,23.54,7,8,8.28,7,0,1.0,1
+Sayan Ghosh,2018,Delhi Daredevils,0.2,0.2,sold,Bowler,Indian,Sayan Ghosh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mayank Markande,2018,Mumbai Indians,0.2,0.2,sold,Bowler,Indian,M Markande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Laughlin,2018,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas,B Laughlin,4,9,44.44,4.0,0,0,0.0,1,2,0,0.0,1,45,9.6,72.0,1,0,0.0,1,0,1.0,1
+Akila Dananjaya,2018,Mumbai Indians,0.5,0.5,sold,,,A Dananjaya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pardeep Sahu,2018,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian,P Sahu,19,13,146.15,19.0,1,1,52.63,1,2,19,146.15,3,107,8.52,50.67,1,3,8.52,1,0,1.0,1
+Mayank Dagar,2018,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian,Mayank Dagar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Anukul Roy,2018,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,AS Roy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mark Wood,2018,Chennai Super Kings,1.5,1.5,sold,Bowler,Overseas,MA Wood,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mahipal Lomror,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,MK Lomror,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohsin Khan,2018,Mumbai Indians,0.2,0.2,sold,Bowler,Indian,Mohsin Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mehdi Hasan,2018,Sunrisers Hyderabad,0.2,0.2,sold,,,Mehdi Hasan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kshitiz Sharma,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian,Kshitiz Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Monu Kumar,2018,Chennai Super Kings,0.2,0.2,sold,,,Monu Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chaitanya Bishnoi,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian,Chaitanya Bishnoi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jatin Saxena,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,Jalaj S Saxena,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aryaman Birla,2018,Rajasthan Royals,0.2,0.3,sold,,,Aryaman Birla,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Pavan Deshpande,2018,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian,Pavan Deshpande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Gayle,2018,Kings XI Punjab,2.0,2.0,sold,,,CH Gayle,3651,2532,144.19,39.09,297,266,76.02,9,100,427,129.0,19,579,7.77,51.91,7,2,6.0,9,18,1.0,1
+Dushmantha Chameera,2018,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas,Dushmantha Chameera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+M. D. Nidheesh,2018,Mumbai Indians,0.2,0.2,sold,,,M. D. Nidheesh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manzoor Dar,2018,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian,Manzoor Dar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Javon Searles,2018,Kolkata Knight Riders,0.3,0.3,sold,,,Javon Searles,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Hanuma Vihari,2019,Delhi Capitals,0.5,2.0,sold,Batsman,Indian,Hanuma Vihari,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Shimron Hetmyer,2019,Royal Challengers Bangalore,0.5,4.2,sold,Batsman,Overseas,SO Hetmyer,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.4,0
+Carlos Brathwaite,2019,Kolkata Knight Riders,0.75,5.0,sold,All-Rounder,Overseas,CR Brathwaite,170,110,154.55,12.86,9,16,74.25,3,12,87,124.29,16,245,8.69,34.78,3,7,9.59,3,1,6.67,1
+Gurkeerat Singh,2019,Royal Challengers Bangalore,0.5,0.5,sold,,,Gurkeerat Singh,342,280,122.14,16.62,36,9,57.44,4,24,0,0.0,5,82,7.1,18.75,2,0,0.0,4,0,1.0,1
+Moises Henriques,2019,Kings XI Punjab,1.0,1.0,sold,All-Rounder,Overseas,MC Henriques,969,769,126.01,25.27,87,27,52.7,7,50,277,135.12,42,918,8.2,43.52,7,2,10.05,7,2,1.0,1
+Axar Patel,2019,Delhi Capitals,1.0,5.0,sold,,,AR Patel,686,565,121.42,18.26,37,32,49.61,5,50,307,126.86,64,1438,7.53,35.85,5,18,7.79,5,4,5.0,1
+Jonny Bairstow,2019,Sunrisers Hyderabad,1.5,2.2,sold,Wicket Keeper,Overseas,JM Bairstow,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.47,0
+Nicholas Pooran,2019,Kings XI Punjab,0.75,4.2,sold,,,N Pooran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.6,0
+Wriddhiman Saha,2019,Sunrisers Hyderabad,1.0,1.2,sold,Wicket Keeper,Indian,WP Saha,1679,1327,126.53,25.7,147,58,51.05,11,88,356,117.88,0,0,0.0,0.0,0,0,0.0,11,3,1.2,1
+Jaydev Unadkat,2019,Rajasthan Royals,1.5,8.4,sold,Bowler,Indian,JD Unadkat,54,51,105.88,3.7,6,1,15.31,4,10,51,118.6,72,1305,8.34,25.94,9,39,8.31,9,4,5.6,1
+Ishant Sharma,2019,Delhi Capitals,0.75,1.1,sold,Bowler,Indian,I Sharma,45,59,76.27,6.0,3,1,29.77,5,17,8,61.54,59,1713,8.02,51.97,9,0,10.0,9,2,1.47,1
+Lasith Malinga,2019,Mumbai Indians,2.0,2.0,sold,Bowler,Overseas,Lasith Malinga,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammad Shami,2019,Kings XI Punjab,1.0,4.8,sold,Bowler,Indian,Mohammed Shami,53,52,101.92,4.9,5,2,26.98,5,14,43,143.33,30,744,8.9,45.52,5,11,9.41,5,1,4.8,1
+Varun Aaron,2019,Rajasthan Royals,0.5,2.4,sold,Bowler,Indian,VR Aaron,46,56,82.14,9.2,2,2,28.0,5,9,4,36.36,40,904,8.3,45.93,6,7,7.91,6,1,4.8,1
+Mohit Sharma,2019,Chennai Super Kings,0.5,5.0,sold,Bowler,Indian,MM Sharma,122,118,103.39,6.92,9,4,32.76,6,24,61,93.85,98,1752,8.27,28.24,6,20,9.59,6,2,10.0,1
+Devdutt Padikkal,2019,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian,D Padikkal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Anmolpreet Singh,2019,Mumbai Indians,0.2,0.8,sold,Batsman,Indian,Anmolpreet Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Sarfaraz Khan,2019,Kings XI Punjab,0.2,0.25,sold,,,SN Khan,228,146,156.16,20.57,26,7,66.5,3,17,51,118.6,0,0,0.0,0.0,0,0,0.0,3,0,1.25,1
+Shivam Dube,2019,Royal Challengers Bangalore,0.2,5.0,sold,All-Rounder,Indian,S Dube,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,25.0,0
+Varun Chakravarthy,2019,Kings XI Punjab,0.2,8.4,sold,,,Varun Chakravarthy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,42.0,0
+Ankush Bains,2019,Delhi Capitals,0.2,0.2,sold,Wicket Keeper,Indian,Ankush Bains,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nathu Singh,2019,Delhi Capitals,0.2,0.2,sold,Bowler,Indian,NB Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,25,4.32,18.0,1,1,4.32,1,0,1.0,1
+Colin Ingram,2019,Delhi Capitals,2.0,6.4,sold,Batsman,Overseas,CA Ingram,21,26,80.77,10.5,2,0,38.1,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,3.2,1
+Sam Curran,2019,Kings XI Punjab,2.0,7.2,sold,All-Rounder,Overseas,SM Curran,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.6,0
+Heinrich Klaasen,2019,Royal Challengers Bangalore,0.5,0.5,sold,Wicket Keeper,Overseas,H Klaasen,57,48,118.75,19.0,5,1,45.61,1,4,57,118.75,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Barinder Sran,2019,Mumbai Indians,0.5,3.4,sold,,,BB Sran,7,11,63.64,3.5,0,0,0.0,2,6,3,42.86,20,491,8.75,34.25,4,6,9.81,4,0,6.8,1
+Lockie Ferguson,2019,Kolkata Knight Riders,1.0,1.6,sold,Bowler,Overseas,LH Ferguson,1,1,100.0,1.0,0,0,0.0,1,1,1,100.0,5,87,6.62,19.2,1,5,6.62,1,1,1.6,1
+Sherfane Rutherford,2019,Delhi Capitals,0.4,2.0,sold,All-Rounder,Overseas,SE Rutherford,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.0,0
+Anrich Nortje,2019,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Overseas,A Nortje,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Oshane Thomas,2019,Rajasthan Royals,0.5,1.1,sold,Bowler,Overseas,O Thomas,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.2,0
+Hardus Viljoen,2019,Kings XI Punjab,0.75,0.75,sold,Bowler,Overseas,Hardus Viljoen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Himmat Singh,2019,Royal Challengers Bangalore,0.2,0.65,sold,Batsman,Indian,Himmat Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.25,0
+Nikhil Naik,2019,Kolkata Knight Riders,0.2,0.2,sold,,,NS Naik,23,33,69.7,11.5,1,0,17.39,1,2,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Arshdeep Singh,2019,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian,Arshdeep Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Harry Gurney,2019,Kolkata Knight Riders,0.75,0.75,sold,Bowler,Overseas,HF Gurney,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pankaj Jaiswal,2019,Mumbai Indians,0.2,0.2,sold,,,Pankaj Jaiswal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Milind Kumar,2019,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian,Milind Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Darshan Nalkande,2019,Kings XI Punjab,0.2,0.3,sold,All-Rounder,Indian,DG Nalkande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Shashank Singh,2019,Rajasthan Royals,0.2,0.3,sold,All-Rounder,Indian,Shashank Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Prab Simran Singh,2019,Kings XI Punjab,0.2,4.8,sold,,,P Simran Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,24.0,0
+Rasikh Salam,2019,Mumbai Indians,0.2,0.2,sold,,,Rasikh Salam,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prithvi Raj Yarra,2019,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian,Prithvi Raj Yarra,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Liam Livingstone,2019,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Overseas,LS Livingstone,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Keemo Paul,2019,Delhi Capitals,0.5,0.5,sold,All-Rounder,Overseas,KMA Paul,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prayas Ray Barman,2019,Royal Challengers Bangalore,0.2,1.5,sold,All-Rounder,Indian,P Ray Barman,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.5,0
+Agnivesh Ayachi,2019,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian,Agnivesh Ayachi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Harpreet Brar,2019,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian,Harpreet Brar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Martin Guptill,2019,Sunrisers Hyderabad,1.0,1.0,sold,Batsman,Overseas,MJ Guptill,189,143,132.17,20.5,20,8,63.44,2,10,132,150.0,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Yuvraj Singh,2019,Mumbai Indians,1.0,1.0,sold,All-Rounder,Indian,Yuvraj Singh,2656,2124,125.05,25.13,211,143,63.53,10,122,317,120.99,39,882,7.42,30.37,10,2,11.04,10,5,1.0,1
+Akshdeep Nath,2019,Royal Challengers Bangalore,0.2,3.6,sold,All-Rounder,Indian,AD Nath,29,41,70.73,5.22,2,0,21.48,3,5,9,64.29,0,0,0.0,0.0,0,0,0.0,3,0,18.0,1
+Jalaj Saxena,2019,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,Jalaj S Saxena,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Murugan Ashwin,2019,Kings XI Punjab,0.2,0.2,sold,,,M Ashwin,1,3,33.33,0.5,0,0,0.0,2,2,1,50.0,10,221,8.12,26.5,2,3,7.2,2,0,1.0,1
+Ruturaj Gaikwad,2019,Chennai Super Kings,0.2,0.2,sold,Batsman,Indian,RD Gaikwad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shubham Ranjane,2019,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,Shubham Ranjane,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Joe Denly,2019,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Overseas,JL Denly,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Bandaru Ayyappa,2019,Delhi Capitals,0.2,0.2,sold,Bowler,Indian,Bandaru Ayyappa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shrikant Mundhe,2019,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian,SS Mundhe,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,7,5.14,6.0,1,0,0.0,1,0,1.0,1
+Manan Vohra,2019,Rajasthan Royals,0.2,0.2,sold,Batsman,Indian,M Vohra,1012,800,126.5,23.39,97,39,60.25,6,45,284,129.09,0,0,0.0,0.0,0,0,0.0,6,3,1.0,1
+Ashton Turner,2019,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Indian,AJ Turner,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Riyan Parag,2019,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,R Parag,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Lynn,2020,Mumbai Indians,2.0,2.0,sold,Batsman,Overseas,CA Lynn,1280,938,136.46,29.23,128,63,61.57,6,41,896,132.15,0,0,0.0,0.0,0,0,0.0,6,4,1.0,1
+Eoin Morgan,2020,Kolkata Knight Riders,2.0,5.25,sold,Batsman,Overseas,EJG Morgan,854,725,117.79,20.62,72,34,54.07,6,45,0,0.0,0,0,0.0,0.0,0,0,0.0,6,1,2.62,1
+Robin Uthappa,2020,Rajasthan Royals,1.5,3.0,sold,Batsman,Indian,RV Uthappa,4413,3490,126.45,28.08,435,156,60.41,12,170,635,119.81,0,0,0.0,0.0,0,0,0.0,12,7,2.0,1
+Jason Roy,2020,Delhi Capitals,1.5,1.5,sold,Batsman,Overseas,JJ Roy,179,139,128.78,29.75,18,8,68.09,2,8,120,122.45,0,0,0.0,0.0,0,0,0.0,2,1,1.0,1
+Aaron Finch,2020,Royal Challengers Bangalore,1.0,4.4,sold,Batsman,Overseas,AJ Finch,1738,1372,126.68,23.82,176,67,59.31,9,73,134,131.37,1,44,9.14,49.0,3,0,0.0,9,5,4.4,1
+Glenn Maxwell,2020,Kings XI Punjab,2.0,10.75,sold,All-Rounder,Overseas,GJ Maxwell,1398,902,154.99,19.25,110,91,59.93,7,67,169,138.52,17,432,8.54,47.38,7,5,8.08,7,5,5.38,1
+Chris Woakes,2020,Delhi Capitals,1.5,1.5,sold,All-Rounder,Overseas,CR Woakes,63,66,95.45,11.92,5,2,53.32,2,11,17,89.47,26,396,8.92,23.17,2,8,9.97,2,0,1.0,1
+Pat Cummins,2020,Kolkata Knight Riders,2.0,15.5,sold,All-Rounder,Overseas,PJ Cummins,77,56,137.5,7.7,5,4,28.57,2,9,0,0.0,19,379,8.31,47.35,3,0,0.0,3,0,7.75,1
+Sam Curran,2020,Chennai Super Kings,1.0,5.5,sold,All-Rounder,Overseas,SM Curran,95,55,172.73,23.75,13,3,73.68,1,8,95,172.73,11,207,9.42,29.55,1,11,9.42,1,1,5.5,1
+Chris Morris,2020,Royal Challengers Bangalore,1.5,10.0,sold,,,CH Morris,517,339,152.51,29.31,37,27,47.91,6,37,78,121.88,78,1335,7.95,26.2,6,16,9.46,6,2,6.67,1
+Alex Carey,2020,Delhi Capitals,0.5,2.4,sold,Wicket Keeper,Overseas,AT Carey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.8,0
+Jaydev Unadkat,2020,Rajasthan Royals,1.0,3.0,sold,Bowler,Indian,JD Unadkat,55,54,101.85,3.16,6,1,12.24,5,12,50,121.95,83,1541,8.64,27.48,10,23,9.78,10,5,3.0,1
+Nathan Coulter-Nile,2020,Mumbai Indians,1.0,8.0,sold,Bowler,Overseas,NM Coulter-Nile,52,53,98.11,7.33,3,4,66.71,4,11,0,0.0,39,586,7.57,21.54,5,0,0.0,5,4,8.0,1
+Sheldon Cottrell,2020,Kings XI Punjab,0.5,8.5,sold,Bowler,Overseas,SS Cottrell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,17.0,0
+Piyush Chawla,2020,Chennai Super Kings,1.0,6.75,sold,Bowler,Indian,PP Chawla,584,541,107.95,10.88,54,18,49.93,12,75,69,93.24,157,3157,7.87,27.32,12,24,8.78,12,3,6.75,1
+Rahul Tripathi,2020,Kolkata Knight Riders,0.2,0.6,sold,Batsman,Indian,RA Tripathi,758,570,132.98,27.06,74,27,56.19,3,33,367,124.41,0,6,12.0,0.0,1,0,0.0,3,1,3.0,1
+Virat Singh,2020,Sunrisers Hyderabad,0.2,1.9,sold,Batsman,Indian,Virat Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.5,0
+Priyam Garg,2020,Sunrisers Hyderabad,0.2,1.9,sold,Batsman,Indian,PK Garg,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.5,0
+Deepak Hooda,2020,Kings XI Punjab,0.4,0.5,sold,All-Rounder,Indian,DJ Hooda,524,431,121.58,16.79,27,24,46.47,5,45,151,98.05,7,233,8.14,51.33,5,1,8.62,5,1,1.25,1
+Varun Chakravarthy,2020,Kolkata Knight Riders,0.3,4.0,sold,,,Varun Chakravarthy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,13.33,0
+Yashasvi Jaiswal,2020,Rajasthan Royals,0.2,2.4,sold,All-Rounder,Indian,YBK Jaiswal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,12.0,0
+Anuj Rawat,2020,Rajasthan Royals,0.2,0.8,sold,Wicket Keeper,Indian,Anuj Rawat,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Akash Singh,2020,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,Akash Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kartik Tyagi,2020,Rajasthan Royals,0.2,1.3,sold,Bowler,Indian,Kartik Tyagi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.5,0
+Ishan Porel,2020,Kings XI Punjab,0.2,0.2,sold,,,IC Porel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+M Siddharth,2020,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian,M Siddharth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ravi Bishnoi,2020,Kings XI Punjab,0.2,2.0,sold,Bowler,Indian,Ravi Bishnoi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.0,0
+Shimron Hetmyer,2020,Delhi Capitals,0.5,7.75,sold,Batsman,Overseas,SO Hetmyer,90,76,118.42,18.0,4,7,64.44,1,5,90,118.42,0,0,0.0,0.0,0,0,0.0,1,1,15.5,1
+David Miller,2020,Rajasthan Royals,0.75,0.75,sold,Batsman,Overseas,DA Miller,1850,1375,134.55,35.71,126,87,50.76,8,77,287,119.58,0,0,0.0,0.0,0,0,0.0,8,3,1.0,1
+Saurabh Tiwary,2020,Mumbai Indians,0.5,0.5,sold,Batsman,Indian,SS Tiwary,1276,1111,114.85,35.49,93,45,47.9,9,64,0,0.0,0,0,0.0,0.0,0,0,0.0,9,0,1.0,1
+Mitchell Marsh,2020,Sunrisers Hyderabad,2.0,2.0,sold,All-Rounder,Overseas,MR Marsh,225,201,111.94,16.5,9,14,36.93,4,14,0,0.0,20,327,7.71,24.15,4,0,0.0,4,1,1.0,1
+James Neesham,2020,Kings XI Punjab,0.5,0.5,sold,All-Rounder,Overseas,JDS Neesham,42,46,91.3,14.0,3,1,42.86,1,3,0,0.0,1,57,10.11,96.0,1,0,0.0,1,0,1.0,1
+Josh Hazlewood,2020,Chennai Super Kings,2.0,2.0,sold,Bowler,Overseas,JR Hazlewood,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Bavanaka Sandeep,2020,Sunrisers Hyderabad,0.2,0.2,sold,,,Bavanaka Sandeep,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Green,2020,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Overseas,CJ Green,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Josh Philippe,2020,Royal Challengers Bangalore,0.2,0.2,sold,,,JR Philippe,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohsin Khan,2020,Mumbai Indians,0.2,0.2,sold,Bowler,Indian,Mohsin Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tom Banton,2020,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Overseas,T Banton,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Fabian Allen,2020,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas,FA Allen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chris Jordan,2020,Kings XI Punjab,0.75,3.0,sold,All-Rounder,Overseas,CJ Jordan,3,5,60.0,1.5,0,0,0.0,2,2,0,0.0,14,213,8.76,15.23,3,0,8.4,3,0,4.0,1
+Kane Richardson,2020,Royal Challengers Bangalore,1.5,4.0,sold,Bowler,Overseas,KW Richardson,36,39,92.31,6.33,2,1,13.73,3,4,0,0.0,20,326,8.28,29.88,3,0,0.0,3,0,2.67,1
+Oshane Thomas,2020,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas,O Thomas,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,5,63,8.1,17.0,1,5,8.1,1,0,1.0,1
+Pravin Tambe,2020,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian,PV Tambe,18,39,46.15,4.5,1,0,14.29,4,6,0,0.0,28,674,7.71,45.52,4,0,0.0,4,2,1.0,1
+Tajinder Singh Dhillon,2020,Kings XI Punjab,0.2,0.2,sold,,,Tajinder Singh Dhillon,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Abdul Samad,2020,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian,Abdul Samad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aniruddha Joshi,2020,Rajasthan Royals,0.2,0.2,sold,,,Aniruddha Joshi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Digvijay Deshmukh,2020,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,Digvijay Deshmukh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prince Balwant Rai,2020,Mumbai Indians,0.2,0.2,sold,,,Prince Balwant Rai,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sanjay Yadav,2020,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian,SA Yadav,1544,1197,128.99,22.16,160,47,49.31,7,71,936,130.36,0,6,8.0,0.0,1,0,0.0,7,3,1.0,1
+Mohit Sharma,2020,Delhi Capitals,0.5,0.5,sold,Bowler,Indian,MM Sharma,122,120,101.67,5.93,9,4,28.08,7,25,10,62.5,99,1770,8.28,28.07,7,8,10.44,7,2,1.0,1
+Pavan Deshpande,2020,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian,Pavan Deshpande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prab Simran Singh,2020,Kings XI Punjab,0.2,0.55,sold,,,P Simran Singh,16,18,88.89,16.0,1,1,62.5,1,1,16,88.89,0,0,0.0,0.0,0,0,0.0,1,0,2.75,1
+Tushar Deshpande,2020,Delhi Capitals,0.2,0.2,sold,Bowler,Indian,TU Deshpande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+R Sai Kishore,2020,Chennai Super Kings,0.2,0.2,sold,,,R Sai Kishore,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Marcus Stoinis,2020,Delhi Capitals,1.0,4.8,sold,All-Rounder,Overseas,MP Stoinis,473,373,126.81,29.92,34,18,44.76,4,25,310,130.8,16,378,9.24,47.97,4,5,9.51,4,2,4.8,1
+Dale Steyn,2020,Royal Challengers Bangalore,2.0,2.0,sold,Bowler,Overseas,DW Steyn,166,161,103.11,7.62,14,3,29.45,9,32,0,0.0,104,2207,6.66,26.23,10,4,9.25,10,5,1.0,1
+Andrew Tye,2020,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas,AJ Tye,85,72,118.06,19.44,6,4,35.97,3,12,32,76.19,43,618,8.14,35.41,3,31,8.47,3,2,1.0,1
+Lalit Yadav,2020,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,Lalit Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shahbaz Ahmed,2020,Royal Challengers Bangalore,0.2,0.2,sold,,,Shahbaz Ahmed,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nikhil Naik,2020,Kolkata Knight Riders,0.2,0.2,sold,,,NS Naik,30,50,60.0,9.25,2,0,37.27,2,3,7,41.18,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Tom Curran,2020,Rajasthan Royals,1.0,1.0,sold,All-Rounder,Overseas,TK Curran,23,28,82.14,7.67,3,0,52.17,1,4,23,82.14,6,64,11.06,19.67,1,6,11.06,1,0,1.0,1
+Isuru Udana,2020,Royal Challengers Bangalore,0.5,0.5,sold,All-Rounder,Overseas,I Udana,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Steve Smith,2021,Delhi Capitals,2.0,2.2,sold,,,SPD Smith,2343,1863,125.76,33.37,213,58,51.64,8,86,630,118.87,0,2,15.0,0.0,1,0,0.0,8,5,1.1,1
+Glenn Maxwell,2021,Royal Challengers Bangalore,2.0,14.25,sold,All-Rounder,Overseas,GJ Maxwell,1506,1014,148.52,18.77,119,91,56.6,8,78,108,96.43,20,558,8.45,48.98,8,3,8.14,8,5,7.12,1
+Shakib Al Hasan,2021,Kolkata Knight Riders,2.0,3.2,sold,All-Rounder,Overseas,Shakib Al Hasan,748,615,121.63,15.81,70,20,40.07,8,46,9,81.82,66,1358,7.41,29.39,8,2,8.64,8,2,1.6,1
+Moeen Ali,2021,Chennai Super Kings,2.0,7.0,sold,All-Rounder,Overseas,MM Ali,309,199,155.28,19.97,21,23,58.77,3,17,232,151.63,14,264,7.02,27.49,3,8,6.92,3,0,3.5,1
+Shivam Dube,2021,Rajasthan Royals,0.5,4.4,sold,All-Rounder,Indian,S Dube,169,142,119.01,14.21,6,12,56.18,2,13,169,119.01,5,66,7.55,15.0,2,5,7.55,2,0,8.8,1
+Chris Morris,2021,Rajasthan Royals,0.75,16.25,sold,,,CH Morris,551,360,153.06,26.34,39,30,51.99,7,42,66,111.86,90,1539,7.72,24.98,7,25,7.7,7,2,21.67,1
+Dawid Malan,2021,Punjab Kings,1.5,1.5,sold,All-Rounder,Overseas,DJ Malan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Adam Milne,2021,Mumbai Indians,0.5,3.2,sold,Bowler,Overseas,AF Milne,7,12,58.33,2.33,0,0,0.0,1,3,0,0.0,5,115,9.65,39.62,2,0,0.0,2,0,6.4,1
+Mustafizur Rahman,2021,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas,Mustafizur Rahman,1,3,33.33,1.0,0,0,0.0,1,1,0,0.0,28,560,7.43,24.13,3,0,0.0,3,1,1.0,1
+Jhye Richardson,2021,Punjab Kings,1.5,14.0,sold,Bowler,Overseas,JA Richardson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.33,0
+Nathan Coulter-Nile,2021,Mumbai Indians,1.5,5.0,sold,Bowler,Overseas,NM Coulter-Nile,77,68,113.24,10.87,7,4,66.17,5,13,25,166.67,45,751,7.55,23.67,6,6,7.49,6,4,3.33,1
+Umesh Yadav,2021,Delhi Capitals,1.0,1.0,sold,Bowler,Indian,UT Yadav,122,135,90.37,10.39,11,4,25.06,11,34,25,89.29,137,2648,8.35,35.11,11,10,9.74,11,8,1.0,1
+Piyush Chawla,2021,Mumbai Indians,0.5,2.4,sold,Bowler,Indian,PP Chawla,584,541,107.95,10.88,54,18,49.93,12,75,42,110.53,164,3285,7.91,27.32,13,17,9.05,13,3,4.8,1
+Sachin Baby,2021,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian,Sachin Baby,137,106,129.25,10.6,11,5,36.27,3,10,0,0.0,3,10,4.8,2.67,1,0,0.0,3,0,1.0,1
+Rajat Patidar,2021,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian,RM Patidar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ripal Patel,2021,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,RV Patel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shahrukh Khan,2021,Punjab Kings,0.2,5.25,sold,All-Rounder,Indian,SN Khan,441,321,137.38,22.84,50,11,63.13,5,25,213,121.71,0,2,18.0,0.0,1,0,18.0,5,0,26.25,1
+Krishnappa Gowtham,2021,Chennai Super Kings,0.2,9.25,sold,All-Rounder,Indian,K Gowtham,186,113,164.6,20.67,13,12,61.38,3,19,60,130.43,14,414,8.35,93.92,3,2,9.0,3,0,46.25,1
+Vishnu Vinod,2021,Delhi Capitals,0.2,0.2,sold,Wicket Keeper,Indian,Vishnu Vinod,19,26,73.08,6.33,1,1,52.63,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Sheldon Jackson,2021,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian,SP Jackson,38,31,122.58,19.0,5,0,52.63,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Mohammed Azharuddeen,2021,Royal Challengers Bangalore,0.2,0.2,sold,,,Mohammed Azharuddeen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Lukman Hussain Meriwala,2021,Delhi Capitals,0.2,0.2,sold,Bowler,Indian,LI Meriwala,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chetan Sakariya,2021,Rajasthan Royals,0.2,1.2,sold,Bowler,Indian,C Sakariya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.0,0
+Riley Meredith,2021,Punjab Kings,0.4,8.0,sold,Bowler,Overseas,RP Meredith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+Manimaran Siddharth,2021,Delhi Capitals,0.2,0.2,sold,,,M Siddharth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jagadeesha Suchith,2021,Sunrisers Hyderabad,0.2,0.3,sold,,,J Suchith,54,48,112.5,27.0,4,2,29.17,2,6,6,40.0,12,277,8.6,23.9,3,2,7.0,3,0,1.5,1
+K. C. Cariappa,2021,Rajasthan Royals,0.2,0.2,sold,,,KC Cariappa,24,21,114.29,7.67,0,2,37.61,3,5,9,300.0,8,224,9.35,37.69,4,0,15.69,4,0,1.0,1
+Cheteshwar Pujara,2021,Chennai Super Kings,0.5,0.5,sold,Batsman,Indian,CA Pujara,390,403,96.77,20.35,50,4,56.36,5,22,0,0.0,0,0,0.0,0.0,0,0,0.0,5,0,1.0,1
+Kyle Jamieson,2021,Royal Challengers Bangalore,0.75,15.0,sold,All-Rounder,Overseas,KA Jamieson,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,20.0,0
+Tom Curran,2021,Delhi Capitals,1.5,5.25,sold,All-Rounder,Overseas,TK Curran,106,91,116.48,45.33,8,3,48.98,2,8,83,131.75,9,180,10.93,44.83,2,3,10.86,2,0,3.5,1
+Moises Henriques,2021,Punjab Kings,1.0,4.2,sold,All-Rounder,Overseas,MC Henriques,969,769,126.01,25.27,87,27,52.7,7,50,0,0.0,42,918,8.2,43.52,7,0,0.0,7,2,4.2,1
+Jalaj Saxena,2021,Punjab Kings,0.2,0.3,sold,All-Rounder,Indian,Jalaj S Saxena,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Utkarsh Singh,2021,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,Utkarsh Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vaibhav Arora,2021,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian,VG Arora,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Fabian Allen,2021,Punjab Kings,0.75,0.75,sold,All-Rounder,Overseas,FA Allen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dan Christian,2021,Royal Challengers Bangalore,0.75,4.8,sold,All-Rounder,Overseas,DT Christian,446,384,116.15,18.03,22,19,34.86,5,34,0,0.0,36,818,7.79,27.72,5,0,0.0,5,0,6.4,1
+Liam Livingstone,2021,Rajasthan Royals,0.75,0.75,sold,All-Rounder,Overseas,LS Livingstone,70,48,145.83,23.33,6,5,77.14,1,4,70,145.83,0,6,13.0,0.0,1,0,13.0,1,0,1.0,1
+Suyash Prabhudessai,2021,Royal Challengers Bangalore,0.2,0.2,sold,,,SS Prabhudessai,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kona Srikar Bharat,2021,Royal Challengers Bangalore,0.2,0.2,sold,Wicket Keeper,Indian,KS Bharat,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Harishankar Reddy,2021,Chennai Super Kings,0.2,0.2,sold,,,Harishankar Reddy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kuldip Yadav,2021,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,Kuldeep Yadav,57,76,75.0,11.75,5,0,34.36,4,10,25,86.21,43,913,8.22,43.8,5,6,8.25,5,1,1.0,1
+James Neesham,2021,Mumbai Indians,0.5,0.5,sold,All-Rounder,Overseas,JDS Neesham,61,64,95.31,11.75,3,2,37.22,2,6,19,105.56,3,150,9.8,85.25,2,2,9.61,2,0,1.0,1
+Yudhvir Charak,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,Yudhvir Charak,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Bhagath Varma,2021,Chennai Super Kings,0.2,0.2,sold,,,Bhagath Varma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Marco Jansen,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Overseas,M Jansen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Saurabh Kumar,2021,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,Saurabh Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Karun Nair,2021,Kolkata Knight Riders,0.5,0.5,sold,Batsman,Indian,KK Nair,1480,1174,126.06,17.85,160,39,43.56,8,66,21,105.0,0,0,0.0,0.0,0,0,0.0,8,3,1.0,1
+Kedar Jadhav,2021,Sunrisers Hyderabad,2.0,2.0,sold,All-Rounder,Indian,KM Jadhav,1141,947,120.49,24.11,99,38,51.22,10,75,224,93.33,0,0,0.0,0.0,0,0,0.0,10,2,1.0,1
+Sam Billings,2021,Delhi Capitals,2.0,2.0,sold,Wicket Keeper,Overseas,SW Billings,334,256,130.47,14.62,31,10,40.57,4,19,0,0.0,0,0,0.0,0.0,0,0,0.0,4,1,1.0,1
+Mujeeb Ur Rahman,2021,Sunrisers Hyderabad,1.5,1.5,sold,,,Mujeeb Ur Rahman,11,14,78.57,3.67,2,0,26.67,3,5,1,14.29,18,426,8.0,41.9,3,3,9.63,3,1,1.0,1
+Harbhajan Singh,2021,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Indian,Harbhajan Singh,829,632,131.17,14.86,79,42,60.53,12,86,1,33.33,161,3451,7.02,28.75,12,18,7.03,12,8,1.0,1
+Chezhian Harinishanth,2021,Chennai Super Kings,0.2,0.2,sold,,,Chezhian Harinishanth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ben Cutting,2021,Kolkata Knight Riders,0.75,0.75,sold,All-Rounder,Overseas,BCJ Cutting,238,146,163.01,17.63,15,19,71.18,5,17,18,105.88,12,288,8.96,40.9,5,1,13.5,5,1,1.0,1
+Venkatesh Iyer,2021,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian,VR Iyer,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pawan Negi,2021,Kolkata Knight Riders,0.5,0.5,sold,All-Rounder,Indian,P Negi,365,301,121.26,12.68,27,16,44.74,6,35,9,75.0,38,733,7.81,38.87,8,3,8.83,8,2,1.0,1
+Akash Singh,2021,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,Akash Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Arjun Tendulkar,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,Arjun Tendulkar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shikhar Dhawan,2022,Punjab Kings,2.0,8.25,sold,Batsman,Indian,S Dhawan,5784,4688,123.38,33.17,654,125,56.36,14,191,1205,131.98,4,49,8.82,16.0,2,0,0.0,14,10,4.12,1
+Ravichandran Ashwin,2022,Rajasthan Royals,2.0,5.0,sold,,,R Ashwin,456,427,106.79,11.85,37,12,42.73,12,60,81,105.19,161,3605,6.81,25.25,12,23,7.39,12,3,2.5,1
+Pat Cummins,2022,Kolkata Knight Riders,2.0,7.25,sold,All-Rounder,Overseas,PJ Cummins,316,236,133.9,13.71,19,20,46.95,4,24,239,132.78,40,868,8.2,40.75,5,21,8.11,5,1,3.62,1
+Kagiso Rabada,2022,Punjab Kings,2.0,9.25,sold,Bowler,Overseas,K Rabada,138,141,97.87,13.67,11,4,50.42,4,16,69,118.97,85,1195,8.08,21.14,4,48,8.12,4,1,4.62,1
+Trent Boult,2022,Rajasthan Royals,2.0,8.0,sold,Bowler,Overseas,TA Boult,13,19,68.42,2.6,0,1,17.14,5,7,1,20.0,81,1473,8.23,30.16,7,40,7.89,7,4,4.0,1
+Shreyas Iyer,2022,Kolkata Knight Riders,2.0,12.25,sold,Batsman,Indian,SS Iyer,2379,1985,119.85,27.79,197,88,52.63,7,86,694,113.03,0,0,0.0,0.0,0,0,0.0,7,6,6.12,1
+Mohammed Shami,2022,Gujarat Titans,2.0,6.25,sold,,,Mohammed Shami,69,74,93.24,5.06,5,2,16.87,8,21,15,75.0,95,1740,8.49,36.28,8,43,7.96,8,1,3.12,1
+Faf du Plessis,2022,Royal Challengers Bangalore,2.0,7.0,sold,,,F du Plessis,2935,2299,127.66,32.49,266,96,55.42,9,93,1082,135.25,0,6,16.0,0.0,1,0,0.0,9,6,3.5,1
+Quinton de Kock,2022,Lucknow Super Giants,2.0,6.75,sold,,,Q de Kock,2259,1763,128.13,29.04,230,83,64.59,8,77,803,127.66,0,0,0.0,0.0,0,0,0.0,8,4,3.38,1
+David Warner,2022,Delhi Capitals,2.0,6.25,sold,Batsman,Overseas,DA Warner,5451,4012,135.87,39.5,525,201,60.91,12,150,745,121.34,0,2,6.0,0.0,1,0,6.0,12,17,3.12,1
+Manish Pandey,2022,Lucknow Super Giants,1.5,4.6,sold,Batsman,Indian,MK Pandey,3569,3022,118.1,32.56,309,104,48.74,14,142,717,120.3,0,0,0.0,0.0,0,0,0.0,14,5,3.07,1
+Shimron Hetmyer,2022,Rajasthan Royals,1.5,8.5,sold,Batsman,Overseas,SO Hetmyer,517,356,145.22,27.15,34,31,62.77,3,28,427,152.5,0,0,0.0,0.0,0,0,0.0,3,1,5.67,1
+Robin Uthappa,2022,Chennai Super Kings,2.0,2.0,sold,Batsman,Indian,RV Uthappa,4724,3746,126.11,27.29,462,168,59.93,14,186,311,121.48,0,0,0.0,0.0,0,0,0.0,14,7,1.0,1
+Jason Roy,2022,Gujarat Titans,2.0,2.0,sold,Batsman,Overseas,JJ Roy,329,264,124.62,29.83,39,9,65.4,3,13,150,120.0,0,0,0.0,0.0,0,0,0.0,3,2,1.0,1
+Devdutt Padikkal,2022,Rajasthan Royals,1.5,7.75,sold,Batsman,Indian,D Padikkal,884,740,119.46,31.57,95,22,58.27,2,29,884,119.46,0,0,0.0,0.0,0,0,0.0,2,1,5.17,1
+Dwayne Bravo,2022,Chennai Super Kings,1.5,4.4,sold,All-Rounder,Overseas,DJ Bravo,1537,1221,125.88,20.09,119,65,57.27,13,104,54,192.86,190,3067,8.09,24.42,12,22,7.48,13,4,2.93,1
+Nitish Rana,2022,Kolkata Knight Riders,1.5,8.0,sold,All-Rounder,Indian,N Rana,1820,1418,128.35,28.94,161,89,65.64,6,71,735,125.64,7,119,7.82,17.67,5,0,8.4,6,5,5.33,1
+Jason Holder,2022,Lucknow Super Giants,1.5,8.75,sold,All-Rounder,Overseas,JO Holder,189,159,118.87,17.17,11,11,65.12,4,16,151,118.9,39,607,7.91,28.94,5,31,7.71,5,1,5.83,1
+Harshal Patel,2022,Royal Challengers Bangalore,1.5,10.75,sold,All-Rounder,Indian,HV Patel,187,147,127.21,14.15,11,11,47.5,7,24,80,109.59,85,1327,8.32,31.36,9,38,7.79,9,3,7.17,1
+Deepak Hooda,2022,Lucknow Super Giants,0.75,5.75,sold,All-Rounder,Indian,DJ Hooda,786,630,124.76,29.1,41,38,48.23,7,61,262,131.66,9,335,8.27,54.67,7,2,8.59,7,1,7.67,1
+Wanindu Hasaranga,2022,Royal Challengers Bangalore,1.0,10.75,sold,All-Rounder,Overseas,Wanindu Hasaranga,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.75,0
+Washington Sundar,2022,Sunrisers Hyderabad,1.5,8.75,sold,All-Rounder,Indian,Washington Sundar,217,202,107.43,10.4,17,6,28.07,5,25,142,97.26,29,758,6.94,32.25,5,12,6.28,5,1,5.83,1
+Krunal Pandya,2022,Lucknow Super Giants,2.0,8.25,sold,All-Rounder,Indian,KH Pandya,1143,853,134.0,26.09,105,46,60.2,6,69,252,115.6,54,1493,7.22,38.09,6,11,7.47,6,4,4.12,1
+Mitchell Marsh,2022,Delhi Capitals,2.0,6.5,sold,All-Rounder,Overseas,MR Marsh,225,202,111.39,13.2,9,14,29.54,5,15,0,0.0,20,331,7.72,24.15,5,0,9.0,5,1,3.25,1
+Ambati Rayudu,2022,Chennai Super Kings,2.0,6.75,sold,Wicket Keeper,Indian,AT Rayudu,3916,3145,124.52,29.4,324,149,54.55,12,162,616,132.76,0,0,0.0,0.0,0,0,0.0,12,10,3.38,1
+Ishan Kishan,2022,Mumbai Indians,1.5,15.25,sold,Wicket Keeper,Indian,Ishan Kishan,1452,1089,133.33,27.57,121,74,60.79,6,56,757,139.41,0,0,0.0,0.0,0,0,0.0,6,3,10.17,1
+Jonny Bairstow,2022,Punjab Kings,1.0,6.75,sold,Wicket Keeper,Overseas,JM Bairstow,1038,755,137.48,39.93,99,46,64.84,3,28,593,128.08,0,0,0.0,0.0,0,0,0.0,3,4,6.75,1
+Dinesh Karthik,2022,Royal Challengers Bangalore,2.0,5.5,sold,Wicket Keeper,Indian,Dinesh Karthik,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.75,0
+Nicholas Pooran,2022,Sunrisers Hyderabad,1.5,10.75,sold,,,N Pooran,606,402,150.75,21.22,36,44,63.93,3,30,438,150.0,0,0,0.0,0.0,0,0,0.0,3,0,7.17,1
+T. Natarajan,2022,Sunrisers Hyderabad,1.0,4.0,sold,Bowler,Indian,T Natarajan,3,5,60.0,3.0,0,0,0.0,1,2,3,60.0,23,521,8.13,40.12,3,21,8.06,3,0,4.0,1
+Deepak Chahar,2022,Chennai Super Kings,2.0,14.0,sold,Bowler,Indian,DL Chahar,79,59,133.9,8.43,2,6,39.77,5,11,8,61.54,61,1385,7.53,37.4,6,28,7.77,6,2,7.0,1
+Prasidh Krishna,2022,Rajasthan Royals,1.0,10.0,sold,Bowler,Indian,Prasidh Krishna,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.0,0
+Lockie Ferguson,2022,Gujarat Titans,2.0,10.0,sold,Bowler,Overseas,LH Ferguson,62,43,144.19,20.67,5,2,35.57,3,4,61,145.24,30,507,7.81,36.21,4,23,7.27,4,2,5.0,1
+Josh Hazlewood,2022,Royal Challengers Bangalore,1.5,7.75,sold,Bowler,Overseas,JR Hazlewood,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,12,276,8.13,49.73,2,12,8.13,2,1,5.17,1
+Mark Wood,2022,Lucknow Super Giants,2.0,7.5,sold,Bowler,Overseas,MA Wood,1,5,20.0,1.0,0,0,0.0,1,1,0,0.0,0,25,12.0,0.0,1,0,0.0,1,0,3.75,1
+Bhuvneshwar Kumar,2022,Sunrisers Hyderabad,2.0,4.2,sold,Bowler,Indian,B Kumar,217,231,93.94,7.26,20,3,29.65,11,49,34,100.0,152,3054,7.21,27.6,11,11,7.56,11,5,2.1,1
+Shardul Thakur,2022,Delhi Capitals,2.0,10.75,sold,Bowler,Indian,SN Thakur,53,48,110.42,8.83,5,1,34.76,6,13,17,62.96,72,1335,8.48,28.79,6,32,8.22,6,0,5.38,1
+Mustafizur Rahman,2022,Delhi Capitals,2.0,2.0,sold,Bowler,Overseas,Mustafizur Rahman,9,17,52.94,4.5,0,1,37.5,2,4,8,57.14,46,887,7.72,24.38,4,18,8.22,4,1,1.0,1
+Kuldeep Yadav,2022,Delhi Capitals,1.0,2.0,sold,Bowler,Indian,Kuldeep Yadav,57,76,75.0,11.75,5,0,34.36,4,10,13,61.9,43,913,8.22,43.8,5,1,7.6,5,1,2.0,1
+Rahul Chahar,2022,Punjab Kings,0.75,5.25,sold,Bowler,Indian,RD Chahar,31,32,96.88,3.62,3,0,23.81,4,10,16,84.21,44,917,7.41,26.43,4,29,7.84,4,1,7.0,1
+Yuzvendra Chahal,2022,Rajasthan Royals,2.0,6.5,sold,Bowler,Indian,YS Chahal,32,81,39.51,3.21,0,0,0.0,7,16,11,34.38,143,2511,7.56,23.17,9,41,7.11,9,4,3.25,1
+Priyam Garg,2022,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian,PK Garg,205,191,107.33,14.59,11,7,40.61,2,15,205,107.33,0,0,0.0,0.0,0,0,0.0,2,1,1.0,1
+Abhinav Manohar Sadarangani,2022,Gujarat Titans,0.2,2.6,sold,,,Abhinav Manohar Sadarangani,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,13.0,0
+Dewald Brevis,2022,Mumbai Indians,0.2,3.0,sold,Batsman,Overseas,D Brevis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,15.0,0
+Ashwin Hebbar,2022,Delhi Capitals,0.2,0.2,sold,Batsman,Indian,Ashwin Hebbar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rahul Tripathi,2022,Sunrisers Hyderabad,0.4,8.5,sold,Batsman,Indian,RA Tripathi,1385,1041,133.05,26.13,136,48,57.82,5,60,627,133.12,0,6,12.0,0.0,1,0,0.0,5,2,21.25,1
+Riyan Parag,2022,Rajasthan Royals,0.3,3.8,sold,All-Rounder,Indian,R Parag,339,298,113.76,21.99,29,12,53.9,3,23,179,108.48,4,136,9.75,48.5,3,2,11.54,3,0,12.67,1
+Abhishek Sharma,2022,Sunrisers Hyderabad,0.2,6.5,sold,All-Rounder,Indian,Abhishek Sharma,241,182,132.42,24.51,17,12,55.83,4,20,169,123.36,7,137,7.84,27.83,3,6,7.65,4,0,32.5,1
+Sarfaraz Khan,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,SN Khan,441,325,135.69,19.03,50,11,52.61,6,27,33,97.06,0,2,18.0,0.0,1,0,0.0,6,0,1.0,1
+M. Shahrukh Khan,2022,Punjab Kings,0.4,9.0,sold,,,M Shahrukh Khan,153,118,129.66,25.5,9,10,62.75,1,10,153,129.66,0,0,0.0,0.0,0,0,0.0,1,0,22.5,1
+Shivam Mavi,2022,Kolkata Knight Riders,0.4,7.25,sold,All-Rounder,Indian,Shivam Mavi,48,50,96.0,7.28,4,2,50.26,3,8,35,100.0,28,545,8.03,27.65,3,21,7.48,3,2,18.12,1
+Rahul Tewatia,2022,Gujarat Titans,0.4,9.0,sold,All-Rounder,Indian,R Tewatia,521,432,120.6,21.68,35,26,56.59,6,34,410,120.94,35,816,7.54,24.95,7,19,7.79,7,1,22.5,1
+Kamlesh Nagarkoti,2022,Delhi Capitals,0.4,1.1,sold,All-Rounder,Indian,KL Nagarkoti,22,34,64.71,3.67,1,0,9.09,2,7,22,64.71,5,172,9.0,46.6,2,5,9.0,2,0,2.75,1
+Harpreet Brar,2022,Punjab Kings,0.2,3.8,sold,All-Rounder,Indian,Harpreet Brar,84,75,112.0,42.0,5,3,53.75,2,6,64,104.92,5,196,7.07,28.4,3,5,6.61,3,1,19.0,1
+Shahbaz Ahmed,2022,Royal Challengers Bangalore,0.3,2.4,sold,,,Shahbaz Ahmed,60,56,107.14,4.71,4,2,23.73,2,8,60,107.14,9,121,6.79,17.82,2,9,6.79,2,0,8.0,1
+K. S. Bharat,2022,Delhi Capitals,0.2,2.0,sold,,,KS Bharat,191,161,118.63,38.2,10,8,46.07,1,6,191,118.63,0,0,0.0,0.0,0,0,0.0,1,1,10.0,1
+Anuj Rawat,2022,Royal Challengers Bangalore,0.2,3.4,sold,Wicket Keeper,Indian,Anuj Rawat,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,17.0,1
+Prabhsimran Singh,2022,Punjab Kings,0.2,0.6,sold,Wicket Keeper,Indian,P Simran Singh,50,56,89.29,11.0,4,2,56.15,3,5,34,89.47,0,0,0.0,0.0,0,0,0.0,3,0,3.0,1
+Sheldon Jackson,2022,Kolkata Knight Riders,0.3,0.6,sold,Wicket Keeper,Indian,SP Jackson,38,31,122.58,19.0,5,0,52.63,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,2.0,1
+Jitesh Sharma,2022,Punjab Kings,0.2,0.2,sold,Wicket Keeper,Indian,JM Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Basil Thampi,2022,Mumbai Indians,0.3,0.3,sold,Bowler,Indian,Basil Thampi,32,37,86.49,10.67,1,1,11.9,3,7,0,0.0,21,437,9.67,32.51,4,1,11.5,4,0,1.0,1
+Kartik Tyagi,2022,Sunrisers Hyderabad,0.2,4.0,sold,Bowler,Indian,Kartik Tyagi,6,10,60.0,3.0,0,0,0.0,2,4,6,60.0,14,334,8.93,34.22,2,14,8.93,2,1,20.0,1
+Akash Deep,2022,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian,Akash Deep,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+KM Asif,2022,Chennai Super Kings,0.2,0.2,sold,,,KM Asif,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4,52,10.73,21.5,2,1,7.71,2,0,1.0,1
+Avesh Khan,2022,Lucknow Super Giants,0.2,10.0,sold,Bowler,Indian,Avesh Khan,9,6,150.0,4.5,2,0,90.0,2,2,5,166.67,32,568,8.1,30.84,5,27,7.47,5,0,50.0,1
+Ishan Porel,2022,Punjab Kings,0.2,0.25,sold,Bowler,Indian,IC Porel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,26,9.69,42.0,1,1,9.69,1,0,1.25,1
+Tushar Deshpande,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian,TU Deshpande,21,12,175.0,21.0,2,1,66.67,1,2,21,175.0,3,110,10.53,64.33,1,3,10.53,1,0,1.0,1
+Ankit Rajpoot,2022,Lucknow Super Giants,0.2,0.5,sold,,,AS Rajpoot,26,41,63.41,5.12,2,1,50.76,4,7,9,90.0,24,567,8.93,45.86,6,2,10.75,6,2,2.5,1
+Noor Ahmad,2022,Gujarat Titans,0.3,0.3,sold,Bowler,Overseas,Noor Ahmad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Murugan Ashwin,2022,Mumbai Indians,0.2,1.6,sold,Bowler,Indian,M Ashwin,23,36,63.89,3.1,1,0,5.33,5,8,19,67.86,26,694,7.75,45.68,5,11,7.79,5,0,8.0,1
+K. C. Cariappa,2022,Rajasthan Royals,0.2,0.3,sold,,,KC Cariappa,24,21,114.29,7.67,0,2,37.61,3,5,0,0.0,8,224,9.35,37.69,4,0,0.0,4,0,1.5,1
+Shreyas Gopal,2022,Sunrisers Hyderabad,0.2,0.75,sold,Bowler,Indian,S Gopal,171,166,103.01,10.14,17,2,36.4,7,21,44,95.65,49,940,8.02,24.43,7,10,8.87,7,2,3.75,1
+Jagadeesha Suchith,2022,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian,J Suchith,68,54,125.93,22.67,6,3,52.78,3,7,14,233.33,13,319,8.71,37.93,4,1,9.43,4,0,1.0,1
+Ravisrinivasan Sai Kishore,2022,Gujarat Titans,0.2,3.0,sold,,,R Sai Kishore,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,15.0,0
+Aiden Markram,2022,Sunrisers Hyderabad,1.0,2.6,sold,Batsman,Overseas,AK Markram,146,123,118.7,29.2,12,4,49.32,1,6,146,118.7,0,25,5.52,0.0,1,0,5.52,1,0,2.6,1
+Ajinkya Rahane,2022,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Indian,AM Rahane,3941,3334,118.21,26.83,417,76,56.19,13,141,121,99.18,1,6,5.0,5.0,1,0,0.0,13,12,1.0,1
+Mandeep Singh,2022,Delhi Capitals,0.5,1.1,sold,Batsman,Indian,Mandeep Singh,1674,1378,121.48,18.35,172,37,55.54,11,91,145,116.0,0,12,13.0,0.0,1,0,0.0,11,3,2.2,1
+Liam Livingstone,2022,Punjab Kings,1.0,11.5,sold,All-Rounder,Overseas,LS Livingstone,112,91,123.08,15.87,9,6,60.0,2,9,42,97.67,0,6,13.0,0.0,1,0,0.0,2,0,11.5,1
+Dominic Drakes,2022,Gujarat Titans,0.75,1.1,sold,All-Rounder,Overseas,Dominic Drakes,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.47,0
+Jayant Yadav,2022,Gujarat Titans,1.0,1.7,sold,All-Rounder,Indian,J Yadav,40,38,105.26,11.5,2,1,20.59,2,4,34,130.77,9,374,6.75,42.73,6,4,7.05,6,0,1.7,1
+Vijay Shankar,2022,Gujarat Titans,0.5,1.4,sold,All-Rounder,Indian,V Shankar,712,580,122.76,32.31,45,28,47.65,5,37,155,102.65,11,248,7.96,34.62,5,8,7.0,5,0,2.8,1
+Odean Smith,2022,Punjab Kings,1.0,6.0,sold,All-Rounder,Overseas,OF Smith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.0,0
+Marco Jansen,2022,Sunrisers Hyderabad,0.5,4.2,sold,All-Rounder,Overseas,M Jansen,0,4,0.0,0.0,0,0,0.0,1,2,0,0.0,3,40,7.05,15.67,1,3,7.05,1,0,8.4,1
+Shivam Dube,2022,Chennai Super Kings,0.5,4.0,sold,All-Rounder,Indian,S Dube,399,347,114.99,19.06,24,22,56.59,3,22,359,114.33,5,97,8.41,15.0,3,5,8.93,3,0,8.0,1
+Krishnappa Gowtham,2022,Lucknow Super Giants,0.5,0.9,sold,All-Rounder,Indian,K Gowtham,186,113,164.6,20.67,13,12,61.38,3,19,42,155.56,14,414,8.35,93.92,3,1,10.5,3,0,1.8,1
+Khaleel Ahmed,2022,Delhi Capitals,0.5,5.25,sold,,,KK Ahmed,1,5,20.0,0.33,0,0,0.0,3,3,1,25.0,35,567,8.48,28.03,4,15,8.65,4,1,10.5,1
+Dushmantha Chameera,2022,Lucknow Super Giants,0.5,2.0,sold,,,Dushmantha Chameera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Chetan Sakariya,2022,Delhi Capitals,0.5,4.2,sold,Bowler,Indian,C Sakariya,16,25,64.0,4.0,2,0,50.0,1,5,16,64.0,14,334,7.8,31.0,1,14,7.8,1,0,8.4,1
+Sandeep Sharma,2022,Punjab Kings,0.5,0.5,sold,Bowler,Indian,Sandeep Sharma,52,66,78.79,5.11,4,0,21.6,9,23,20,90.91,120,2273,7.63,27.99,9,17,7.51,9,6,1.0,1
+Navdeep Saini,2022,Rajasthan Royals,0.75,2.6,sold,Bowler,Indian,Navdeep Saini,31,36,86.11,10.33,3,0,14.81,3,6,29,90.62,20,618,8.3,41.58,3,8,8.37,3,0,3.47,1
+Jaydev Unadkat,2022,Mumbai Indians,0.75,1.3,sold,Bowler,Indian,JD Unadkat,105,99,106.06,6.47,9,3,17.11,7,16,50,111.11,92,1819,8.63,31.13,12,9,8.57,12,6,1.73,1
+Mayank Markande,2022,Mumbai Indians,0.5,0.65,sold,Bowler,Indian,M Markande,27,30,90.0,8.25,3,0,52.38,2,7,0,0.0,16,323,8.56,42.03,3,0,8.67,3,0,1.3,1
+Shahbaz Nadeem,2022,Lucknow Super Giants,0.5,0.5,sold,Bowler,Indian,S Nadeem,39,88,44.32,2.3,2,0,8.57,10,20,7,77.78,54,1444,7.48,33.12,11,7,8.01,11,2,1.0,1
+Maheesh Theekshana,2022,Chennai Super Kings,0.5,0.7,sold,Bowler,Overseas,M Theekshana,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.4,0
+Rinku Singh,2022,Kolkata Knight Riders,0.2,0.55,sold,Batsman,Indian,RK Singh,77,79,97.47,12.25,6,2,44.93,3,8,11,100.0,0,0,0.0,0.0,0,0,0.0,3,0,2.75,1
+Manan Vohra,2022,Lucknow Super Giants,0.2,0.2,sold,Batsman,Indian,M Vohra,1054,840,125.48,21.55,102,41,62.53,7,49,42,105.0,0,0,0.0,0.0,0,0,0.0,7,3,1.0,1
+Lalit Yadav,2022,Delhi Capitals,0.2,0.65,sold,All-Rounder,Indian,Lalit Yadav,68,75,90.67,34.0,7,0,41.18,1,5,68,90.67,4,84,7.21,25.25,1,4,7.21,1,0,3.25,1
+Ripal Patel,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,RV Patel,25,29,86.21,25.0,3,0,48.0,1,2,25,86.21,0,20,6.6,0.0,1,0,6.6,1,0,1.0,1
+Yash Dhull,2022,Delhi Capitals,0.2,0.5,sold,All-Rounder,Indian,YV Dhull,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.5,0
+Tilak Varma,2022,Mumbai Indians,0.2,1.7,sold,,,Tilak Varma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.5,0
+Mahipal Lomror,2022,Royal Challengers Bangalore,0.4,0.95,sold,All-Rounder,Indian,MK Lomror,181,154,117.53,19.75,8,9,53.78,4,10,153,117.69,1,61,7.28,47.0,2,1,6.56,4,0,2.37,1
+Anukul Roy,2022,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian,AS Roy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,15,4.4,11.0,1,0,0.0,1,0,1.0,1
+Darshan Nalkande,2022,Gujarat Titans,0.2,0.2,sold,All-Rounder,Indian,DG Nalkande,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+R. Sanjay Yadav,2022,Mumbai Indians,0.2,0.5,sold,,,R Sanjay Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.5,0
+Raj Angad Bawa,2022,Punjab Kings,0.2,2.0,sold,All-Rounder,Indian,RA Bawa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.0,0
+Rajvardhan Hangargekar,2022,Chennai Super Kings,0.3,1.5,sold,All-Rounder,Indian,RS Hangargekar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,5.0,0
+Yash Dayal,2022,Gujarat Titans,0.2,3.2,sold,Bowler,Indian,Yash Dayal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,16.0,0
+Simarjeet Singh,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian,Simarjeet Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Finn Allen,2022,Royal Challengers Bangalore,0.5,0.8,sold,Batsman,Overseas,Finn Allen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.6,0
+Devon Conway,2022,Chennai Super Kings,1.0,1.0,sold,Batsman,Overseas,DP Conway,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rovman Powell,2022,Delhi Capitals,0.75,2.8,sold,Batsman,Overseas,R Powell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.73,0
+Jofra Archer,2022,Mumbai Indians,2.0,8.0,sold,All-Rounder,Overseas,JC Archer,195,128,152.34,18.44,11,14,61.28,3,21,113,171.21,47,858,7.05,22.03,3,20,6.49,3,1,4.0,1
+Rishi Dhawan,2022,Punjab Kings,0.5,0.55,sold,All-Rounder,Indian,R Dhawan,153,135,113.33,20.0,13,4,50.47,4,16,0,0.0,20,513,7.66,55.34,4,0,0.0,4,0,1.1,1
+Dwaine Pretorius,2022,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas,D Pretorius,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sherfane Rutherford,2022,Royal Challengers Bangalore,1.0,1.0,sold,All-Rounder,Overseas,SE Rutherford,73,55,132.73,14.6,2,7,68.49,1,7,0,0.0,1,46,7.83,60.0,1,0,0.0,1,0,1.0,1
+Daniel Sams,2022,Mumbai Indians,1.0,2.6,sold,All-Rounder,Overseas,DR Sams,6,8,75.0,3.0,0,0,0.0,2,3,6,75.0,1,115,7.98,39.0,2,1,7.98,2,0,2.6,1
+Mitchell Santner,2022,Chennai Super Kings,1.0,1.9,sold,All-Rounder,Overseas,MJ Santner,32,25,128.0,32.0,0,3,56.25,1,2,0,0.0,6,130,6.78,25.0,2,2,7.57,2,0,1.9,1
+Romario Shepherd,2022,Sunrisers Hyderabad,0.75,7.75,sold,All-Rounder,Overseas,R Shepherd,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.33,0
+Jason Behrendorff,2022,Royal Challengers Bangalore,0.75,0.75,sold,Bowler,Overseas,JP Behrendorff,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,5,117,8.62,33.6,1,0,0.0,1,0,1.0,1
+Obed McCoy,2022,Rajasthan Royals,0.75,0.75,sold,,,OC McCoy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tymal Mills,2022,Mumbai Indians,1.0,1.5,sold,Bowler,Overseas,TS Mills,8,11,72.73,2.67,0,1,75.0,1,3,0,0.0,5,111,8.49,31.4,1,0,0.0,1,0,1.5,1
+Adam Milne,2022,Chennai Super Kings,1.5,1.9,sold,Bowler,Overseas,AF Milne,23,31,74.19,5.17,0,1,18.75,2,6,16,84.21,9,202,9.5,37.67,3,4,9.31,3,0,1.27,1
+Subhranshu Senapati,2022,Chennai Super Kings,0.2,0.2,sold,Batsman,Indian,Subhranshu Senapati,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tim David,2022,Mumbai Indians,0.4,8.25,sold,All-Rounder,Overseas,TH David,1,3,33.33,1.0,0,0,0.0,1,1,1,33.33,0,0,0.0,0.0,0,0,0.0,1,0,20.62,1
+Pravin Dubey,2022,Delhi Capitals,0.2,0.5,sold,All-Rounder,Indian,P Dubey,7,13,53.85,7.0,0,0,0.0,1,1,7,53.85,0,48,9.0,0.0,1,0,9.0,1,0,2.5,1
+Prerak Mankad,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,PN Mankad,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Suyash Prabhudessai,2022,Royal Challengers Bangalore,0.2,0.3,sold,All-Rounder,Indian,SS Prabhudessai,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Vaibhav Arora,2022,Punjab Kings,0.2,2.0,sold,Bowler,Indian,VG Arora,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,10.0,0
+Mukesh Choudhary,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian,Mukesh Choudhary,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rasikh Salam Dar,2022,Kolkata Knight Riders,0.2,0.2,sold,,,Rasikh Salam Dar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohsin Khan,2022,Lucknow Super Giants,0.2,0.2,sold,Bowler,Indian,Mohsin Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chama Milind,2022,Royal Challengers Bangalore,0.2,0.25,sold,Bowler,Indian,Chama Milind,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.25,0
+Prashant Solanki,2022,Chennai Super Kings,0.2,1.2,sold,Bowler,Indian,PH Solanki,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.0,0
+Sean Abbott,2022,Sunrisers Hyderabad,0.2,2.4,sold,Bowler,Overseas,SA Abbott,15,13,115.38,15.0,1,1,66.67,1,2,0,0.0,0,32,10.69,0.0,1,0,0.0,1,0,12.0,1
+Alzarri Joseph,2022,Gujarat Titans,0.75,2.4,sold,Bowler,Overseas,AS Joseph,15,13,115.38,15.0,2,0,53.33,1,1,0,0.0,6,55,9.71,14.83,1,0,0.0,1,1,3.2,1
+Riley Meredith,2022,Mumbai Indians,1.0,1.0,sold,Bowler,Overseas,RP Meredith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4,108,9.5,42.75,1,4,9.5,1,0,1.0,1
+Ayush Badoni,2022,Lucknow Super Giants,0.2,0.2,sold,All-Rounder,Indian,A Badoni,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aneeshwar Gautam,2022,Royal Challengers Bangalore,1.0,1.0,sold,All-Rounder,Indian,Aneeshwar Gautam,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Baba Indrajith,2022,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian,B Indrajith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Chamika Karunaratne,2022,Kolkata Knight Riders,0.5,0.5,sold,All-Rounder,Overseas,Chamika Karunaratne,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ravikumar Samarth,2022,Sunrisers Hyderabad,0.2,0.2,sold,,,Ravikumar Samarth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Abhijeet Tomar,2022,Kolkata Knight Riders,0.2,0.4,sold,Batsman,Indian,A Tomar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.0,0
+Pradeep Sangwan,2022,Gujarat Titans,0.2,0.2,sold,All-Rounder,Indian,PJ Sangwan,24,41,58.54,3.17,1,0,16.67,6,13,0,0.0,41,849,8.49,30.75,8,0,0.0,8,0,1.0,1
+Writtick Chatterjee,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,Writtick Chatterjee,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pratham Singh,2022,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian,Pratham Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shashank Singh,2022,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian,Shashank Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kyle Mayers,2022,Lucknow Super Giants,0.5,0.5,sold,All-Rounder,Overseas,KR Mayers,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Karan Sharma,2022,Lucknow Super Giants,0.2,0.2,sold,All-Rounder,Indian,KS Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Baltej Singh,2022,Punjab Kings,0.2,0.2,sold,,,Baltej Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Saurabh Dubey,2022,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian,Saurabh Dubey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammed Arshad Khan,2022,Mumbai Indians,0.2,0.2,sold,,,Mohammed Arshad Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ansh Patel,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,AR Patel,953,797,119.57,16.21,55,44,49.66,8,77,157,110.56,103,2338,7.23,32.44,8,27,6.52,8,7,1.0,1
+Ashok Sharma,2022,Kolkata Knight Riders,0.2,0.5,sold,Bowler,Indian,Ashok Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.5,0
+Anunay Singh,2022,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,Anunay Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+David Miller,2022,Gujarat Titans,1.0,3.0,sold,Batsman,Overseas,DA Miller,1974,1490,132.48,34.5,137,90,50.67,9,85,124,107.83,0,0,0.0,0.0,0,0,0.0,9,3,3.0,1
+Sam Billings,2022,Kolkata Knight Riders,2.0,2.0,sold,Wicket Keeper,Overseas,SW Billings,334,256,130.47,14.62,31,10,40.57,4,19,0,0.0,0,0,0.0,0.0,0,0,0.0,4,1,1.0,1
+Wriddhiman Saha,2022,Gujarat Titans,1.0,1.9,sold,Wicket Keeper,Indian,WP Saha,2110,1685,125.22,30.1,191,69,52.3,14,106,345,113.86,0,0,0.0,0.0,0,0,0.0,14,4,1.9,1
+Matthew Wade,2022,Gujarat Titans,2.0,2.4,sold,Wicket Keeper,Overseas,MS Wade,22,33,66.67,7.33,0,0,0.0,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.2,1
+C. Hari Nishanth,2022,Chennai Super Kings,0.2,0.2,sold,,,C. Hari Nishanth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Anmolpreet Singh,2022,Mumbai Indians,0.2,0.2,sold,Batsman,Indian,Anmolpreet Singh,16,14,114.29,16.0,2,1,87.5,1,1,16,114.29,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Narayan Jagadeesan,2022,Chennai Super Kings,0.2,0.2,sold,,,N Jagadeesan,33,31,106.45,16.5,4,0,48.48,1,2,33,106.45,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Vishnu Vinod,2022,Sunrisers Hyderabad,0.2,0.5,sold,Wicket Keeper,Indian,Vishnu Vinod,19,26,73.08,6.33,1,1,52.63,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,2.5,1
+Chris Jordan,2022,Chennai Super Kings,2.0,3.6,sold,All-Rounder,Overseas,CJ Jordan,64,59,108.47,7.17,3,3,24.08,4,8,61,112.96,30,497,8.86,20.72,5,16,8.94,5,1,1.8,1
+Lungi Ngidi,2022,Delhi Capitals,0.5,0.5,sold,,,L Ngidi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,28,342,8.07,18.39,3,15,9.99,3,1,1.0,1
+Karn Sharma,2022,Royal Challengers Bangalore,0.5,0.5,sold,Bowler,Indian,KV Sharma,317,285,111.23,15.58,18,14,42.7,6,34,0,0.0,64,1239,7.97,44.08,8,5,8.39,8,1,1.0,1
+Kuldeep Sen,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,KR Sen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Alex Hales,2022,Kolkata Knight Riders,1.5,1.5,sold,Batsman,Overseas,AD Hales,148,119,124.37,24.67,13,6,59.46,1,6,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Evin Lewis,2022,Lucknow Super Giants,2.0,2.0,sold,Batsman,Overseas,E Lewis,581,439,132.35,25.19,54,33,68.34,3,21,151,157.29,0,0,0.0,0.0,0,0,0.0,3,0,1.0,1
+Karun Nair,2022,Rajasthan Royals,0.5,1.4,sold,Batsman,Indian,KK Nair,1480,1174,126.06,17.85,160,39,43.56,8,66,16,114.29,0,0,0.0,0.0,0,0,0.0,8,3,2.8,1
+Glenn Phillips,2022,Sunrisers Hyderabad,1.5,1.5,sold,Wicket Keeper,Overseas,GD Phillips,26,33,78.79,13.0,1,2,61.54,1,3,26,78.79,1,13,9.23,20.0,1,1,9.23,1,0,1.0,1
+Tim Seifert,2022,Delhi Capitals,0.5,0.5,sold,Wicket Keeper,Overseas,TL Seifert,2,5,40.0,2.0,0,0,0.0,1,1,2,40.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Nathan Ellis,2022,Punjab Kings,0.75,0.75,sold,Bowler,Overseas,NT Ellis,18,17,105.88,18.0,0,1,33.33,1,2,18,105.88,1,68,8.03,91.0,1,1,8.03,1,0,1.0,1
+Fazalhaq Farooqi,2022,Sunrisers Hyderabad,0.5,0.5,sold,Bowler,Overseas,Fazalhaq Farooqi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ramandeep Singh,2022,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,Ramandeep Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Atharva Taide,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian,Atharva Taide,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dhruv Jurel,2022,Rajasthan Royals,0.2,0.2,sold,Wicket Keeper,Indian,Dhruv Jurel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mayank Yadav,2022,Lucknow Super Giants,0.2,0.2,sold,Bowler,Indian,MP Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Tejas Baroka,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,Tejas Baroka,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,21,9.43,0.0,1,0,0.0,1,0,1.0,1
+Bhanuka Rajapaksa,2022,Punjab Kings,0.5,0.5,sold,Batsman,Overseas,Bhanuka Rajapaksa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Gurkeerat Singh,2022,Gujarat Titans,0.5,0.5,sold,,,Gurkeerat Singh,511,436,117.2,28.36,55,11,55.33,6,32,71,85.54,5,82,7.1,18.75,2,0,0.0,6,0,1.0,1
+Tim Southee,2022,Kolkata Knight Riders,1.5,1.5,sold,Bowler,Overseas,TG Southee,118,96,122.92,10.29,8,4,45.69,7,14,3,60.0,39,1006,8.42,44.9,8,5,7.7,8,1,1.0,1
+Rahul Buddhi,2022,Mumbai Indians,0.2,0.2,sold,Batsman,Indian,Rahul Buddhi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Benny Howell,2022,Punjab Kings,0.4,0.4,sold,All-Rounder,Overseas,Benny Howell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kuldip Yadav,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian,Kuldeep Yadav,57,76,75.0,11.75,5,0,34.36,4,10,13,61.9,43,913,8.22,43.8,5,1,7.6,5,1,1.0,1
+Varun Aaron,2022,Gujarat Titans,0.5,0.5,sold,Bowler,Indian,VR Aaron,50,73,68.49,7.14,2,2,20.0,7,12,1,10.0,44,1032,8.57,43.94,8,0,10.67,8,2,1.0,1
+Ramesh Kumar,2022,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian,R Vinay Kumar,310,289,107.27,14.2,21,9,36.97,10,42,0,0.0,127,2186,8.35,25.04,11,0,0.0,11,3,1.0,1
+Hrithik Shokeen,2022,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian,HR Shokeen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+K. Bhagath Varma,2022,Chennai Super Kings,0.2,0.2,sold,,,K. Bhagath Varma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Arjun Tendulkar,2022,Mumbai Indians,0.2,0.3,sold,All-Rounder,Indian,Arjun Tendulkar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.5,0
+Shubham Garhwal,2022,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian,Shubham Garhwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohammad Nabi,2022,Kolkata Knight Riders,1.0,1.0,sold,All-Rounder,Overseas,Mohammad Nabi,186,126,147.62,10.7,16,10,55.22,5,14,45,150.0,13,345,7.25,36.16,5,2,8.92,5,0,1.0,1
+Umesh Yadav,2022,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Indian,UT Yadav,122,135,90.37,10.39,11,4,25.06,11,34,0,0.0,137,2648,8.35,35.11,11,1,11.22,11,8,1.0,1
+James Neesham,2022,Rajasthan Royals,1.5,1.5,sold,All-Rounder,Overseas,JDS Neesham,61,66,92.42,7.83,3,2,24.81,3,8,19,95.0,8,204,9.21,61.37,3,7,8.86,3,0,1.0,1
+Nathan Coulter-Nile,2022,Rajasthan Royals,2.0,2.0,sold,Bowler,Overseas,NM Coulter-Nile,81,73,110.96,9.39,7,4,55.14,6,15,29,145.0,52,872,7.4,22.96,7,13,7.07,7,5,1.0,1
+Vicky Ostwal,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian,Vicky Ostwal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rassie van der Dussen,2022,Rajasthan Royals,1.0,1.0,sold,,,Rassie van der Dussen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Daryl Mitchell,2022,Rajasthan Royals,0.75,0.75,sold,All-Rounder,Overseas,DJ Mitchell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Siddharth Kaul,2022,Royal Challengers Bangalore,0.75,0.75,sold,Bowler,Indian,S Kaul,20,36,55.56,3.08,1,0,8.33,6,9,8,100.0,63,1214,8.55,35.53,7,10,9.19,7,0,1.0,1
+B. Sai Sudharshan,2022,Gujarat Titans,0.2,0.2,sold,,,B. Sai Sudharshan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aryan Juyal,2022,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Indian,Aryan Juyal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Luvnith Sisodia,2022,Royal Challengers Bangalore,0.2,0.2,sold,Wicket Keeper,Indian,Luvnith Sisodia,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Fabian Allen,2022,Mumbai Indians,0.75,0.75,sold,All-Rounder,Overseas,FA Allen,6,12,50.0,6.0,0,0,0.0,1,2,6,50.0,1,67,8.06,90.0,1,1,8.06,1,0,1.0,1
+David Willey,2022,Royal Challengers Bangalore,2.0,2.0,sold,All-Rounder,Overseas,DJ Willey,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2,61,9.44,48.0,1,0,0.0,1,0,1.0,1
+Aman Khan,2022,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian,Aman Hakim Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kane Williamson,2023,Gujarat Titans,2.0,2.0,sold,,,KS Williamson,2105,1707,123.32,35.75,183,64,49.03,8,74,486,100.21,0,18,10.33,0.0,2,0,0.0,8,6,1.0,1
+Harry Brook,2023,Sunrisers Hyderabad,1.5,13.25,sold,,,HC Brook,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.83,0
+Mayank Agarwal,2023,Sunrisers Hyderabad,1.0,8.25,sold,,,MA Agarwal,2335,1803,129.51,20.48,228,91,61.25,12,107,637,129.74,0,0,0.0,0.0,0,0,0.0,12,4,8.25,1
+Ajinkya Rahane,2023,Chennai Super Kings,0.5,0.5,sold,,,AM Rahane,4074,3465,117.58,26.27,431,80,56.47,14,148,141,100.71,1,6,5.0,5.0,1,0,0.0,14,12,1.0,1
+Sam Curran,2023,Punjab Kings,2.0,18.5,sold,,,SM Curran,337,230,146.52,21.89,30,18,68.69,3,23,56,186.67,35,681,8.85,29.2,3,10,9.53,3,1,9.25,1
+Odean Smith,2023,Gujarat Titans,0.5,0.5,sold,,,OF Smith,51,50,102.0,17.0,1,5,66.67,1,6,51,102.0,7,95,11.31,25.57,1,7,11.31,1,1,1.0,1
+Sikandar Raza,2023,Punjab Kings,0.5,0.5,sold,,,Sikandar Raza,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jason Holder,2023,Rajasthan Royals,2.0,5.75,sold,,,JO Holder,247,205,120.49,15.67,13,17,67.27,5,24,143,120.17,55,873,8.24,28.27,6,32,8.28,6,1,2.88,1
+Cameron Green,2023,Mumbai Indians,2.0,17.5,sold,,,C Green,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.75,0
+Ben Stokes,2023,Chennai Super Kings,2.0,16.25,sold,,,BA Stokes,920,703,130.87,19.99,79,32,42.4,5,41,0,0.0,31,717,8.41,42.58,5,0,12.0,5,5,8.12,1
+Nicholas Pooran,2023,Lucknow Super Giants,2.0,16.0,sold,,,N Pooran,912,630,144.76,25.48,52,65,63.47,4,43,391,128.2,0,0,0.0,0.0,0,0,0.0,4,0,8.0,1
+Heinrich Klaasen,2023,Sunrisers Hyderabad,1.0,5.25,sold,,,H Klaasen,66,58,113.79,11.75,5,1,22.81,2,6,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,5.25,1
+Phil Salt,2023,Delhi Capitals,2.0,2.0,sold,,,PD Salt,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Reece Topley,2023,Royal Challengers Bangalore,0.75,1.9,sold,,,RJW Topley,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.53,0
+Jaydev Unadkat,2023,Lucknow Super Giants,0.5,0.5,sold,,,JD Unadkat,164,136,120.59,13.04,13,6,22.17,8,21,100,144.93,99,1942,8.67,30.74,13,11,8.38,13,6,1.0,1
+Jhye Richardson,2023,Mumbai Indians,1.5,1.5,sold,,,JA Richardson,15,25,60.0,7.5,2,0,53.33,1,2,15,60.0,3,69,10.61,40.67,1,3,10.61,1,0,1.0,1
+Ishant Sharma,2023,Delhi Capitals,0.5,0.5,sold,,,I Sharma,55,62,88.71,6.67,4,2,41.48,6,18,0,0.0,74,2090,7.98,53.97,12,1,8.17,12,2,1.0,1
+Adil Rashid,2023,Sunrisers Hyderabad,2.0,2.0,sold,,,AU Rashid,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,18,11.67,0.0,1,0,11.67,1,0,1.0,1
+Mayank Markande,2023,Sunrisers Hyderabad,0.5,0.5,sold,,,M Markande,27,30,90.0,8.25,3,0,52.38,2,7,0,0.0,17,365,8.58,48.36,4,1,8.7,4,0,1.0,1
+Shaik Rasheed,2023,Chennai Super Kings,0.2,0.2,sold,,,Shaik Rasheed,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vivrant Sharma,2023,Sunrisers Hyderabad,0.2,2.6,sold,,,Vivrant Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,13.0,0
+Samarth Vyas,2023,Sunrisers Hyderabad,0.2,0.2,sold,,,Samarth Vyas,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sanvir Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold,,,Sanvir Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nishant Sindhu,2023,Chennai Super Kings,0.2,0.6,sold,,,Nishant Sindhu,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.0,0
+N Jagadeesan,2023,Kolkata Knight Riders,0.2,0.9,sold,,,N Jagadeesan,73,71,102.82,28.25,7,1,46.74,2,4,40,100.0,0,0,0.0,0.0,0,0,0.0,2,0,4.5,1
+K. S. Bharat,2023,Gujarat Titans,0.2,1.2,sold,,,KS Bharat,199,168,118.45,21.1,12,8,73.04,2,8,199,118.45,0,0,0.0,0.0,0,0,0.0,2,1,6.0,1
+Upendra Yadav,2023,Sunrisers Hyderabad,0.2,0.25,sold,,,UT Yadav,177,176,100.57,10.67,15,8,29.03,12,41,55,134.15,153,2945,8.23,34.03,12,16,7.15,12,10,1.25,1
+Vaibhav Arora,2023,Kolkata Knight Riders,0.2,0.6,sold,,,VG Arora,5,14,35.71,2.5,0,0,0.0,1,4,5,35.71,4,110,9.0,41.25,1,4,9.0,1,0,3.0,1
+Yash Thakur,2023,Lucknow Super Giants,0.2,0.45,sold,,,Yash Thakur,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.25,0
+Shivam Mavi,2023,Gujarat Titans,0.4,6.0,sold,,,Shivam Mavi,51,58,87.93,5.83,4,2,37.69,4,11,28,96.55,33,687,8.37,32.19,4,17,8.17,4,2,15.0,1
+Mukesh Kumar,2023,Delhi Capitals,0.2,5.5,sold,,,Mukesh Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,27.5,0
+Himanshu Sharma,2023,Royal Challengers Bangalore,0.2,0.2,sold,,,H Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manish Pandey,2023,Delhi Capitals,1.0,2.4,sold,,,MK Pandey,3657,3106,117.74,31.36,318,106,49.13,15,148,380,115.15,0,0,0.0,0.0,0,0,0.0,15,5,2.4,1
+Will Jacks,2023,Royal Challengers Bangalore,1.5,3.2,sold,,,WG Jacks,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.13,0
+Romario Shepherd,2023,Lucknow Super Giants,0.5,0.5,sold,,,R Shepherd,58,43,134.88,19.33,2,5,65.52,1,3,58,134.88,4,57,10.32,24.5,1,4,10.32,1,0,1.0,1
+Daniel Sams,2023,Lucknow Super Giants,0.75,0.75,sold,,,DR Sams,44,48,91.67,3.58,1,3,19.3,3,13,44,95.65,15,389,8.14,32.89,3,15,7.96,3,1,1.0,1
+Kyle Jamieson,2023,Chennai Super Kings,1.0,1.0,sold,,,KA Jamieson,65,55,118.18,21.67,5,3,58.46,1,7,65,118.18,9,179,9.08,30.11,1,9,9.08,1,0,1.0,1
+Piyush Chawla,2023,Mumbai Indians,0.5,0.5,sold,,,PP Chawla,584,543,107.55,10.04,54,18,46.09,13,76,0,0.0,165,3309,7.92,28.08,14,1,9.5,14,3,1.0,1
+Amit Mishra,2023,Lucknow Super Giants,0.5,0.5,sold,,,A Mishra,362,410,88.29,12.4,29,5,27.14,12,54,0,0.0,175,3317,7.28,24.43,14,6,7.79,14,12,1.0,1
+Harpreet Singh Bhatia,2023,Punjab Kings,0.2,0.4,sold,,,Harpreet Singh Bhatia,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.0,0
+Manoj Bhandage,2023,Royal Challengers Bangalore,0.2,0.2,sold,,,Manoj Bhandage,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mayank Dagar,2023,Sunrisers Hyderabad,0.2,1.8,sold,,,Mayank Dagar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,9.0,0
+Duan Jansen,2023,Mumbai Indians,0.2,0.2,sold,,,D Jansen,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Prerak Mankad,2023,Lucknow Super Giants,0.2,1.8,sold,,,PN Mankad,4,1,400.0,4.0,1,0,100.0,1,1,4,400.0,0,0,0.0,0.0,0,0,0.0,1,0,9.0,1
+Donavon Ferreira,2023,Rajasthan Royals,0.2,0.2,sold,,,D Ferreira,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Urvil Patel,2023,Gujarat Titans,0.2,0.2,sold,,,Urvil Patel,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vishnu Vinod,2023,Mumbai Indians,0.2,0.2,sold,,,Vishnu Vinod,19,26,73.08,6.33,1,1,52.63,1,3,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Vidwath Kaverappa,2023,Punjab Kings,0.2,0.2,sold,,,V Kaverappa,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rajan Kumar,2023,Royal Challengers Bangalore,0.2,0.2,sold,,,R Vinay Kumar,310,289,107.27,14.2,21,9,36.97,10,42,0,0.0,127,2186,8.35,25.04,11,0,0.0,11,3,1.0,1
+Suyash Sharma,2023,Kolkata Knight Riders,0.2,0.2,sold,,,Suyash Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Josh Little,2023,Gujarat Titans,0.5,4.4,sold,,,J Little,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,8.8,0
+Mohit Sharma,2023,Gujarat Titans,0.5,0.5,sold,,,MM Sharma,122,120,101.67,5.93,9,4,28.08,7,25,0,0.0,100,1795,8.32,30.18,8,0,0.0,8,2,1.0,1
+Shams Mulani,2023,Mumbai Indians,0.2,0.2,sold,,,SZ Mulani,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Swapnil Singh,2023,Lucknow Super Giants,0.2,0.2,sold,,,Swapnil Singh,12,20,60.0,3.0,0,0,0.0,2,3,0,0.0,1,61,8.85,61.0,2,0,0.0,2,0,1.0,1
+David Wiese,2023,Kolkata Knight Riders,1.0,1.0,sold,,,D Wiese,127,94,135.11,14.7,12,4,29.51,2,8,0,0.0,17,289,8.49,21.18,2,0,0.0,2,0,1.0,1
+Nitish Kumar Reddy,2023,Sunrisers Hyderabad,0.2,0.2,sold,,,Nithish Kumar Reddy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Avinash Singh,2023,Royal Challengers Bangalore,0.2,0.6,sold,,,Avinash Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.0,0
+Kunal Rathore,2023,Rajasthan Royals,0.2,0.2,sold,,,Kunal Rathore,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Sonu Yadav,2023,Royal Challengers Bangalore,0.2,0.2,sold,,,SA Yadav,2644,1973,134.01,26.9,284,84,54.12,10,108,620,142.2,0,6,8.0,0.0,1,0,0.0,10,6,1.0,1
+Kulwant Khejroliya,2023,Kolkata Knight Riders,0.2,0.2,sold,,,K Khejroliya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3,101,9.33,51.0,2,0,0.0,2,0,1.0,1
+Ajay Mandal,2023,Chennai Super Kings,0.2,0.2,sold,,,Ajay Mandal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohit Rathee,2023,Punjab Kings,0.2,0.2,sold,,,Mohit Rathee,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nehal Wadhera,2023,Mumbai Indians,0.2,0.2,sold,,,N Wadhera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Bhagath Varma,2023,Chennai Super Kings,0.2,0.2,sold,,,Bhagath Varma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shivam Singh,2023,Punjab Kings,0.2,0.2,sold,,,Shivam Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Rilee Rossouw,2023,Royal Challengers Bangalore,2.0,4.6,sold,,,RR Rossouw,53,51,103.92,8.38,3,3,61.36,2,5,0,0.0,0,0,0.0,0.0,0,0,0.0,2,0,2.3,1
+Litton Das,2023,Kolkata Knight Riders,0.5,0.5,sold,,,Liton Das,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akeal Hosein,2023,Sunrisers Hyderabad,1.0,1.0,sold,,,AJ Hosein,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Adam Zampa,2023,Rajasthan Royals,1.5,1.5,sold,,,A Zampa,5,8,62.5,2.5,1,0,40.0,2,2,0,0.0,21,292,7.66,26.39,3,0,0.0,3,1,1.0,1
+Anmolpreet Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold,,,Anmolpreet Singh,29,27,107.41,11.25,3,1,59.13,2,3,29,107.41,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+KM Asif,2023,Rajasthan Royals,0.2,0.3,sold,,,KM Asif,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4,52,10.73,21.5,2,1,7.71,2,0,1.5,1
+Murugan Ashwin,2023,Rajasthan Royals,0.2,0.2,sold,,,M Ashwin,35,50,70.0,3.58,2,1,18.33,6,12,27,71.05,35,873,7.76,42.38,6,10,7.99,6,0,1.0,1
+Mandeep Singh,2023,Kolkata Knight Riders,0.5,0.5,sold,,,Mandeep Singh,1692,1402,120.68,17.32,176,37,58.32,12,94,33,86.84,0,12,13.0,0.0,1,0,0.0,12,3,1.0,1
+Akash Vasisht,2023,Rajasthan Royals,0.2,0.2,sold,,,Akash Vasisht,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Naveen-ul-Haq,2023,Lucknow Super Giants,0.5,0.5,sold,,,Naveen-ul-Haq,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Yudhvir Singh Charak,2023,Lucknow Super Giants,0.2,0.2,sold,,,Yudhvir Singh Charak,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Raghav Goyal,2023,Mumbai Indians,0.2,0.2,sold,,,R Goyal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold,,,Abdul Basith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold,,,JE Root,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold,,,Shakib Al Hasan,795,665,119.55,15.1,73,21,39.88,9,52,47,94.0,71,1515,7.38,30.42,9,5,7.18,9,2,1.0,1
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold,,,Abdul Basith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold,,,JE Root,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold,,,Shakib Al Hasan,795,665,119.55,15.1,73,21,39.88,9,52,47,94.0,71,1515,7.38,30.42,9,5,7.18,9,2,1.0,1
+Virat Kohli,2025,RCB,,21.0,sold,Batsman,,V Kohli,8014,6236,128.51,37.06,708,273,55.07,17,244,1380,142.27,5,264,8.43,37.0,7,0,0.0,17,18,,1
+Rajat Patidar,2025,RCB,,11.0,sold,Batsman,,RM Patidar,799,534,149.63,33.82,51,54,59.5,3,24,395,166.67,0,0,0.0,0.0,0,0,0.0,3,2,,1
+Yash Dayal,2025,RCB,,5.0,sold,Bowler,,Yash Dayal,0,1,0.0,0.0,0,0,0.0,1,1,0,0.0,31,615,9.1,44.92,3,18,9.32,3,0,,1
+Jasprit Bumrah,2025,MI,,18.0,sold,Bowler,,JJ Bumrah,68,80,85.0,6.37,5,1,23.43,9,26,12,100.0,182,3185,7.23,26.88,11,21,6.24,11,10,,1
+Suryakumar Yadav,2025,MI,,16.35,sold,Batsman,,SA Yadav,3594,2522,142.51,28.89,385,130,57.08,12,135,950,173.04,0,6,8.0,0.0,1,0,0.0,12,9,,1
+Hardik Pandya,2025,MI,,16.35,sold,All-Rounder,,HH Pandya,2534,1814,139.69,27.84,189,137,60.87,10,128,562,137.75,70,1485,8.87,53.75,8,17,9.9,10,8,,1
+Rohit Sharma,2025,MI,,16.3,sold,Batsman,,RG Sharma,6630,5183,127.92,29.12,599,281,61.79,17,251,749,135.93,16,349,7.94,36.27,8,0,0.0,17,19,,1
+Tilak Varma,2025,MI,,8.0,sold,All-Rounder,,Tilak Varma,1156,830,139.28,41.39,90,58,61.67,3,38,759,146.81,0,23,7.3,0.0,3,0,8.18,3,0,,1
+Heinrich Klaasen,2025,SRH,,23.0,sold,Batsman,,H Klaasen,993,613,161.99,28.3,56,64,42.78,4,32,927,167.03,0,0,0.0,0.0,0,0,0.0,4,0,,1
+Pat Cummins,2025,SRH,,18.0,sold,All-Rounder,,PJ Cummins,515,359,143.45,15.01,33,34,56.41,6,39,136,137.37,66,1370,8.65,37.55,7,18,9.14,7,2,,1
+Abhishek Sharma,2025,SRH,,14.0,sold,All-Rounder,,Abhishek Sharma,1377,925,148.86,25.61,128,73,61.87,7,61,710,171.5,11,278,8.55,34.5,6,4,9.13,7,4,,1
+Travis Head,2025,SRH,,14.0,sold,Batsman,,TM Head,772,458,168.56,35.08,76,40,57.05,3,25,567,184.69,3,58,11.69,27.0,2,0,19.2,3,3,,1
+Nitish Kumar Reddy,2025,SRH,,6.0,sold,All-Rounder,,Nithish Kumar Reddy,303,221,137.1,33.67,15,21,61.39,1,11,303,137.1,4,118,10.58,38.5,2,4,10.58,2,1,,1
+Ruturaj Gaikwad,2025,CSK,,18.0,sold,Batsman,,RD Gaikwad,2380,1781,133.63,47.0,217,91,57.96,5,65,1173,140.31,0,0,0.0,0.0,0,0,0.0,5,11,,1
+Ravindra Jadeja,2025,CSK,,18.0,sold,All-Rounder,,RA Jadeja,2959,2378,124.43,29.66,215,107,49.84,16,180,457,138.91,169,3895,7.57,32.55,16,28,7.61,16,16,,1
+Matheesha Pathirana,2025,CSK,,13.0,sold,Bowler,,M Pathirana,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,38,503,7.36,19.41,3,36,7.4,3,2,,1
+Shivam Dube,2025,CSK,,12.0,sold,All-Rounder,,S Dube,1502,1077,139.46,27.21,86,101,60.98,6,61,814,151.87,6,117,9.74,14.5,5,1,14.0,6,2,,1
+MS Dhoni,2025,CSK,,4.0,sold,Batsman,,MS Dhoni,5243,3947,132.84,37.81,363,252,57.71,17,228,265,182.76,0,0,0.0,0.0,0,0,0.0,17,17,,1
+Axar Patel,2025,DC,,16.5,sold,All-Rounder,,AR Patel,1653,1318,125.42,22.25,107,79,52.36,11,112,518,129.82,131,3152,7.28,34.14,11,22,7.42,11,8,,1
+Kuldeep Yadav,2025,DC,,13.25,sold,Bowler,,Kuldeep Yadav,183,224,81.7,18.4,16,3,39.58,7,32,78,82.98,90,1786,8.11,37.39,8,26,7.85,8,7,,1
+Tristan Stubbs,2025,DC,,10.0,sold,Batsman,,T Stubbs,405,239,169.46,25.83,26,26,32.89,3,17,403,171.49,4,25,6.96,9.5,2,4,6.96,3,0,,1
+Abishek Porel,2025,DC,,4.0,sold,Batsman,,Abishek Porel,360,244,147.54,17.75,37,15,58.19,2,16,360,147.54,0,0,0.0,0.0,0,0,0.0,2,0,,1
+Rinku Singh,2025,KKR,,13.0,sold,Batsman,,RK Singh,893,654,136.54,24.91,67,46,53.4,6,40,642,142.67,0,0,0.0,0.0,0,0,0.0,6,3,,1
+Varun Chakravarthy,2025,KKR,,12.0,sold,All-Rounder,,Varun Chakravarthy,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,,0
+Sunil Narine,2025,KKR,,12.0,sold,Bowler,,SP Narine,1534,984,155.89,12.79,164,97,59.66,13,106,509,159.06,200,4146,6.76,27.53,13,29,7.29,13,15,,1
+Andre Russell,2025,KKR,,12.0,sold,All-Rounder,,AD Russell,2488,1515,164.22,26.48,171,209,63.24,12,104,449,148.18,125,1771,9.12,34.47,12,26,9.97,12,15,,1
+Harshit Rana,2025,KKR,,4.0,sold,Bowler,,Harshit Rana,2,3,66.67,1.0,0,0,0.0,2,3,0,0.0,27,403,8.78,32.25,3,26,8.68,3,0,,1
+Ramandeep Singh,2025,KKR,,4.0,sold,All-Rounder,,Ramandeep Singh,170,106,160.38,26.88,8,13,56.8,2,13,125,195.31,6,45,8.53,9.17,2,0,13.5,2,0,,1
+Sanju Samson,2025,RR,,18.0,sold,Batsman,,SV Samson,4419,3270,135.14,31.1,352,206,58.82,12,162,893,147.12,0,0,0.0,0.0,0,0,0.0,12,11,,1
+Yashasvi Jaiswal,2025,RR,,18.0,sold,All-Rounder,,YBK Jaiswal,1607,1095,146.76,29.44,199,64,68.39,5,52,1060,154.74,0,1,36.0,0.0,1,0,0.0,5,5,,1
+Riyan Parag,2025,RR,,14.0,sold,All-Rounder,,R Parag,1173,909,129.04,23.89,84,60,56.66,6,58,651,137.05,5,181,10.18,52.0,5,0,8.53,6,2,,1
+Dhruv Jurel,2025,RR,,14.0,sold,Batsman,,Dhruv Jurel,347,237,146.41,26.6,29,16,61.47,2,22,347,146.41,0,0,0.0,0.0,0,0,0.0,2,0,,1
+Shimron Hetmyer,2025,RR,,11.0,sold,Batsman,,SO Hetmyer,1243,854,145.55,30.36,76,82,64.4,6,65,412,148.74,0,0,0.0,0.0,0,0,0.0,6,3,,1
+Sandeep Sharma,2025,RR,,4.0,sold,Bowler,,Sandeep Sharma,54,73,73.97,4.8,4,0,19.44,10,25,2,28.57,153,2925,7.71,29.28,12,30,8.12,12,7,,1
+Rashid Khan,2025,GT,,18.0,sold,Bowler,,Rashid Khan,545,355,153.52,14.86,39,38,67.38,8,58,232,164.54,157,2901,6.91,22.34,8,38,8.33,8,12,,1
+Shubman Gill,2025,GT,,16.5,sold,Batsman,,Shubman Gill,3216,2432,132.24,37.43,310,95,55.45,7,99,1316,150.06,0,0,0.0,0.0,0,0,0.0,7,10,,1
+Sai Sudharsan,2025,GT,,8.5,sold,All-Rounder,,Sai Sudharsan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,,0
+Rahul Tewatia,2025,GT,,4.0,sold,All-Rounder,,R Tewatia,1013,788,128.55,22.93,84,47,59.34,9,65,275,137.5,36,866,7.74,31.33,9,0,6.43,9,2,,1
+M Shahrukh Khan,2025,GT,,4.0,sold,All-Rounder,,M Shahrukh Khan,553,413,133.9,22.48,35,37,65.35,4,37,283,159.89,0,12,8.0,0.0,1,0,8.0,4,0,,1
+Nicholas Pooran,2025,LSG,,21.0,sold,Batsman,,N Pooran,1769,1143,154.77,32.8,113,127,66.31,6,72,857,167.06,0,0,0.0,0.0,0,0,0.0,6,3,,1
+Ravi Bishnoi,2025,LSG,,11.0,sold,Bowler,,Ravi Bishnoi,32,52,61.54,3.33,2,0,15.43,5,14,24,70.59,68,1460,7.65,28.05,5,27,8.02,5,0,,1
+Mayank Yadav,2025,LSG,,11.0,sold,Bowler,,MP Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,8,76,6.95,11.0,1,8,6.95,1,2,,1
+Mohsin Khan,2025,LSG,,4.0,sold,Bowler,,Mohsin Khan,25,27,92.59,8.33,2,1,20.29,3,5,2,25.0,27,507,8.26,29.98,3,13,9.89,3,1,,1
+Ayush Badoni,2025,LSG,,4.0,sold,All-Rounder,,A Badoni,634,505,125.54,24.57,46,24,51.91,3,35,473,129.23,2,25,8.88,6.0,3,0,11.54,3,0,,1
+Shashank Singh,2025,PBKS,,5.5,sold,All-Rounder,,Shashank Singh,423,272,155.51,33.91,33,25,65.5,2,19,354,157.33,1,19,7.89,5.0,2,1,5.0,2,1,,1
+Prabhsimran Singh,2025,PBKS,,4.0,sold,Batsman,,P Simran Singh,756,528,143.18,15.79,78,41,62.76,6,34,692,150.11,0,0,0.0,0.0,0,0,0.0,6,1,,1
+Jos Buttler,2025,GT,2.0,15.75,sold,Batsman,,JC Buttler,3583,2519,142.24,37.05,356,161,66.82,9,106,751,133.16,0,0,0.0,0.0,0,0,0.0,9,13,7.88,1
+Shreyas Iyer,2025,PBKS,2.0,26.75,sold,Batsman,,SS Iyer,3131,2545,123.03,29.38,272,113,54.27,9,114,351,140.4,0,6,7.0,0.0,1,0,0.0,9,6,13.38,1
+Rishabh Pant,2025,LSG,2.0,27.0,sold,Batsman,,RR Pant,3297,2296,143.6,33.98,298,154,63.04,8,110,446,150.68,0,0,0.0,0.0,0,0,0.0,8,8,13.5,1
+Kagiso Rabada,2025,GT,2.0,10.75,sold,Bowler,,K Rabada,206,207,99.52,12.38,16,8,46.9,7,28,20,105.26,126,1907,8.34,24.63,7,18,9.23,7,2,5.38,1
+Arshdeep Singh,2025,PBKS,2.0,18.0,sold,Bowler,,Arshdeep Singh,29,42,69.05,3.0,4,0,31.43,5,11,6,100.0,84,1453,8.66,27.19,6,38,9.33,6,1,9.0,1
+Mitchell Starc,2025,DC,2.0,11.75,sold,Bowler,,MA Starc,105,109,96.33,10.83,11,0,41.05,3,16,9,81.82,59,879,8.02,20.35,3,20,10.11,3,3,5.88,1
+Yuzvendra Chahal,2025,PBKS,2.0,18.0,sold,Bowler,,YS Chahal,37,89,41.57,3.44,0,0,0.0,8,17,0,0.0,213,3628,7.74,22.94,12,41,8.56,12,6,9.0,1
+Liam Livingstone,2025,RCB,2.0,8.75,sold,All-Rounder,,LS Livingstone,939,609,154.19,25.38,66,66,65.89,5,39,390,151.75,11,267,8.88,36.44,4,5,9.23,5,1,4.38,1
+David Miller,2025,LSG,1.5,7.5,sold,Batsman,,DA Miller,2924,2171,134.68,35.52,207,134,52.52,12,123,469,140.84,0,0,0.0,0.0,0,0,0.0,12,5,5.0,1
+KL Rahul,2025,DC,2.0,14.0,sold,Batsman,,KL Rahul,4689,3578,131.05,40.54,400,187,57.38,11,122,794,123.1,0,0,0.0,0.0,0,0,0.0,11,13,7.0,1
+Mohammed Shami,2025,SRH,2.0,10.0,sold,Bowler,,Mohammed Shami,74,82,90.24,4.78,6,2,23.88,9,23,5,62.5,144,2521,8.3,33.26,10,28,7.92,10,3,5.0,1
+Mohammed Siraj,2025,GT,2.0,12.25,sold,Bowler,,Mohammed Siraj,109,122,89.34,11.36,10,4,45.68,7,20,13,118.18,96,2081,8.34,31.7,8,35,7.97,8,4,6.12,1
+Harry Brook,2025,DC,2.0,6.25,sold,Batsman,,HC Brook,190,159,119.5,21.11,23,4,61.05,1,11,190,119.5,0,0,0.0,0.0,0,0,0.0,1,1,3.12,1
+Devon Conway,2025,CSK,2.0,6.25,sold,Batsman,,DP Conway,924,669,138.12,45.0,100,30,63.49,2,22,672,136.31,0,0,0.0,0.0,0,0,0.0,2,4,3.12,1
+Jake Fraser-McGurk,2025,DC,2.0,9.0,sold,Batsman,,J Fraser-McGurk,330,150,220.0,41.25,32,28,89.7,1,9,330,220.0,0,0,0.0,0.0,0,0,0.0,1,1,4.5,1
+Aiden Markram,2025,LSG,2.0,2.0,sold,Batsman,,AK Markram,995,787,126.43,30.95,73,35,49.38,4,42,468,120.93,2,123,8.44,67.5,4,1,8.32,4,0,1.0,1
+Devdutt Padikkal,2025,RCB,2.0,2.0,sold,Batsman,,D Padikkal,1559,1323,117.84,22.88,170,42,55.08,5,64,299,112.41,0,0,0.0,0.0,0,0,0.0,5,2,1.0,1
+Rahul Tripathi,2025,CSK,0.75,3.4,sold,Batsman,,RA Tripathi,2236,1650,135.52,27.6,223,84,60.85,8,93,438,129.59,0,6,12.0,0.0,1,0,0.0,8,4,4.53,1
+Ravichandran Ashwin,2025,CSK,2.0,9.75,sold,All-Rounder,,R Ashwin,800,698,114.61,12.75,61,28,45.21,15,89,153,116.79,198,4679,6.97,27.92,15,24,7.69,15,6,4.88,1
+Venkatesh Iyer,2025,KKR,2.0,23.75,sold,All-Rounder,,VR Iyer,1326,1000,132.6,31.91,121,61,63.67,4,49,774,147.15,3,84,10.36,23.67,3,0,28.0,4,3,11.88,1
+Mitchell Marsh,2025,LSG,2.0,3.4,sold,All-Rounder,,MR Marsh,665,532,125.0,16.64,48,38,45.9,8,36,189,136.96,37,593,8.12,34.21,8,13,8.87,8,3,1.7,1
+Glenn Maxwell,2025,PBKS,2.0,4.2,sold,All-Rounder,,GJ Maxwell,2772,1842,150.49,22.17,233,160,60.89,12,128,452,166.79,41,965,8.15,40.97,12,10,8.3,12,9,2.1,1
+Harshal Patel,2025,SRH,2.0,8.0,sold,All-Rounder,,HV Patel,249,214,116.36,11.72,16,15,57.46,10,37,19,76.0,151,2284,8.45,29.14,12,45,9.24,12,4,4.0,1
+Rachin Ravindra,2025,CSK,1.5,4.0,sold,All-Rounder,,R Ravindra,222,146,152.05,24.67,22,12,72.07,1,10,222,152.05,0,12,3.5,0.0,1,0,3.5,1,0,2.67,1
+Marcus Stoinis,2025,PBKS,2.0,11.0,sold,All-Rounder,,MP Stoinis,1866,1366,136.6,27.68,150,91,55.31,9,88,796,143.94,45,831,9.39,37.92,9,10,8.77,9,9,5.5,1
+Quinton de Kock,2025,KKR,2.0,3.6,sold,Batsman,,Q de Kock,3160,2410,131.12,29.52,316,123,64.58,11,107,393,132.32,0,0,0.0,0.0,0,0,0.0,11,6,1.8,1
+Rahmanullah Gurbaz,2025,KKR,2.0,2.0,sold,Batsman,,Rahmanullah Gurbaz,289,228,126.75,25.82,24,19,76.74,2,13,289,126.75,0,0,0.0,0.0,0,0,0.0,2,0,1.0,1
+Ishan Kishan,2025,SRH,2.0,11.25,sold,Batsman,,Ishan Kishan,2644,1991,132.8,27.86,255,119,63.19,9,99,774,141.5,0,0,0.0,0.0,0,0,0.0,9,4,5.62,1
+Phil Salt,2025,RCB,2.0,11.5,sold,Batsman,,PD Salt,653,385,169.61,31.75,74,34,75.32,2,21,653,169.61,0,0,0.0,0.0,0,0,0.0,2,2,5.75,1
+Jitesh Sharma,2025,RCB,1.0,11.0,sold,Batsman,,JM Sharma,730,501,145.71,23.34,53,45,65.13,3,36,496,140.91,0,0,0.0,0.0,0,0,0.0,3,0,11.0,1
+Khaleel Ahmed,2025,CSK,2.0,4.8,sold,Bowler,,KK Ahmed,1,7,14.29,0.25,0,0,0.0,4,5,0,0.0,78,1345,8.56,27.28,7,27,8.98,7,2,2.4,1
+Trent Boult,2025,MI,2.0,12.5,sold,Bowler,,TA Boult,83,82,101.22,7.88,5,3,30.04,8,22,30,90.91,128,2428,8.12,29.12,10,29,8.07,10,6,6.25,1
+Josh Hazlewood,2025,RCB,2.0,12.5,sold,Bowler,,JR Hazlewood,19,29,65.52,9.5,1,0,11.11,2,6,1,50.0,36,622,8.01,35.72,4,3,8.0,4,1,6.25,1
+Avesh Khan,2025,LSG,2.0,9.75,sold,Bowler,,Avesh Khan,41,25,164.0,8.2,3,3,60.36,5,9,10,166.67,81,1390,8.68,29.15,8,30,9.43,8,2,4.88,1
+Prasidh Krishna,2025,GT,2.0,9.5,sold,Bowler,,Prasidh Krishna,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.75,0
+T Natarajan,2025,DC,2.0,10.75,sold,Bowler,,T Natarajan,3,5,60.0,3.0,0,0,0.0,1,2,0,0.0,76,1401,8.57,32.72,6,33,8.73,6,0,5.38,1
+Anrich Nortje,2025,KKR,2.0,6.5,sold,Bowler,,A Nortje,49,51,96.08,7.12,6,0,16.22,4,13,41,107.89,62,1097,8.83,28.01,5,18,10.25,5,3,3.25,1
+Noor Ahmad,2025,CSK,2.0,10.0,sold,Bowler,,Noor Ahmad,13,18,72.22,3.25,2,0,65.0,2,5,13,72.22,24,513,7.86,30.28,2,24,7.86,2,0,5.0,1
+Rahul Chahar,2025,SRH,1.0,3.2,sold,Bowler,,RD Chahar,129,127,101.57,6.64,13,5,35.5,7,22,21,84.0,76,1697,7.65,29.75,7,18,8.18,7,1,3.2,1
+Wanindu Hasaranga,2025,RR,2.0,5.25,sold,Bowler,,Wanindu Hasaranga,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.62,0
+Maheesh Theekshana,2025,RR,2.0,4.4,sold,Bowler,,M Theekshana,7,7,100.0,7.0,0,1,85.71,1,2,0,0.0,25,631,7.74,43.9,3,13,7.83,3,0,2.2,1
+Adam Zampa,2025,SRH,2.0,2.4,sold,Bowler,,A Zampa,15,25,60.0,2.78,1,0,26.67,3,5,10,58.82,30,425,7.93,25.04,4,9,8.53,4,1,1.2,1
+Abhinav Manohar,2025,SRH,0.3,3.2,sold,Batsman,,A Manohar,231,181,127.62,13.83,21,10,56.95,3,15,123,120.59,0,0,0.0,0.0,0,0,0.0,3,1,10.67,1
+Karun Nair,2025,DC,0.3,0.5,sold,Batsman,,KK Nair,1496,1192,125.5,16.76,161,39,41.5,9,68,0,0.0,0,0,0.0,0.0,0,0,0.0,9,3,1.67,1
+Angkrish Raghuvanshi,2025,KKR,0.3,3.0,sold,Batsman,,A Raghuvanshi,163,109,149.54,23.29,16,8,68.71,1,7,163,149.54,0,0,0.0,0.0,0,0,0.0,1,0,10.0,1
+Atharva Taide,2025,SRH,0.3,0.3,sold,Batsman,,Atharva Taide,247,177,139.55,30.75,27,8,63.97,2,9,247,139.55,0,1,24.0,0.0,1,0,24.0,2,0,1.0,1
+Nehal Wadhera,2025,PBKS,0.3,4.2,sold,Batsman,,N Wadhera,350,261,134.1,22.47,32,18,67.05,2,16,350,134.1,0,12,6.5,0.0,1,0,6.5,2,0,14.0,1
+Harpreet Brar,2025,PBKS,0.3,1.5,sold,All-Rounder,,Harpreet Brar,233,201,115.92,27.25,19,9,60.09,5,24,127,125.74,25,692,7.86,33.47,6,16,8.0,6,3,5.0,1
+Naman Dhir,2025,MI,0.3,5.25,sold,All-Rounder,,Naman Dhir,140,84,166.67,23.33,12,10,77.14,1,7,140,166.67,0,29,11.38,0.0,1,0,11.38,1,0,17.5,1
+Mahipal Lomror,2025,GT,0.5,1.7,sold,All-Rounder,,MK Lomror,527,389,135.48,18.14,33,30,58.55,7,35,260,148.57,2,94,8.11,32.0,5,1,10.0,7,0,3.4,1
+Sameer Rizvi,2025,DC,0.3,0.95,sold,All-Rounder,,Sameer Rizvi,51,43,118.6,12.75,4,2,54.9,1,5,51,118.6,0,0,0.0,0.0,0,0,0.0,1,0,3.17,1
+Abdul Samad,2025,LSG,0.3,4.2,sold,All-Rounder,,Abdul Samad,579,408,141.91,17.03,37,36,49.96,5,39,351,143.85,2,55,12.33,52.5,3,0,0.0,5,0,14.0,1
+Vijay Shankar,2025,CSK,0.3,1.2,sold,All-Rounder,,V Shankar,1115,890,125.28,27.56,80,45,46.66,8,58,384,140.15,12,258,8.0,30.7,6,0,0.0,8,0,4.0,1
+Ashutosh Sharma,2025,DC,0.3,3.8,sold,All-Rounder,,Ashutosh Sharma,189,118,160.17,23.62,10,15,68.78,1,9,189,160.17,0,0,0.0,0.0,0,0,0.0,1,0,12.67,1
+Nishant Sindhu,2025,GT,0.3,0.3,sold,All-Rounder,,Nishant Sindhu,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aryan Juyal,2025,LSG,0.3,0.3,sold,Batsman,,Aryan Juyal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kumar Kushagra,2025,GT,0.3,0.65,sold,Batsman,,Kumar Kushagra,3,7,42.86,1.0,0,0,0.0,1,3,3,42.86,0,0,0.0,0.0,0,0,0.0,1,0,2.17,1
+Robin Minz,2025,MI,0.3,0.65,sold,Batsman,,Robin Minz,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.17,0
+Anuj Rawat,2025,GT,0.3,0.3,sold,Batsman,,Anuj Rawat,318,276,115.22,20.36,26,14,43.87,4,21,189,124.34,0,0,0.0,0.0,0,0,0.0,4,1,1.0,1
+Luvnith Sisodia,2025,KKR,0.3,0.3,sold,Batsman,,Luvnith Sisodia,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vishnu Vinod,2025,PBKS,0.3,0.95,sold,Batsman,,Vishnu Vinod,56,58,96.55,9.33,3,3,53.34,2,6,37,115.62,0,0,0.0,0.0,0,0,0.0,2,0,3.17,1
+Vaibhav Arora,2025,KKR,0.3,1.8,sold,Bowler,,VG Arora,9,17,52.94,2.17,0,0,0.0,3,7,4,133.33,20,418,8.58,32.29,3,16,8.44,3,0,6.0,1
+Rasikh Salam,2025,RCB,0.3,6.0,sold,Bowler,,Rasikh Salam,40,40,100.0,6.33,5,0,38.1,3,6,28,93.33,9,207,9.88,30.11,3,9,10.42,3,0,20.0,1
+Akash Madhwal,2025,RR,0.3,1.2,sold,Bowler,,Akash Madhwal,4,5,80.0,4.0,0,0,0.0,1,1,4,80.0,22,279,9.27,24.35,2,22,9.27,2,1,4.0,1
+Mohit Sharma,2025,DC,0.5,2.2,sold,Bowler,,MM Sharma,124,137,90.51,4.72,9,4,21.84,9,28,2,11.76,147,2308,8.52,27.99,10,47,9.24,10,5,4.4,1
+Simarjeet Singh,2025,SRH,0.3,1.5,sold,Bowler,,Simarjeet Singh,7,8,87.5,7.0,0,0,0.0,1,3,0,0.0,10,193,8.24,28.04,2,6,9.15,2,1,5.0,1
+Yash Thakur,2025,PBKS,0.4,1.6,sold,Bowler,,Yash Thakur,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,27,432,9.75,26.78,2,27,9.75,2,1,4.0,1
+Vijaykumar Vyshak,2025,PBKS,0.3,1.8,sold,Bowler,,Vijaykumar Vyshak,14,13,107.69,7.0,0,1,23.08,2,4,14,107.69,17,243,9.78,23.42,2,17,9.78,2,0,6.0,1
+Shreyas Gopal,2025,CSK,0.3,0.3,sold,Bowler,,S Gopal,180,173,104.05,10.0,19,2,42.96,8,22,0,0.0,53,1000,8.15,25.5,9,3,9.57,9,2,1.0,1
+Mayank Markande,2025,KKR,0.3,0.3,sold,Bowler,,M Markande,48,44,109.09,12.5,5,1,57.14,3,10,21,150.0,37,737,8.8,40.49,6,20,9.02,6,0,1.0,1
+Suyash Sharma,2025,RCB,0.3,2.6,sold,Bowler,,Suyash Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,11,264,8.66,30.0,2,11,8.66,2,0,8.67,1
+Karn Sharma,2025,MI,0.5,0.5,sold,Bowler,,KV Sharma,351,306,114.71,13.81,20,17,42.51,8,39,34,161.9,82,1520,8.41,41.0,10,18,10.36,10,1,1.0,1
+Kumar Kartikeya,2025,RR,0.3,0.3,sold,Bowler,,K Kartikeya,9,13,69.23,4.5,1,0,33.33,2,2,6,85.71,10,241,8.32,33.4,2,5,8.5,2,0,1.0,1
+Manav Suthar,2025,GT,0.3,0.3,sold,Bowler,,MJ Suthar,1,2,50.0,1.0,0,0,0.0,1,1,1,50.0,0,12,13.0,0.0,1,0,13.0,1,0,1.0,1
+Faf du Plessis,2025,DC,2.0,2.0,sold,Batsman,,F du Plessis,4571,3435,133.07,33.92,422,166,57.62,12,138,1168,153.89,0,6,16.0,0.0,1,0,0.0,12,10,1.0,1
+Glenn Phillips,2025,GT,2.0,2.0,sold,Batsman,,GD Phillips,65,55,118.18,10.4,3,6,71.79,2,8,39,177.27,2,31,7.74,20.0,2,1,6.67,2,1,1.0,1
+Rovman Powell,2025,KKR,1.5,1.5,sold,Batsman,,R Powell,360,254,141.73,14.08,21,28,66.58,3,22,110,137.5,1,21,10.0,18.0,2,1,7.71,3,0,1.0,1
+Ajinkya Rahane,2025,KKR,1.5,1.5,sold,Batsman,,AM Rahane,4642,3858,120.32,26.18,479,103,56.66,16,171,568,144.53,1,6,5.0,5.0,1,0,0.0,16,13,1.0,1
+Sam Curran,2025,CSK,2.0,2.4,sold,All-Rounder,,SM Curran,883,673,131.2,23.56,74,37,62.44,5,48,546,123.25,62,1234,9.35,31.83,5,27,9.97,5,4,1.2,1
+Marco Jansen,2025,PBKS,1.25,7.0,sold,All-Rounder,,M Jansen,66,71,92.96,9.19,5,2,40.81,4,12,57,95.0,22,487,9.02,37.42,4,12,9.93,4,1,5.6,1
+Krunal Pandya,2025,RCB,2.0,5.75,sold,All-Rounder,,KH Pandya,1647,1287,127.97,24.28,144,61,56.33,9,107,321,113.03,80,2183,7.27,36.84,9,15,7.57,9,6,2.88,1
+Nitish Rana,2025,RR,1.5,4.2,sold,All-Rounder,,N Rana,2636,2015,130.82,28.24,234,132,65.7,9,101,455,134.62,10,185,8.21,20.11,7,3,8.33,9,5,2.8,1
+Washington Sundar,2025,GT,2.0,3.2,sold,All-Rounder,,Washington Sundar,378,341,110.85,10.8,32,9,29.23,8,38,60,95.24,39,1064,7.53,40.34,8,4,9.66,8,1,1.6,1
+Donovan Ferreira,2025,DC,0.75,0.75,sold,Batsman,,D Ferreira,8,11,72.73,4.0,0,0,0.0,1,2,8,72.73,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Josh Inglis,2025,PBKS,2.0,2.6,sold,Batsman,,Josh Inglis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.3,0
+Ryan Rickelton,2025,MI,1.0,1.0,sold,Batsman,,Ryan Rickelton,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Deepak Chahar,2025,MI,2.0,9.25,sold,Bowler,,DL Chahar,80,61,131.15,7.19,2,6,33.14,6,12,1,50.0,79,1746,7.71,35.8,8,18,8.38,8,2,4.62,1
+Gerald Coetzee,2025,GT,1.25,2.4,sold,Bowler,,G Coetzee,14,22,63.64,3.5,0,1,42.86,1,5,14,63.64,13,216,9.92,27.46,1,13,9.92,1,0,1.92,1
+Akash Deep,2025,LSG,1.0,8.0,sold,Bowler,,Akash Deep,19,12,158.33,6.33,2,1,27.45,3,3,19,190.0,8,175,11.11,50.78,3,2,12.64,3,0,8.0,1
+Tushar Deshpande,2025,RR,1.0,6.5,sold,Bowler,,TU Deshpande,21,15,140.0,7.0,2,1,22.22,3,4,0,0.0,46,831,9.21,44.92,4,42,8.98,4,0,6.5,1
+Lockie Ferguson,2025,PBKS,2.0,2.0,sold,Bowler,,LH Ferguson,68,48,141.67,13.1,6,2,37.34,5,7,1,100.0,57,1002,8.69,42.27,7,11,10.9,7,3,1.0,1
+Bhuvneshwar Kumar,2025,RCB,2.0,10.75,sold,Bowler,,B Kumar,306,338,90.53,8.11,30,3,33.31,14,65,65,82.28,195,4060,7.46,29.08,14,30,8.76,14,6,5.38,1
+Mukesh Kumar,2025,DC,2.0,8.0,sold,Bowler,,Mukesh Kumar,10,20,50.0,5.0,0,0,0.0,2,5,10,50.0,31,420,10.1,26.84,2,31,10.1,2,0,4.0,1
+AM Ghazanfar,2025,MI,0.75,4.8,sold,Bowler,,AM Ghazanfar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,6.4,0
+Swastik Chikara,2025,RCB,0.3,0.3,sold,Batsman,,Swastik Chikara,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Shubham Dubey,2025,RR,0.3,0.8,sold,Batsman,,SB Dubey,33,21,157.14,16.5,3,2,72.73,1,3,33,157.14,0,0,0.0,0.0,0,0,0.0,1,0,2.67,1
+Shaik Rasheed,2025,CSK,0.3,0.3,sold,Batsman,,Shaik Rasheed,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Himmat Singh,2025,LSG,0.3,0.3,sold,Batsman,,Himmat Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Anshul Kamboj,2025,CSK,0.3,3.4,sold,All-Rounder,,A Kamboj,2,2,100.0,2.0,0,0,0.0,1,1,2,100.0,2,68,10.15,57.5,1,2,10.15,1,0,11.33,1
+Arshad Khan,2025,GT,0.3,1.3,sold,All-Rounder,,Arshad Khan,96,67,143.28,24.0,5,6,48.72,2,6,96,143.28,6,153,11.06,64.2,2,6,11.06,2,0,4.33,1
+Darshan Nalkande,2025,DC,0.3,0.3,sold,All-Rounder,,DG Nalkande,12,12,100.0,6.0,0,1,25.0,2,2,12,100.0,6,89,10.11,29.94,3,4,9.75,3,0,1.0,1
+Anukul Roy,2025,KKR,0.3,0.4,sold,All-Rounder,,AS Roy,26,24,108.33,4.83,3,0,17.39,3,6,26,118.18,6,142,8.07,36.92,4,4,8.82,4,0,1.33,1
+Swapnil Singh,2025,RCB,0.3,0.5,sold,All-Rounder,,Swapnil Singh,51,46,110.87,6.62,3,3,20.27,4,9,39,150.0,7,165,8.76,41.58,4,6,8.71,4,0,1.67,1
+Vansh Bedi,2025,CSK,0.3,0.55,sold,Batsman,,Vansh Bedi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.83,0
+Kunal Singh Rathore,2025,RR,0.3,0.3,sold,Batsman,,Kunal Singh Rathore,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Gurnoor Brar,2025,GT,0.3,1.3,sold,Bowler,,Gurnoor Brar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,21,12.0,0.0,1,0,12.0,1,0,4.33,1
+Mukesh Choudhary,2025,CSK,0.3,0.3,sold,Bowler,,Mukesh Choudhary,6,6,100.0,6.0,1,0,66.67,1,2,0,0.0,16,298,9.1,26.56,2,0,23.14,2,1,1.0,1
+Arjun Tendulkar,2025,MI,0.3,0.3,sold,Bowler,,Arjun Tendulkar,13,9,144.44,13.0,0,1,46.15,1,1,13,144.44,4,83,8.46,23.75,2,4,8.46,2,0,1.0,1
+Zeeshan Ansari,2025,SRH,0.3,0.4,sold,Bowler,,Zeeshan Ansari,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.33,0
+Manimaran Siddharth,2025,LSG,0.3,0.75,sold,Bowler,,M Siddharth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,58,7.45,72.0,1,1,7.45,1,0,2.5,1
+Digvesh Singh,2025,LSG,0.3,0.3,sold,Bowler,,Digvesh Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manish Pandey,2025,KKR,0.75,0.75,sold,Batsman,,MK Pandey,3859,3288,117.37,31.09,335,111,49.02,17,158,202,110.99,0,0,0.0,0.0,0,0,0.0,17,5,1.0,1
+Sherfane Rutherford,2025,GT,1.5,2.6,sold,Batsman,,SE Rutherford,106,107,99.07,15.55,3,8,49.4,2,9,0,0.0,1,46,7.83,60.0,1,0,0.0,2,0,1.73,1
+Shahbaz Ahmed,2025,LSG,1.0,2.4,sold,All-Rounder,,Shahbaz Ahmed,536,467,114.78,13.76,28,25,37.97,5,37,257,120.09,21,549,9.29,51.09,5,8,10.73,5,1,2.4,1
+Moeen Ali,2025,KKR,2.0,2.0,sold,All-Rounder,,MM Ali,1162,849,136.87,21.88,95,67,62.36,7,57,252,127.92,40,770,7.01,26.16,7,11,7.83,7,2,1.0,1
+Tim David,2025,RCB,2.0,3.0,sold,All-Rounder,,TH David,659,417,158.03,22.75,38,46,49.44,4,35,472,146.13,0,0,0.0,0.0,0,0,0.0,4,1,1.5,1
+Deepak Hooda,2025,CSK,0.75,1.7,sold,All-Rounder,,DJ Hooda,1466,1170,125.3,26.17,96,61,47.86,10,96,229,114.5,10,384,8.36,52.72,10,0,7.2,10,1,2.27,1
+Will Jacks,2025,MI,2.0,5.25,sold,All-Rounder,,WG Jacks,230,133,172.93,38.33,16,18,74.78,1,8,230,172.93,2,55,10.91,50.0,1,2,10.91,1,1,2.62,1
+Azmatullah Omarzai,2025,PBKS,1.5,2.4,sold,All-Rounder,,Azmatullah Omarzai,42,34,123.53,10.5,2,2,47.62,1,4,42,123.53,4,131,8.89,48.5,1,4,8.89,1,0,1.6,1
+Sai Kishore,2025,GT,0.75,2.0,sold,All-Rounder,,Sai Kishore,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.67,0
+Romario Shepherd,2025,RCB,1.5,1.5,sold,All-Rounder,,R Shepherd,115,68,169.12,15.94,7,10,51.08,3,9,57,228.0,6,133,11.73,52.75,2,2,12.79,3,1,1.0,1
+Spencer Johnson,2025,KKR,2.0,2.8,sold,Bowler,,SH Johnson,6,7,85.71,6.0,1,0,66.67,1,3,6,85.71,4,99,9.39,38.75,1,4,9.39,1,0,1.4,1
+Umran Malik,2025,KKR,0.75,0.75,sold,Bowler,,Umran Malik,23,16,143.75,11.5,1,2,42.11,2,5,19,237.5,31,519,9.08,34.76,4,6,10.72,4,2,1.0,1
+Ishant Sharma,2025,GT,0.75,0.75,sold,Bowler,,I Sharma,57,71,80.28,5.25,4,2,31.11,8,21,2,22.22,96,2429,8.04,48.57,14,22,8.42,14,4,1.0,1
+Nuwan Thushara,2025,RCB,0.75,1.6,sold,Bowler,,N Thushara,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,8,172,9.03,32.38,1,8,9.03,1,0,2.13,1
+Jaydev Unadkat,2025,SRH,1.0,1.0,sold,Bowler,,JD Unadkat,197,170,115.88,12.53,16,7,28.02,10,27,33,97.06,109,2194,8.8,36.26,15,10,9.83,15,6,1.0,1
+Sachin Baby,2025,SRH,0.3,0.3,sold,Batsman,,Sachin Baby,144,123,117.07,9.7,11,5,27.2,4,11,0,0.0,3,10,4.8,2.67,1,0,0.0,4,0,1.0,1
+Harnoor Singh,2025,PBKS,0.3,0.3,sold,Batsman,,Harnoor Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+C Andre Siddarth,2025,CSK,0.3,0.3,sold,Batsman,,C Andre Siddarth,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Yudhvir Singh,2025,RR,0.3,0.35,sold,All-Rounder,,Yudhvir Singh,22,16,137.5,5.5,1,2,38.1,2,4,22,137.5,4,74,10.14,38.17,2,4,10.14,2,0,1.17,1
+Rajvardhan Hangargekar,2025,LSG,0.3,0.3,sold,All-Rounder,,RS Hangargekar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3,43,8.37,20.0,1,3,8.37,1,0,1.0,1
+Arshin Kulkarni,2025,LSG,0.3,0.3,sold,All-Rounder,,AA Kulkarni,9,8,112.5,4.5,2,0,88.89,1,2,9,112.5,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Ashwani Kumar,2025,MI,0.3,0.3,sold,Bowler,,Ashwani Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Akash Singh,2025,LSG,0.3,0.3,sold,Batsman,,Akash Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,5,141,9.66,37.6,2,5,9.64,2,0,1.0,1
+Gurjapneet Singh,2025,CSK,0.3,2.2,sold,Bowler,,Gurjapneet Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,7.33,0
+Matthew Breetzke,2025,LSG,0.75,0.75,sold,Batsman,,Matthew Breetzke,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mitchell Santner,2025,MI,2.0,2.0,sold,All-Rounder,,MJ Santner,70,77,90.91,12.42,4,3,34.84,4,11,16,72.73,16,370,6.94,26.48,5,6,6.95,5,0,1.0,1
+Jayant Yadav,2025,GT,0.75,0.75,sold,All-Rounder,,J Yadav,40,38,105.26,11.5,2,1,20.59,2,4,0,0.0,9,398,6.74,42.73,7,0,6.5,7,0,1.0,1
+Fazalhaq Farooqi,2025,RR,2.0,2.0,sold,Bowler,,Fazalhaq Farooqi,3,13,23.08,1.5,0,0,0.0,2,2,1,20.0,6,162,8.48,42.38,2,4,8.3,2,0,1.0,1
+Kwena Maphaka,2025,RR,0.75,1.5,sold,Bowler,,KT Maphaka,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,1,39,13.85,90.0,1,1,13.85,1,0,2.0,1
+Kuldeep Sen,2025,PBKS,0.75,0.8,sold,Bowler,,KR Sen,0,3,0.0,0.0,0,0,0.0,1,1,0,0.0,14,255,9.32,25.58,3,6,9.55,3,0,1.07,1
+Reece Topley,2025,MI,0.75,0.75,sold,Bowler,,RJW Topley,3,6,50.0,3.0,0,0,0.0,1,1,3,50.0,5,107,10.21,28.0,2,5,10.21,2,0,1.0,1
+Lizaad Williams,2025,MI,0.75,0.75,sold,Bowler,,LB Williams,1,2,50.0,1.0,0,0,0.0,1,1,1,50.0,1,42,10.57,74.0,1,1,10.57,1,0,1.0,1
+Priyansh Arya,2025,PBKS,0.3,3.8,sold,All-Rounder,,Priyansh Arya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,12.67,0
+Manoj Bhandage,2025,RCB,0.3,0.3,sold,All-Rounder,,Manoj Bhandage,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Praveen Dubey,2025,PBKS,0.3,0.3,sold,All-Rounder,,P Dubey,23,33,69.7,11.5,2,0,25.0,2,2,16,80.0,1,67,8.15,19.0,2,1,6.0,2,0,1.0,1
+Ajay Mandal,2025,DC,0.3,0.3,sold,All-Rounder,,Ajay Mandal,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vipraj Nigam,2025,DC,0.3,0.5,sold,All-Rounder,,Vipraj Nigam,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.67,0
+Krishnan Shrijith,2025,MI,0.3,0.3,sold,Batsman,,Krishnan Shrijith,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Mohit Rathee,2025,RCB,0.3,0.3,sold,Bowler,,Mohit Rathee,1,2,50.0,1.0,0,0,0.0,1,1,1,50.0,0,12,14.5,0.0,1,0,14.5,1,0,1.0,1
+Jacob Bethell,2025,RCB,1.25,2.6,sold,All-Rounder,,Jacob Bethell,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,2.08,0
+Brydon Carse,2025,SRH,1.0,1.0,sold,All-Rounder,,Brydon Carse,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Aaron Hardie,2025,PBKS,1.25,1.25,sold,All-Rounder,,Aaron Hardie,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kamindu Mendis,2025,SRH,0.75,0.75,sold,All-Rounder,,Kamindu Mendis,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Dushmantha Chameera,2025,DC,0.75,0.75,sold,Bowler,,Dushmantha Chameera,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Nathan Ellis,2025,CSK,1.25,2.0,sold,Bowler,,NT Ellis,19,26,73.08,6.17,0,1,11.11,3,5,1,14.29,19,365,8.45,38.89,4,14,8.54,4,1,1.6,1
+Shamar Joseph,2025,LSG,0.75,0.75,sold,Bowler,,S Joseph,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,30,10.2,0.0,1,0,10.2,1,0,1.0,1
+Aniket Verma,2025,SRH,0.3,0.3,sold,Batsman,,Aniket Verma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Raj Bawa,2025,MI,0.3,0.3,sold,All-Rounder,,RA Bawa,11,14,78.57,5.5,1,0,36.36,1,2,0,0.0,0,0,0.0,0.0,0,0,0.0,1,0,1.0,1
+Musheer Khan,2025,PBKS,0.3,0.3,sold,All-Rounder,,Musheer Khan,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Manvanth Kumar,2025,DC,0.3,0.3,sold,All-Rounder,,Manvanth Kumar,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Suryansh Shedge,2025,PBKS,0.3,0.3,sold,All-Rounder,,Suryansh Shedge,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Kulwant Khejroliya,2025,GT,0.3,0.3,sold,Bowler,,K Khejroliya,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,5,129,10.28,44.67,3,2,13.71,3,0,1.0,1
+Prince Yadav,2025,LSG,0.3,0.3,sold,Bowler,,Prince Yadav,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jamie Overton,2025,CSK,1.5,1.5,sold,All-Rounder,,Jamie Overton,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Xavier Bartlett,2025,PBKS,0.75,0.8,sold,Bowler,,Xavier Bartlett,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.07,0
+Lungi Ngidi,2025,RCB,1.0,1.0,sold,Bowler,,L Ngidi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,28,342,8.07,18.39,3,0,0.0,3,1,1.0,1
+Kamlesh Nagarkoti,2025,CSK,0.3,0.3,sold,All-Rounder,,KL Nagarkoti,22,34,64.71,3.67,1,0,9.09,2,7,0,0.0,5,185,9.31,46.6,3,0,0.0,3,0,1.0,1
+Abhinandan Singh,2025,RCB,0.3,0.3,sold,Bowler,,Abhinandan Singh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Karim Janat,2025,GT,0.75,0.75,sold,All-Rounder,,Karim Janat,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Pyla Avinash,2025,PBKS,0.3,0.3,sold,Batsman,,Pyla Avinash,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ramakrishna Ghosh,2025,CSK,0.3,0.3,sold,All-Rounder,,Ramakrishna Ghosh,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Satyanarayana Raju,2025,MI,0.3,0.3,sold,Bowler,,Satyanarayana Raju,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Bevon Jacobs,2025,MI,0.3,0.3,sold,Batsman,,Bevon Jacobs,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Ashok Sharma,2025,RR,0.3,0.3,sold,Bowler,,Ashok Sharma,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Vaibhav Suryavanshi,2025,RR,0.3,1.1,sold,Batsman,,Vaibhav Suryavanshi,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,3.67,0
+Eshan Malinga,2025,SRH,0.3,1.2,sold,Bowler,,Eshan Malinga,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,4.0,0
+Tripurana Vijay,2025,DC,0.3,0.3,sold,All-Rounder,,Tripurana Vijay,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Madhav Tiwari,2025,DC,0.3,0.4,sold,All-Rounder,,Madhav Tiwari,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.33,0
+Vignesh Puthur,2025,MI,0.3,0.3,sold,All-Rounder,,Vignesh Puthur,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,1.0,0
+Jofra Archer,2025,RR,2.0,12.5,sold,Bowler,,JC Archer,199,132,150.76,14.83,11,14,45.96,4,23,4,100.0,49,987,7.36,41.77,4,2,9.4,4,1,6.25,1

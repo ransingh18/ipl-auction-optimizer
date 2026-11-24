@@ -1,0 +1,226 @@
+{
+  "best_model": "GBM",
+  "is_log_target": false,
+  "feature_names": [
+    "career_runs",
+    "career_balls_faced",
+    "career_batting_sr",
+    "career_batting_avg",
+    "career_fours",
+    "career_sixes",
+    "career_boundary_pct",
+    "ipl_seasons_batted",
+    "career_bat_matches",
+    "recent_runs",
+    "recent_batting_sr",
+    "career_wickets",
+    "career_bowl_balls",
+    "career_economy",
+    "career_bowling_avg",
+    "ipl_seasons_bowled",
+    "recent_wickets",
+    "recent_economy",
+    "total_ipl_seasons",
+    "total_potm",
+    "has_ipl_experience",
+    "role_encoded",
+    "origin_encoded",
+    "base_price_cr",
+    "auction_year",
+    "runs_per_season",
+    "wickets_per_season",
+    "sixes_per_match",
+    "potm_per_season",
+    "allrounder_index",
+    "recent_runs_pct",
+    "recent_wickets_pct",
+    "inflation_factor",
+    "log_career_runs",
+    "log_career_wickets",
+    "log_career_bat_matches",
+    "log_total_potm"
+  ],
+  "target": "sold_price_cr",
+  "results": {
+    "XGBoost": {
+      "rmse": 5.229,
+      "mae": 3.239,
+      "r2": 0.1619,
+      "cv_r2": 0.4714
+    },
+    "XGB (log)": {
+      "rmse": 5.709,
+      "mae": 3.389,
+      "r2": 0.0011,
+      "cv_r2": 0.5682
+    },
+    "Random Forest": {
+      "rmse": 5.234,
+      "mae": 3.242,
+      "r2": 0.1605,
+      "cv_r2": 0.5211
+    },
+    "GBM": {
+      "rmse": 5.178,
+      "mae": 3.466,
+      "r2": 0.1783,
+      "cv_r2": 0.4736
+    },
+    "Stacking Ensemble": {
+      "rmse": 5.744,
+      "mae": 3.241,
+      "r2": -0.0111,
+      "cv_r2": 0.5884
+    }
+  },
+  "feature_importance": [
+    [
+      "base_price_cr",
+      0.5
+    ],
+    [
+      "recent_runs",
+      0.0646
+    ],
+    [
+      "career_batting_sr",
+      0.0392
+    ],
+    [
+      "auction_year",
+      0.0348
+    ],
+    [
+      "recent_wickets",
+      0.0302
+    ],
+    [
+      "recent_runs_pct",
+      0.0276
+    ],
+    [
+      "recent_batting_sr",
+      0.0262
+    ],
+    [
+      "recent_economy",
+      0.0245
+    ],
+    [
+      "allrounder_index",
+      0.0212
+    ],
+    [
+      "wickets_per_season",
+      0.0205
+    ],
+    [
+      "sixes_per_match",
+      0.0198
+    ],
+    [
+      "runs_per_season",
+      0.0191
+    ],
+    [
+      "career_economy",
+      0.0136
+    ],
+    [
+      "inflation_factor",
+      0.0135
+    ],
+    [
+      "career_fours",
+      0.0134
+    ],
+    [
+      "role_encoded",
+      0.0128
+    ],
+    [
+      "career_sixes",
+      0.0119
+    ],
+    [
+      "potm_per_season",
+      0.0114
+    ],
+    [
+      "career_boundary_pct",
+      0.0105
+    ],
+    [
+      "origin_encoded",
+      0.0098
+    ],
+    [
+      "career_bowling_avg",
+      0.0097
+    ],
+    [
+      "career_batting_avg",
+      0.0077
+    ],
+    [
+      "career_balls_faced",
+      0.0065
+    ],
+    [
+      "log_total_potm",
+      0.0064
+    ],
+    [
+      "total_ipl_seasons",
+      0.006
+    ],
+    [
+      "total_potm",
+      0.0053
+    ],
+    [
+      "career_bowl_balls",
+      0.0052
+    ],
+    [
+      "ipl_seasons_bowled",
+      0.005
+    ],
+    [
+      "career_bat_matches",
+      0.004
+    ],
+    [
+      "ipl_seasons_batted",
+      0.0039
+    ],
+    [
+      "recent_wickets_pct",
+      0.0037
+    ],
+    [
+      "career_wickets",
+      0.0034
+    ],
+    [
+      "log_career_wickets",
+      0.0033
+    ],
+    [
+      "log_career_bat_matches",
+      0.0023
+    ],
+    [
+      "log_career_runs",
+      0.0016
+    ],
+    [
+      "career_runs",
+      0.0009
+    ],
+    [
+      "has_ipl_experience",
+      0.0009
+    ]
+  ]
+}

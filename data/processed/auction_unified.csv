@@ -1,0 +1,1280 @@
+player,auction_year,team,base_price_cr,sold_price_cr,status,role,player_origin
+Christopher Barnwell,2013,Royal Challengers Bangalore,0.305,0.305,sold,All-Rounder,Overseas
+Johan Botha,2013,Delhi Daredevils,1.83,2.745,sold,All-Rounder,Overseas
+Daniel Christian,2013,Royal Challengers Bangalore,0.61,0.61,sold,All-Rounder,Overseas
+Michael Clarke,2013,Pune Warriors India,2.44,2.44,sold,Batsman,Overseas
+Nathan Coulter-Nile,2013,Mumbai Indians,0.61,2.745,sold,Bowler,Overseas
+Akila Dananjaya,2013,Chennai Super Kings,0.122,0.122,sold,All-Rounder,Overseas
+Quinton de Kock,2013,Sunrisers Hyderabad,0.122,0.122,sold,,
+Fidel Edwards,2013,Rajasthan Royals,0.61,1.281,sold,Bowler,Overseas
+James Faulkner,2013,Rajasthan Royals,0.61,2.44,sold,All-Rounder,Overseas
+Manpreet Gony,2013,Kings XI Punjab,1.22,3.05,sold,Bowler,Indian
+Moisés Henriques,2013,Royal Challengers Bangalore,0.61,1.83,sold,,
+Jason Holder,2013,Chennai Super Kings,0.122,0.122,sold,Bowler,Overseas
+Phillip Hughes,2013,Mumbai Indians,0.61,0.61,sold,,
+Ben Laughlin,2013,Chennai Super Kings,0.122,0.122,sold,Bowler,Overseas
+Glenn Maxwell,2013,Mumbai Indians,1.22,6.1,sold,All-Rounder,Overseas
+Nathan McCullum,2013,Sunrisers Hyderabad,0.61,0.61,sold,Bowler,Overseas
+Clint McKay,2013,Sunrisers Hyderabad,0.61,0.61,sold,,
+Ryan McLaren,2013,Kolkata Knight Riders,0.305,0.305,sold,Bowler,Overseas
+Ajantha Mendis,2013,Pune Warriors India,0.305,4.4225,sold,Bowler,Overseas
+Jeevan Mendis,2013,Delhi Daredevils,0.305,0.305,sold,All-Rounder,Overseas
+Chris Morris,2013,Chennai Super Kings,0.122,3.8125,sold,,
+Dirk Nannes,2013,Chennai Super Kings,1.22,3.66,sold,Bowler,Overseas
+Abhishek Nayar,2013,Pune Warriors India,0.61,4.1175,sold,All-Rounder,Indian
+Jacob Oram,2013,Mumbai Indians,0.305,0.305,sold,All-Rounder,Overseas
+Kusal Perera,2013,Rajasthan Royals,0.122,0.122,sold,,
+Thisara Perera,2013,Sunrisers Hyderabad,0.305,4.1175,sold,All-Rounder,Overseas
+Luke Pomersbach,2013,Kings XI Punjab,0.305,1.83,sold,Batsman,Overseas
+Ricky Ponting,2013,Mumbai Indians,2.44,2.44,sold,Batsman,Overseas
+Ravi Rampaul,2013,Royal Challengers Bangalore,0.305,1.769,sold,Bowler,Overseas
+Kane Richardson,2013,Pune Warriors India,0.61,4.27,sold,Bowler,Overseas
+Jesse Ryder,2013,Delhi Daredevils,0.61,1.586,sold,All-Rounder,Overseas
+Darren Sammy,2013,Sunrisers Hyderabad,0.61,2.5925,sold,All-Rounder,Overseas
+Sachithra Senanayake,2013,Kolkata Knight Riders,0.305,3.8125,sold,,
+Pankaj Singh,2013,Royal Challengers Bangalore,0.305,0.915,sold,Bowler,Indian
+R. P. Singh,2013,Royal Challengers Bangalore,0.61,2.44,sold,,
+Sudeep Tyagi,2013,Sunrisers Hyderabad,0.61,0.61,sold,Bowler,Indian
+Jaydev Unadkat,2013,Royal Challengers Bangalore,0.61,3.2025,sold,Bowler,Indian
+Mitchell Johnson,2014,Kings XI Punjab,2.0,6.5,sold,All-Rounder,Overseas
+Jacques Kallis,2014,Kolkata Knight Riders,2.0,5.5,sold,All-Rounder,Overseas
+Kevin Pietersen,2014,Delhi Daredevils,2.0,9.0,sold,Batsman,Overseas
+Virender Sehwag,2014,Kings XI Punjab,2.0,3.2,sold,Batsman,Indian
+Yuvraj Singh,2014,Royal Challengers Bangalore,2.0,14.0,sold,All-Rounder,Indian
+Murali Vijay,2014,Delhi Daredevils,2.0,5.0,sold,Batsman,Indian
+David Warner,2014,Sunrisers Hyderabad,1.5,5.5,sold,Batsman,Overseas
+George Bailey,2014,Kings XI Punjab,2.0,3.25,sold,Batsman,Overseas
+Faf du Plessis,2014,Chennai Super Kings,1.5,4.75,sold,,
+Michael Hussey,2014,Mumbai Indians,2.0,5.0,sold,Batsman,Overseas
+Dinesh Karthik,2014,Delhi Daredevils,2.0,12.5,sold,Wicket Keeper,Indian
+Zaheer Khan,2014,Mumbai Indians,1.0,2.6,sold,Bowler,Indian
+Brendon McCullum,2014,Chennai Super Kings,2.0,3.25,sold,Wicket Keeper,Overseas
+Amit Mishra,2014,Sunrisers Hyderabad,2.0,4.75,sold,Bowler,Indian
+Darren Sammy,2014,Sunrisers Hyderabad,1.0,3.5,sold,All-Rounder,Overseas
+Jean-Paul Duminy,2014,Delhi Daredevils,1.0,2.2,sold,Batsman,Overseas
+Aaron Finch,2014,Sunrisers Hyderabad,1.0,4.0,sold,Batsman,Overseas
+Brad Hodge,2014,Rajasthan Royals,2.0,2.4,sold,Batsman,Overseas
+Shaun Marsh,2014,Kings XI Punjab,2.0,2.2,sold,Batsman,Overseas
+Cheteshwar Pujara,2014,Kings XI Punjab,1.5,1.9,sold,Batsman,Indian
+Dwayne Smith,2014,Chennai Super Kings,1.5,4.5,sold,Batsman,Overseas
+Ross Taylor,2014,Delhi Daredevils,2.0,2.0,sold,Batsman,Overseas
+Manoj Tiwary,2014,Delhi Daredevils,2.0,2.8,sold,Batsman,Indian
+Robin Uthappa,2014,Kolkata Knight Riders,2.0,5.0,sold,Batsman,Indian
+Quinton de Kock,2014,Delhi Dardevils,1.0,3.5,sold,,
+Naman Ojha,2014,Sunrisers Hyderabad,0.5,0.5,sold,Wicket Keeper,Indian
+Parthiv Patel,2014,Royal Challengers Bangalore,1.0,2.75,sold,Wicket Keeper,Indian
+Wriddhiman Saha,2014,Kings XI Punjab,1.0,2.2,sold,Wicket Keeper,Indian
+Shakib Al Hasan,2014,Kolkata Knight Riders,1.0,2.8,sold,All-Rounder,Overseas
+Albie Morkel,2014,Royal Challengers Bangalore,1.5,2.4,sold,All-Rounder,Overseas
+Irfan Pathan,2014,Sunrisers Hyderabad,1.5,2.4,sold,All-Rounder,Indian
+Yusuf Pathan,2014,Kolkata Knight Riders,2.0,3.25,sold,All-Rounder,Indian
+Thisara Perera,2014,Kings XI Punjab,0.5,1.6,sold,All-Rounder,Overseas
+Steve Smith,2014,Rajasthan Royals,2.0,4.0,sold,,
+Ashok Dinda,2014,Royal Challengers Bangalore,1.0,1.5,sold,Bowler,Indian
+Bhuvneshwar Kumar,2014,Sunrisers Hyderabad,1.5,4.25,sold,Bowler,Overseas
+Morne Morkel,2014,Kolkata Knight Riders,1.5,2.8,sold,Bowler,Overseas
+Ravi Rampaul,2014,Royal Challengers Bangalore,0.5,0.9,sold,Bowler,Overseas
+Mohammed Shami,2014,Delhi Dardevils,1.0,4.25,sold,,
+Ishant Sharma,2014,Sunrisers Hyderabad,1.5,4.25,sold,Bowler,Indian
+Mitchell Starc,2014,Royal Challengers Bangalore,2.0,5.0,sold,Bowler,Overseas
+Ranganath Vinay Kumar,2014,Kolkata Knight Riders,1.5,2.8,sold,Bowler,Indian
+Umesh Yadav,2014,Kolkata Knight Riders,1.0,2.6,sold,Bowler,Indian
+Piyush Chawla,2014,Kolkata Knight Riders,0.5,4.25,sold,Bowler,Indian
+Murali Kartik,2014,Kings XI Punjab,1.0,1.0,sold,Bowler,Indian
+Muttiah Muralitharan,2014,Royal Challengers Bangalore,1.0,1.0,sold,Bowler,Overseas
+Pragyan Ojha,2014,Mumbai Indians,2.0,3.25,sold,Bowler,Indian
+Rahul Sharma,2014,Delhi Daredevils,0.5,1.9,sold,Bowler,Indian
+Nic Maddinson,2014,Royal Challengers Bangalore,0.5,0.5,sold,Batsman,Overseas
+Saurabh Tiwary,2014,Delhi Daredevils,0.5,0.7,sold,Batsman,Indian
+Brendan Taylor,2014,Sunrisers Hyderabad,0.3,0.3,sold,Wicket Keeper,Overseas
+Corey Anderson,2014,Mumbai Indians,1.0,4.5,sold,All-Rounder,Overseas
+Moises Henriques,2014,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Overseas
+Glenn Maxwell,2014,Kings XI Punjab,1.0,6.0,sold,All-Rounder,Overseas
+Abhishek Nayar,2014,Rajasthan Royals,0.3,1.0,sold,All-Rounder,Indian
+Laxmi Ratan Shukla,2014,Delhi Daredevils,0.5,1.5,sold,All-Rounder,Indian
+Andre Russell,2014,Kolkata Knight Riders,0.5,0.6,sold,All-Rounder,Overseas
+Varun Aaron,2014,Royal Challengers Bangalore,1.5,2.0,sold,Bowler,Indian
+Parvinder Awana,2014,Kings XI Punjab,0.5,0.65,sold,Bowler,Indian
+Lakshmipathy Balaji,2014,Kings XI Punjab,0.5,1.8,sold,Bowler,Indian
+Nathan Coulter-Nile,2014,Delhi Daredevils,1.0,4.25,sold,Bowler,Overseas
+Ashish Nehra,2014,Chennai Super Kings,2.0,2.0,sold,Bowler,Indian
+Mohit Sharma,2014,Chennai Super Kings,1.0,2.0,sold,Bowler,Indian
+Jaydev Unadkat,2014,Delhi Daredevils,1.0,2.8,sold,Bowler,Indian
+Samuel Badree,2014,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas
+Chris Lynn,2014,Kolkata Knight Riders,0.5,1.3,sold,Batsman,Overseas
+Yalaka Venugopal Rao,2014,Sunrisers Hyderabad,0.3,0.55,sold,,
+John Hastings,2014,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas
+James Neesham,2014,Delhi Daredevils,0.3,1.0,sold,All-Rounder,Overseas
+Ben Cutting,2014,Rajasthan Royals,0.5,0.8,sold,Bowler,Overseas
+Josh Hazlewood,2014,Mumbai Indians,0.5,0.5,sold,Bowler,Overseas
+Ben Hilfenhaus,2014,Chennai Super Kings,1.0,1.0,sold,Bowler,Overseas
+Jason Holder,2014,Sunrisers Hyderabad,0.5,0.75,sold,Bowler,Overseas
+Kane Richardson,2014,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas
+Tim Southee,2014,Rajasthan Royals,0.5,1.2,sold,Bowler,Overseas
+Patrick Cummins,2014,Kolkata Knight Riders,1.0,1.0,sold,,
+Wayne Parnell,2014,Delhi Daredevils,1.0,1.0,sold,Bowler,Overseas
+Marchant de Lange,2014,Mumbai Indians,0.3,0.3,sold,,
+Krishmar Santokie,2014,Mumbai Indians,0.3,0.3,sold,,
+Matt Henry,2014,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas
+Mayank Agarwal,2014,Delhi Daredevils,0.1,1.6,sold,Batsman,Indian
+Srikkanth Anirudha,2014,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian
+Baba Aparajith,2014,Chennai Super Kings,0.1,0.1,sold,Batsman,Indian
+Unmukt Chand,2014,Rajasthan Royals,0.3,0.65,sold,Batsman,Indian
+Kedar Jadhav,2014,Delhi Daredevils,0.3,2.0,sold,Batsman,Indian
+Manprit Juneja,2014,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian
+Gurkeerat Singh,2014,Kings XI Punjab,0.2,1.3,sold,,
+Manish Pandey,2014,Kolkata Knight Riders,0.2,1.7,sold,Batsman,Indian
+KL Rahul,2014,Sunrisers Hyderabad,0.1,1.0,sold,Batsman,Indian
+Suryakumar Yadav,2014,Kolkata Knight Riders,0.2,0.7,sold,Batsman,Indian
+Vijay Zol,2014,Royal Challengers Bangalore,0.3,0.3,sold,Batsman,Indian
+Ankush Bains,2014,Rajasthan Royals,0.1,0.1,sold,Wicket Keeper,Indian
+Manvinder Bisla,2014,Kolkata Knight Riders,0.3,0.6,sold,Wicket Keeper,Indian
+Debabrata Das,2014,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian
+Ben Dunk,2014,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Overseas
+CM Gautam,2014,Mumbai Indians,0.2,0.2,sold,,
+Sushant Marathe,2014,Mumbai Indians,0.1,0.1,sold,Wicket Keeper,Indian
+Yogesh Takawale,2014,Royal Challengers Bangalore,0.1,0.1,sold,Wicket Keeper,Indian
+Aditya Tare,2014,Mumbai Indians,0.2,1.6,sold,Wicket Keeper,Indian
+Iqbal Abdullah,2014,Rajasthan Royals,0.3,0.65,sold,All-Rounder,Indian
+Rajat Bhatia,2014,Rajasthan Royals,0.3,1.7,sold,All-Rounder,Indian
+Kevon Cooper,2014,Rajasthan Royals,0.3,0.3,sold,All-Rounder,Overseas
+Rishi Dhawan,2014,Kings XI Punjab,0.2,3.0,sold,All-Rounder,Indian
+Mithun Manhas,2014,Chennai Super Kings,0.3,0.3,sold,All-Rounder,Indian
+Parvez Rasool,2014,Sunrisers Hyderabad,0.2,0.95,sold,,
+Mandeep Singh,2014,Kings XI Punjab,0.3,0.8,sold,,
+Ryan Ten Doeschate,2014,Kolkata Knight Riders,1.0,1.0,sold,All-Rounder,Overseas
+Abu Nechim Ahmed,2014,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Indian
+Jasprit Bumrah,2014,Mumbai Indians,0.2,1.2,sold,Bowler,Indian
+Siddarth Kaul,2014,Delhi Daredevils,0.2,0.45,sold,Bowler,Indian
+Dhawal Kulkarni,2014,Rajasthan Royals,0.3,1.1,sold,Bowler,Indian
+Ishwar Pandey,2014,Chennai Super Kings,0.1,1.5,sold,,
+Prasanth Parameswaran,2014,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Indian
+Sandeep Sharma,2014,Kings XI Punjab,0.3,0.85,sold,Bowler,Indian
+Rahul Shukla,2014,Delhi Daredevils,0.2,0.4,sold,Bowler,Indian
+Anureet Singh,2014,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian
+Shreyas Gopal,2014,Mumbai Indians,0.1,0.1,sold,Bowler,Indian
+Shadab Jakati,2014,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian
+Shahbaz Nadeem,2014,Delhi Daredevils,0.3,0.85,sold,Bowler,Indian
+Pawan Negi,2014,Chennai Super Kings,0.1,0.1,sold,Bowler,Indian
+Karn Sharma,2014,Sunrisers Hyderabad,0.3,3.75,sold,Bowler,Indian
+Yuzvendra Chahal,2014,Royal Challengers Bangalore,0.1,0.1,sold,,
+Kuldeep Yadav,2014,Kolkata Knight Riders,0.1,0.4,sold,Bowler,Indian
+Pravin Tambe,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian
+Karun Nair,2014,Rajasthan Royals,0.1,0.75,sold,Batsman,Indian
+Apoorv Vijay Wankhade,2014,Mumbai Indians,0.1,0.1,sold,Batsman,Indian
+Amit Paunikar,2014,Sunrisers Hyderabad,0.2,0.2,sold,Wicket Keeper,Indian
+Dishant Yagnik,2014,Rajasthan Royals,0.3,0.3,sold,Wicket Keeper,Indian
+Akshar Patel,2014,Kings XI Punjab,0.2,0.75,sold,,
+Jalaj Saxena,2014,Mumbai Indians,0.2,0.9,sold,All-Rounder,Indian
+Vijay Shankar,2014,Chennai Super Kings,0.1,0.1,sold,All-Rounder,Indian
+Beuran Hendricks,2014,Kings XI Punjab,0.3,1.8,sold,Bowler,Overseas
+Vikramjeet Malik,2014,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Ronit More,2014,Chennai Super Kings,0.1,0.1,sold,Bowler,Indian
+Harshal Patel,2014,Royal Challengers Bangalore,0.3,0.4,sold,Bowler,Indian
+Veer Pratap Singh,2014,Kolkata Knight Riders,0.2,0.4,sold,Bowler,Indian
+Ashish Reddy,2014,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian
+Pawan Suyal,2014,Mumbai Indians,0.1,0.1,sold,Bowler,Indian
+Sandeep Warrier,2014,Royal Challengers Bangalore,0.1,0.1,sold,Bowler,Indian
+Ankit Nagendra Sharma,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian
+Ricky Bhui,2014,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Overseas
+Rahul Tewatia,2014,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian
+Jayant Yadav,2014,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian
+Amit Mishra,2014,Rajasthan Royals,0.1,0.1,sold,Bowler,Indian
+Sachin Rana,2014,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian
+HS Sharath,2014,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian
+Shivam Sharma,2014,Kings XI Punjab,0.1,0.1,sold,Bowler,Indian
+Deepak Hooda,2014,Rajasthan Royals,0.1,0.4,sold,Bowler,Indian
+Chama Milind,2014,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian
+Shardul Thakur,2014,Kings XI Punjab,0.1,0.2,sold,Bowler,Indian
+Tanmay Mishra,2014,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian
+Sayan Sekhar Mondal,2014,Kolkata Knight Riders,0.1,0.1,sold,,
+Karanveer Singh,2014,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian
+Milind Kumar,2014,Delhi Daredevils,0.1,0.1,sold,Batsman,Indian
+Michael Hussey,2015,Chennai Super Kings,1.5,1.5,sold,Batsman,Overseas
+Irfan Pathan,2015,Chennai Super Kings,1.5,1.5,sold,All-Rounder,Indian
+Rahul Sharma,2015,Chennai Super Kings,0.3,0.3,sold,Bowler,Indian
+Kyle Abbott,2015,Chennai Super Kings,0.3,0.3,sold,Bowler,Overseas
+Andrew Tye,2015,Chennai Super Kings,0.2,0.2,sold,Bowler,Overseas
+Pratyush Singh,2015,Chennai Super Kings,0.1,0.1,sold,All-Rounder,Indian
+Ankush Bains,2015,Chennai Super Kings,0.1,0.1,sold,Wicket Keeper,Indian
+Eklavya Dwivedi,2015,Chennai Super Kings,0.1,0.1,sold,Wicket Keeper,Indian
+Yuvraj Singh,2015,Delhi Daredevils,2.0,16.0,sold,Batsman,Indian
+Angelo Mathews,2015,Delhi Daredevils,1.5,7.5,sold,All-Rounder,Overseas
+Zaheer Khan,2015,Delhi Daredevils,1.0,4.0,sold,Bowler,Indian
+Amit Mishra,2015,Delhi Daredevils,0.1,3.5,sold,Bowler,Indian
+Shreyas Iyer,2015,Delhi Daredevils,0.1,2.6,sold,Batsman,Indian
+Gurinder Sandhu,2015,Delhi Daredevils,0.3,1.7,sold,Bowler,Indian
+Jaydev Unadkat,2015,Delhi Daredevils,0.5,1.1,sold,Bowler,Indian
+Domnic Joseph,2015,Delhi Daredevils,0.1,0.75,sold,,
+Albie Morkel,2015,Delhi Daredevils,0.3,0.3,sold,All-Rounder,Overseas
+Marcus Stoinis,2015,Delhi Daredevils,0.2,0.25,sold,All-Rounder,Overseas
+CM Gautam,2015,Delhi Daredevils,0.2,0.2,sold,,
+Srikar Bharat,2015,Delhi Daredevils,0.1,0.1,sold,,
+KK Jiyas,2015,Delhi Daredevils,0.1,0.1,sold,,
+Murali Vijay,2015,Kings XI Punjab,0.5,3.0,sold,Batsman,Indian
+Nikhil Naik,2015,Kings XI Punjab,0.1,0.3,sold,,
+Yogesh Golwalkar,2015,Kings XI Punjab,0.1,0.1,sold,,
+KC Cariappa,2015,Kolkata Knight Riders,0.1,2.4,sold,,
+James Neesham,2015,Kolkata Knight Riders,0.3,0.5,sold,All-Rounder,Overseas
+Brad Hogg,2015,Kolkata Knight Riders,0.5,0.5,sold,Bowler,Overseas
+Aditya Garhwal,2015,Kolkata Knight Riders,0.1,0.25,sold,All-Rounder,Indian
+Sheldon Jackson,2015,Kolkata Knight Riders,0.1,0.15,sold,Batsman,Indian
+Sumit Narwal,2015,Kolkata Knight Riders,0.1,0.1,sold,All-Rounder,Indian
+Vaibhav Rawal,2015,Kolkata Knight Riders,0.1,0.1,sold,All-Rounder,Indian
+Aaron Finch,2015,Mumbai Indians,1.0,3.2,sold,Batsman,Overseas
+Pragyan Ojha,2015,Mumbai Indians,0.5,0.5,sold,Bowler,Indian
+Abhimanyu Mithun,2015,Mumbai Indians,0.3,0.3,sold,Bowler,Indian
+Mitchell McClenaghan,2015,Mumbai Indians,0.3,0.3,sold,Bowler,Overseas
+Aiden Blizzard,2015,Mumbai Indians,0.3,0.3,sold,Batsman,Overseas
+Hardik Pandya,2015,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian
+Akshay Wakhare,2015,Mumbai Indians,0.1,0.1,sold,Bowler,Indian
+Nitish Rana,2015,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian
+Siddhesh Lad,2015,Mumbai Indians,0.1,0.1,sold,,
+Jagadeesha Suchith,2015,Mumbai Indians,0.1,0.1,sold,,
+Chris Morris,2015,Rajasthan Royals,0.5,1.4,sold,,
+Rusty Theron,2015,Rajasthan Royals,0.3,0.3,sold,,
+Barinder Sran,2015,Rajasthan Royals,0.1,0.1,sold,,
+Dinesh Salunkhe,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian
+Sagar Trivedi,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian
+Pardeep Sahu,2015,Rajasthan Royals,0.1,0.1,sold,All-Rounder,Indian
+Dinesh Karthik,2015,Royal Challengers Bangalore,2.0,10.5,sold,Wicket Keeper,Indian
+Darren Sammy,2015,Royal Challengers Bangalore,1.0,2.8,sold,All-Rounder,Overseas
+David Wiese,2015,Royal Challengers Bangalore,0.3,2.8,sold,All-Rounder,Overseas
+Sean Abbott,2015,Royal Challengers Bangalore,0.5,1.0,sold,Bowler,Overseas
+Adam Milne,2015,Royal Challengers Bangalore,0.3,0.7,sold,Bowler,Overseas
+Sarfaraz Khan,2015,Royal Challengers Bangalore,0.1,0.5,sold,,
+Subramaniam Badrinath,2015,Royal Challengers Bangalore,0.3,0.3,sold,Batsman,Indian
+Jalaj Saxena,2015,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian
+Shishir Bhavane,2015,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian
+Trent Boult,2015,Sunrisers Hyderabad,0.5,3.8,sold,Bowler,Overseas
+Praveen Kumar,2015,Sunrisers Hyderabad,0.5,2.2,sold,Bowler,Indian
+Kevin Pietersen,2015,Sunrisers Hyderabad,2.0,2.0,sold,Batsman,Overseas
+Eoin Morgan,2015,Sunrisers Hyderabad,1.5,1.5,sold,Batsman,Overseas
+Ravi Bopara,2015,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Indian
+Kane Williamson,2015,Sunrisers Hyderabad,0.5,0.6,sold,All-Rounder,Overseas
+Laxmi Ratan Shukla,2015,Sunrisers Hyderabad,0.3,0.3,sold,All-Rounder,Indian
+Padmanabhan Prasanth,2015,Sunrisers Hyderabad,0.1,0.1,sold,,
+Hanuma Vihari,2015,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian
+Siddarth Kaul,2015,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian
+Kevin Pietersen,2016,Rising Pune Supergiant,2.0,3.0,sold,Batsman,Overseas
+Dwayne Smith,2016,Gujarat Lions,0.5,2.3,sold,All-Rounder,Overseas
+Ishant Sharma,2016,Rising Pune Supergiant,2.0,3.8,sold,Bowler,Indian
+Shane Watson,2016,Royal Challengers Bangalore,2.0,9.5,sold,All-Rounder,Overseas
+Ashish Nehra,2016,Sunrisers Hyderabad,2.0,5.5,sold,Bowler,Indian
+Yuvraj Singh,2016,Sunrisers Hyderabad,2.0,7.0,sold,All-Rounder,Indian
+Dale Steyn,2016,Gujarat Lions,1.5,2.3,sold,Bowler,Overseas
+Sanju Samson,2016,Delhi Daredevils,2.0,4.2,sold,Wicket Keeper,Indian
+Jos Buttler,2016,Mumbai Indians,1.5,3.8,sold,Wicket Keeper,Overseas
+Dinesh Karthik,2016,Gujarat Lions,2.0,2.3,sold,Wicket Keeper,Indian
+Irfan Pathan,2016,Rising Pune Supergiant,1.0,1.0,sold,All-Rounder,Indian
+Chris Morris,2016,Delhi Daredevils,0.5,7.0,sold,,
+Colin Munro,2016,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas
+Stuart Binny,2016,Royal Challengers Bangalore,2.0,2.0,sold,All-Rounder,Indian
+Mitchell Marsh,2016,Rising Pune Supergiant,2.0,4.8,sold,All-Rounder,Overseas
+Dhawal Kulkarni,2016,Gujarat Lions,2.0,2.3,sold,Bowler,Indian
+John Hastings,2016,Kolkata Knight Riders,1.0,1.3,sold,Bowler,Overseas
+Praveen Kumar,2016,Gujarat Lions,0.5,3.5,sold,Bowler,Indian
+Tim Southee,2016,Mumbai Indians,1.0,2.5,sold,Bowler,Overseas
+Mohit Sharma,2016,Kings XI Punjab,1.5,6.5,sold,Bowler,Indian
+Carlos Brathwaite,2016,Delhi Daredevils,0.3,4.2,sold,All-Rounder,Overseas
+Marcus Stoinis,2016,Kings XI Punjab,0.3,0.55,sold,All-Rounder,Overseas
+Mustafizur Rahman,2016,Sunrisers Hyderabad,0.5,1.4,sold,Bowler,Overseas
+Jaydev Unadkat,2016,Kolkata Knight Riders,0.3,1.6,sold,Bowler,Indian
+Kyle Abbott,2016,Kings XI Punjab,0.3,2.1,sold,Bowler,Overseas
+Barinder Sran,2016,Sunrisers Hyderabad,0.5,1.2,sold,,
+Abhimanyu Mithun,2016,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Indian
+R. P. Singh,2016,Rising Pune Supergiant,0.3,0.3,sold,,
+Travis Head,2016,Royal Challengers Bangalore,0.3,0.5,sold,Batsman,Overseas
+Sachin Baby,2016,Royal Challengers Bangalore,0.1,0.1,sold,Batsman,Indian
+Karun Nair,2016,Delhi Daredevils,0.1,4.0,sold,Batsman,Indian
+Paras Dogra,2016,Gujarat Lions,0.1,4.0,sold,Batsman,Indian
+Ishan Kishan,2016,Gujarat Lions,0.1,0.35,sold,Wicket Keeper,Indian
+Rishabh Pant,2016,Delhi Daredevils,0.1,1.9,sold,Wicket Keeper,Indian
+Eklavya Dwivedi,2016,Gujarat Lions,0.2,1.0,sold,Wicket Keeper,Indian
+Aditya Tare,2016,Sunrisers Hyderabad,0.2,1.2,sold,Wicket Keeper,Indian
+Iqbal Abdulla,2016,Royal Challengers Bangalore,0.1,0.1,sold,,
+Deepak Hooda,2016,Sunrisers Hyderabad,0.1,4.2,sold,All-Rounder,Indian
+Ankit Sharma,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian
+Pawan Negi,2016,Delhi Daredevils,0.3,8.5,sold,All-Rounder,Indian
+Rajat Bhatia,2016,Rising Pune Supergiant,0.3,0.6,sold,All-Rounder,Indian
+Pradeep Sangwan,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian
+Nathu Singh,2016,Mumbai Indians,0.1,3.2,sold,Bowler,Indian
+Ishwar Pandey,2016,Rising Pune Supergiant,0.2,0.2,sold,,
+Ankit Rajpoot,2016,Kolkata Knight Riders,0.1,1.5,sold,,
+Pravin Tambe,2016,Gujarat Lions,0.1,0.2,sold,Bowler,Indian
+Shivil Kaushik,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian
+Sarabjit Ladda,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian
+Murugan Ashwin,2016,Rising Pune Supergiant,0.1,4.5,sold,,
+KC Cariappa,2016,Kings XI Punjab,0.1,0.8,sold,,
+Aaron Finch,2016,Gujarat Lions,1.0,1.0,sold,Batsman,Overseas
+Sam Billings,2016,Delhi Daredevils,0.3,0.3,sold,Wicket Keeper,Overseas
+Tirumalasetti Suman,2016,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian
+Ankush Bains,2016,Rising Pune Supergiant,0.1,0.1,sold,Wicket Keeper,Indian
+Umang Sharma,2016,Gujarat Lions,0.1,0.1,sold,Batsman,Indian
+Peter Handscomb,2016,Rising Pune Supergiant,0.3,0.3,sold,Wicket Keeper,Overseas
+Jitesh Sharma,2016,Mumbai Indians,0.1,0.1,sold,Wicket Keeper,Indian
+Armaan Jaffer,2016,Kings XI Punjab,0.1,0.1,sold,Batsman,Indian
+Jason Holder,2016,Kolkata Knight Riders,0.5,0.7,sold,All-Rounder,Overseas
+Thisara Perera,2016,Rising Pune Supergiant,1.0,1.0,sold,All-Rounder,Overseas
+Ben Cutting,2016,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas
+Andrew Tye,2016,Gujarat Lions,0.3,0.5,sold,All-Rounder,Overseas
+Praveen Dubey,2016,Royal Challengers Bangalore,0.1,0.35,sold,All-Rounder,Indian
+Rajagopal Sathish,2016,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian
+Vijay Shankar,2016,Sunrisers Hyderabad,0.1,0.35,sold,All-Rounder,Indian
+Shadab Jakati,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian
+Akshay Karnewar,2016,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian
+Akshdeep Nath,2016,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian
+Manan Sharma,2016,Kolkata Knight Riders,0.1,0.1,sold,,
+Baba Aparajith,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian
+Deepak Chahar,2016,Rising Pune Supergiant,0.1,0.1,sold,All-Rounder,Indian
+Kishore Kamath,2016,Mumbai Indians,0.1,1.4,sold,,
+Pardeep Sahu,2016,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian
+Krunal Pandya,2016,Mumbai Indians,0.1,2.0,sold,All-Rounder,Indian
+Deepak Punia,2016,Mumbai Indians,0.1,0.1,sold,All-Rounder,Indian
+Swapnil Singh,2016,Kings XI Punjab,0.1,0.1,sold,All-Rounder,Indian
+Khaleel Ahmed,2016,Delhi Daredevils,0.1,0.1,sold,,
+Jaydev Shah,2016,Gujarat Lions,0.2,0.2,sold,All-Rounder,Indian
+Pratyush Singh,2016,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian
+Ashok Dinda,2016,Rising Pune Supergiant,0.5,0.5,sold,Bowler,Indian
+Kane Richardson,2016,Royal Challengers Bangalore,2.0,2.0,sold,Bowler,Overseas
+Samuel Badree,2016,Royal Challengers Bangalore,0.5,0.5,sold,Bowler,Overseas
+Joel Paris,2016,Delhi Daredevils,0.3,0.3,sold,Bowler,Overseas
+Scott Boland,2016,Rising Pune Supergiant,0.5,0.5,sold,Bowler,Overseas
+Vikramjeet Malik,2016,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian
+Pawan Suyal,2016,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian
+Adam Zampa,2016,Rising Pune Supergiant,0.3,0.3,sold,Bowler,Overseas
+Amit Mishra,2016,Gujarat Lions,0.1,0.1,sold,Bowler,Indian
+Jaskaran Singh,2016,Rising Pune Supergiant,0.1,0.1,sold,Bowler,Indian
+Chama Milind,2016,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian
+Vikas Tokas,2016,Royal Challengers Bangalore,0.1,0.1,sold,Bowler,Indian
+Farhaan Behardien,2016,Kings XI Punjab,0.3,0.3,sold,All-Rounder,Overseas
+Akhil Herwadkar,2016,Delhi Daredevils,0.1,0.1,sold,,
+Mahipal Lomror,2016,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian
+Eoin Morgan,2017,Kings XI Punjab,2.0,2.0,sold,Batsman,Overseas
+Pawan Negi,2017,Royal Challengers Bangalore,0.3,1.0,sold,All-Rounder,Indian
+Angelo Mathews,2017,Delhi Daredevils,2.0,2.0,sold,All-Rounder,Overseas
+Ben Stokes,2017,Rising Pune Supergiants,2.0,14.5,sold,,
+Corey Anderson,2017,Delhi Daredevils,1.0,1.0,sold,All-Rounder,Overseas
+Nicholas Pooran,2017,Mumbai Indians,0.3,0.3,sold,,
+Kagiso Rabada,2017,Delhi Daredevils,1.0,5.0,sold,Bowler,Overseas
+Trent Boult,2017,Kolkata Knight Riders,1.5,5.0,sold,Bowler,Overseas
+Tymal Mills,2017,Royal Challengers Bangalore,0.5,12.0,sold,Bowler,Overseas
+Pat Cummins,2017,Delhi Daredevils,2.0,4.5,sold,Bowler,Overseas
+Mitchell Johnson,2017,Mumbai Indians,2.0,2.0,sold,Bowler,Overseas
+Ankit Bawne,2017,Delhi Daredevils,0.1,0.1,sold,,
+Tanmay Agarwal,2017,Sunrisers Hyderabad,0.1,0.1,sold,Batsman,Indian
+Mohammad Nabi,2017,Sunrisers Hyderabad,0.3,0.3,sold,All-Rounder,Overseas
+K Gowtham,2017,Mumbai Indians,0.1,2.0,sold,,
+Rahul Tewatia,2017,Kings XI Punjab,0.1,0.25,sold,All-Rounder,Indian
+Aditya Tare,2017,Delhi Daredevils,0.2,0.25,sold,Wicket Keeper,Indian
+Eklavya Dwivedi,2017,Sunrisers Hyderabad,0.3,0.75,sold,Wicket Keeper,Indian
+Aniket Choudhary,2017,Royal Challengers Bangalore,0.1,2.0,sold,Bowler,Indian
+T Natarajan,2017,Kings XI Punjab,0.1,3.0,sold,Bowler,Indian
+Nathu Singh,2017,Gujarat Lions,0.3,0.5,sold,Bowler,Indian
+Basil Thampi,2017,Gujarat Lions,0.1,0.85,sold,Bowler,Indian
+M Ashwin,2017,Delhi Daredevils,0.1,1.0,sold,,
+Tejas Baroka,2017,Gujarat Lions,0.1,0.1,sold,,
+Rashid Khan,2017,Sunrisers Hyderabad,0.5,4.0,sold,,
+Pravin Tambe,2017,Sunrisers Hyderabad,0.1,0.1,sold,Bowler,Indian
+Chris Woakes,2017,Kolkata Knight Riders,2.0,4.2,sold,All-Rounder,Overseas
+Karn Sharma,2017,Mumbai Indians,0.3,3.2,sold,All-Rounder,Indian
+Rishi Dhawan,2017,Kolkata Knight Riders,0.3,0.55,sold,All-Rounder,Indian
+Matt Henry,2017,Kings XI Punjab,0.5,0.5,sold,Bowler,Overseas
+Jaydev Unadkat,2017,Rising Pune Supergiants,0.3,0.3,sold,Bowler,Indian
+Varun Aaron,2017,Kings XI Punjab,0.3,2.8,sold,Bowler,Indian
+Manpreet Gony,2017,Gujarat Lions,0.3,0.6,sold,Bowler,Indian
+Martin Guptill,2017,Kings XI Punjab,0.5,0.5,sold,Batsman,Overseas
+Jason Roy,2017,Gujarat Lions,1.0,1.0,sold,Batsman,Overseas
+Saurabh Tiwary,2017,Mumbai Indians,0.3,0.3,sold,Batsman,Indian
+Chris Jordan,2017,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas
+Nathan Coulter-Nile,2017,Kolkata Knight Riders,1.0,3.5,sold,Bowler,Overseas
+Praveen Dubey,2017,Royal Challengers Bangalore,0.1,0.1,sold,All-Rounder,Indian
+Navdeep Saini,2017,Delhi Daredevils,0.1,0.1,sold,Bowler,Indian
+Ben Laughlin,2017,Sunrisers Hyderabad,0.3,0.3,sold,Bowler,Overseas
+Billy Stanlake,2017,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Overseas
+Mohammed Siraj,2017,Sunrisers Hyderabad,0.2,2.6,sold,Bowler,Indian
+Rahul Chahar,2017,Rising Pune Supergiants,0.1,0.1,sold,Bowler,Indian
+Saurabh Kumar,2017,Rising Pune Supergiants,0.1,0.1,sold,Bowler,Indian
+Asela Gunaratne,2017,Mumbai Indians,0.3,0.3,sold,,
+Daniel Christian,2017,Rising Pune Supergiants,1.0,1.0,sold,All-Rounder,Overseas
+Rovman Powell,2017,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas
+Darren Sammy,2017,Kings XI Punjab,0.3,0.3,sold,All-Rounder,Overseas
+Munaf Patel,2017,Gujarat Lions,0.3,0.3,sold,Bowler,Indian
+Rinku Singh,2017,Kings XI Punjab,0.1,0.1,sold,Batsman,Indian
+Shashank Singh,2017,Delhi Daredevils,0.1,0.1,sold,All-Rounder,Indian
+Milind Tandon,2017,Rising Pune Supergiants,0.1,0.1,sold,All-Rounder,Indian
+Kulwant Khejroliya,2017,Mumbai Indians,0.1,0.1,sold,Bowler,Indian
+Chirag Suri,2017,Gujarat Lions,0.1,0.1,sold,Batsman,Indian
+R Sanjay Yadav,2017,Kolkata Knight Riders,0.1,0.1,sold,,
+Shelley Shaurya,2017,Gujarat Lions,0.1,0.1,sold,Bowler,Indian
+Shubham Agarwal,2017,Gujarat Lions,0.1,0.1,sold,,
+Ishank Jaggi,2017,Kolkata Knight Riders,0.1,0.1,sold,Batsman,Indian
+Rahul Tripathi,2017,Rising Pune Supergiants,0.1,0.1,sold,,
+Pratham Singh,2017,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian
+Akshdeep Nath,2017,Gujarat Lions,0.1,0.1,sold,All-Rounder,Indian
+Lockie Ferguson,2017,Rising Pune Supergiants,0.5,0.5,sold,Bowler,Overseas
+Manoj Tiwary,2017,Rising Pune Supergiants,0.5,0.5,sold,Batsman,Indian
+Darren Bravo,2017,Kolkata Knight Riders,0.5,0.5,sold,Batsman,Overseas
+Sayan Ghosh,2017,Kolkata Knight Riders,0.1,0.1,sold,Bowler,Indian
+Shikhar Dhawan,2018,Sunrisers Hyderabad,2.0,5.2,sold,Batsman,Indian
+Ravichandran Ashwin,2018,Kings XI Punjab,2.0,7.6,sold,All-Rounder,Overseas
+Kieron Pollard,2018,Mumbai Indians,2.0,5.4,sold,All-Rounder,Overseas
+Ben Stokes,2018,Rajasthan Royals,2.0,12.5,sold,,
+Faf du Plessis,2018,Chennai Super Kings,1.5,1.6,sold,,
+Ajinkya Rahane,2018,Rajasthan Royals,2.0,4.0,sold,Batsman,Indian
+Mitchell Starc,2018,Kolkata Knight Riders,2.0,9.4,sold,Bowler,Overseas
+Harbhajan Singh,2018,Chennai Super Kings,2.0,2.0,sold,Bowler,Indian
+Shakib Al Hasan,2018,Sunrisers Hyderabad,1.0,2.0,sold,All-Rounder,Overseas
+Glenn Maxwell,2018,Delhi Daredevils,2.0,9.0,sold,All-Rounder,Overseas
+Gautam Gambhir,2018,Delhi Daredevils,2.0,2.8,sold,Batsman,Indian
+Dwayne Bravo,2018,Chennai Super Kings,2.0,6.4,sold,All-Rounder,Overseas
+Kane Williamson,2018,Sunrisers Hyderabad,1.5,3.0,sold,Batsman,Overseas
+Yuvraj Singh,2018,Kings XI Punjab,2.0,2.0,sold,All-Rounder,Indian
+Karun Nair,2018,Kings XI Punjab,0.5,5.6,sold,Batsman,Indian
+KL Rahul,2018,Kings XI Punjab,2.0,11.0,sold,Batsman,Indian
+David Miller,2018,Kings XI Punjab,1.5,3.0,sold,Batsman,Overseas
+Aaron Finch,2018,Kings XI Punjab,1.5,6.2,sold,Batsman,Overseas
+Brendon McCullum,2018,Royal Challengers Bangalore,2.0,3.6,sold,Batsman,Overseas
+Jason Roy,2018,Delhi Daredevils,1.5,1.5,sold,Batsman,Overseas
+Chris Lynn,2018,Kolkata Knight Riders,2.0,9.6,sold,Batsman,Overseas
+Manish Pandey,2018,Sunrisers Hyderabad,1.0,11.0,sold,Batsman,Indian
+Chris Woakes,2018,Royal Challengers Bangalore,2.0,7.4,sold,All-Rounder,Overseas
+Carlos Brathwaite,2018,Sunrisers Hyderabad,1.0,2.0,sold,All-Rounder,Overseas
+Shane Watson,2018,Chennai Super Kings,1.0,4.0,sold,All-Rounder,Overseas
+Kedar Jadhav,2018,Chennai Super Kings,2.0,7.8,sold,All-Rounder,Indian
+Colin de Grandhomme,2018,Royal Challengers Bangalore,0.75,2.2,sold,,
+Yusuf Pathan,2018,Sunrisers Hyderabad,0.75,1.9,sold,All-Rounder,Indian
+Colin Munro,2018,Delhi Daredevils,0.5,1.9,sold,All-Rounder,Overseas
+Stuart Binny,2018,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Indian
+Marcus Stoinis,2018,Kings XI Punjab,2.0,6.2,sold,All-Rounder,Overseas
+Moeen Ali,2018,Royal Challengers Bangalore,1.5,1.7,sold,All-Rounder,Overseas
+Quinton de Kock,2018,Royal Challengers Bangalore,2.0,2.8,sold,,
+Wriddhiman Saha,2018,Sunrisers Hyderabad,1.0,5.0,sold,Wicket Keeper,Indian
+Dinesh Karthik,2018,Kolkata Knight Riders,2.0,7.4,sold,Wicket Keeper,Indian
+Robin Uthappa,2018,Kolkata Knight Riders,2.0,6.4,sold,Batsman,Indian
+Sanju Samson,2018,Rajasthan Royals,1.0,8.0,sold,Wicket Keeper,Indian
+Ambati Rayudu,2018,Chennai Super Kings,0.5,2.2,sold,Wicket Keeper,Indian
+Jos Buttler,2018,Rajasthan Royals,1.5,4.4,sold,Wicket Keeper,Overseas
+Mustafizur Rahman,2018,Mumbai Indians,1.0,2.2,sold,Bowler,Overseas
+Pat Cummins,2018,Mumbai Indians,2.0,5.4,sold,Bowler,Overseas
+Umesh Yadav,2018,Royal Challengers Bangalore,1.0,4.2,sold,Bowler,Indian
+Mohammed Shami,2018,Delhi Daredevils,1.0,3.0,sold,,
+Kagiso Rabada,2018,Delhi Daredevils,1.5,4.2,sold,Bowler,Overseas
+Piyush Chawla,2018,Kolkata Knight Riders,1.0,4.2,sold,Bowler,Indian
+Imran Tahir,2018,Chennai Super Kings,1.0,1.0,sold,Bowler,Overseas
+Karn Sharma,2018,Chennai Super Kings,2.0,5.0,sold,Bowler,Indian
+Rashid Khan,2018,Sunrisers Hyderabad,2.0,9.0,sold,,
+Amit Mishra,2018,Delhi Daredevils,1.5,4.0,sold,Bowler,Indian
+Yuzvendra Chahal,2018,Royal Challengers Bangalore,2.0,6.0,sold,,
+Kuldeep Yadav,2018,Kolkata Knight Riders,1.5,5.8,sold,Bowler,Indian
+Suryakumar Yadav,2018,Mumbai Indians,0.3,3.2,sold,Batsman,Indian
+Shubman Gill,2018,Kolkata Knight Riders,0.2,1.8,sold,Batsman,Indian
+Ishank Jaggi,2018,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian
+Ricky Bhui,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Overseas
+Mayank Agarwal,2018,Kings XI Punjab,0.2,1.0,sold,Batsman,Indian
+Rahul Tripathi,2018,Rajasthan Royals,0.2,3.4,sold,Batsman,Indian
+Manan Vohra,2018,Royal Challengers Bangalore,0.2,1.1,sold,Batsman,Indian
+Prithvi Shaw,2018,Delhi Daredevils,0.2,1.2,sold,Batsman,Indian
+Rahul Tewatia,2018,Delhi Daredevils,0.2,3.0,sold,All-Rounder,Indian
+Deepak Hooda,2018,Sunrisers Hyderabad,0.4,3.6,sold,All-Rounder,Indian
+Vijay Shankar,2018,Delhi Daredevils,0.4,3.2,sold,All-Rounder,Indian
+Harshal Patel,2018,Delhi Daredevils,0.2,0.2,sold,All-Rounder,Indian
+Kamlesh Nagarkoti,2018,Kolkata Knight Riders,0.2,3.2,sold,All-Rounder,Indian
+Krunal Pandya,2018,Mumbai Indians,0.4,8.8,sold,All-Rounder,Indian
+Nitish Rana,2018,Kolkata Knight Riders,0.2,3.4,sold,All-Rounder,Indian
+D'Arcy Short,2018,Rajasthan Royals,0.2,4.0,sold,,
+Jofra Archer,2018,Rajasthan Royals,0.4,7.2,sold,All-Rounder,Overseas
+Ishan Kishan,2018,Mumbai Indians,0.4,6.2,sold,Wicket Keeper,Indian
+Kulwant Khejroliya,2018,Royal Challengers Bangalore,0.2,0.85,sold,Bowler,Indian
+Siddharth Kaul,2018,Sunrisers Hyderabad,0.3,3.8,sold,,
+T Natarajan,2018,Sunrisers Hyderabad,0.4,0.4,sold,Bowler,Indian
+Basil Thampi,2018,Sunrisers Hyderabad,0.3,0.95,sold,Bowler,Indian
+Aniket Choudhary,2018,Royal Challengers Bangalore,0.3,0.3,sold,Bowler,Indian
+Khaleel Ahmed,2018,Sunrisers Hyderabad,0.2,3.0,sold,,
+Navdeep Saini,2018,Royal Challengers Bangalore,0.2,3.0,sold,Bowler,Indian
+Avesh Khan,2018,Delhi Daredevils,0.2,0.7,sold,Bowler,Indian
+Ankit Rajpoot,2018,Kings XI Punjab,0.3,3.0,sold,,
+Rahul Chahar,2018,Mumbai Indians,0.2,1.9,sold,Bowler,Indian
+Shahbaz Nadeem,2018,Delhi Daredevils,0.4,3.2,sold,Bowler,Indian
+Krishnappa Gowtham,2018,Rajasthan Royals,0.2,6.2,sold,Bowler,Indian
+Murugan Ashwin,2018,Royal Challengers Bangalore,0.2,2.2,sold,,
+Evin Lewis,2018,Mumbai Indians,1.5,3.8,sold,Batsman,Overseas
+Saurabh Tiwary,2018,Mumbai Indians,0.5,0.8,sold,Batsman,Indian
+Mandeep Singh,2018,Royal Challengers Bangalore,0.5,1.4,sold,All-Rounder,Indian
+Manoj Tiwary,2018,Kings XI Punjab,0.5,1.0,sold,Batsman,Indian
+Washington Sundar,2018,Royal Challengers Bangalore,1.5,3.2,sold,All-Rounder,Indian
+Pawan Negi,2018,Royal Challengers Bangalore,0.5,1.0,sold,All-Rounder,Indian
+Daniel Christian,2018,Delhi Daredevils,1.0,1.5,sold,All-Rounder,Overseas
+Jayant Yadav,2018,Delhi Daredevils,0.5,0.5,sold,All-Rounder,Indian
+Gurkeerat Singh,2018,Delhi Daredevils,0.5,0.75,sold,,
+Ben Cutting,2018,Mumbai Indians,1.0,2.2,sold,All-Rounder,Overseas
+Mohammad Nabi,2018,Sunrisers Hyderabad,0.5,1.0,sold,All-Rounder,Overseas
+Dhawal Kulkarni,2018,Rajasthan Royals,0.5,0.75,sold,Bowler,Indian
+Mohit Sharma,2018,Kings XI Punjab,1.5,2.4,sold,Bowler,Indian
+Sandeep Sharma,2018,Sunrisers Hyderabad,0.5,3.0,sold,Bowler,Indian
+Vinay Kumar,2018,Kolkata Knight Riders,1.0,1.0,sold,,
+Mohammed Siraj,2018,Royal Challengers Bangalore,1.0,2.6,sold,Bowler,Indian
+Nathan Coulter-Nile,2018,Royal Challengers Bangalore,1.5,2.2,sold,Bowler,Overseas
+Jaydev Unadkat,2018,Rajasthan Royals,1.5,11.5,sold,Bowler,Indian
+Trent Boult,2018,Delhi Daredevils,1.5,2.2,sold,Bowler,Overseas
+Shardul Thakur,2018,Chennai Super Kings,0.75,2.6,sold,Bowler,Indian
+Mujeeb Zadran,2018,Kings XI Punjab,0.5,4.0,sold,Bowler,Overseas
+Apoorv Wankhade,2018,Kolkata Knight Riders,0.2,0.2,sold,,
+Rinku Singh,2018,Kolkata Knight Riders,0.2,0.8,sold,Batsman,Indian
+Sachin Baby,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian
+Manjot Kalra,2018,Delhi Daredevils,0.2,0.2,sold,Batsman,Indian
+Ankit Sharma,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Shivam Mavi,2018,Kolkata Knight Riders,0.2,3.0,sold,All-Rounder,Indian
+Abhishek Sharma,2018,Delhi Daredevils,0.2,0.55,sold,All-Rounder,Indian
+Pradeep Sangwan,2018,Mumbai Indians,0.3,1.5,sold,Bowler,Indian
+Anureet Singh,2018,Rajasthan Royals,0.3,0.3,sold,Bowler,Indian
+Narayan Jagadeesan,2018,Chennai Super Kings,0.2,0.2,sold,,
+Zahir Khan Pakteen,2018,Rajasthan Royals,0.2,0.6,sold,Bowler,Indian
+Jean-Paul Duminy,2018,Mumbai Indians,1.0,1.0,sold,All-Rounder,Overseas
+Chris Jordan,2018,Sunrisers Hyderabad,1.0,1.0,sold,All-Rounder,Overseas
+Mitchell Santner,2018,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas
+Jason Behrendorff,2018,Mumbai Indians,1.0,1.5,sold,Bowler,Overseas
+Barinder Sran,2018,Kings XI Punjab,0.5,2.2,sold,,
+Billy Stanlake,2018,Sunrisers Hyderabad,0.5,0.5,sold,Batsman,Overseas
+Andrew Tye,2018,Kings XI Punjab,1.0,7.2,sold,Bowler,Overseas
+Tanmay Agarwal,2018,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian
+Deepak Chahar,2018,Chennai Super Kings,0.2,0.8,sold,All-Rounder,Indian
+Cameron Delport,2018,Kolkata Knight Riders,0.3,0.3,sold,All-Rounder,Overseas
+Tajinder Singh,2018,Mumbai Indians,0.2,0.55,sold,,
+Shreyas Gopal,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Akshdeep Nath,2018,Kings XI Punjab,0.2,1.0,sold,All-Rounder,Indian
+Shreevats Goswami,2018,Sunrisers Hyderabad,0.2,1.0,sold,Wicket Keeper,Indian
+Ben Dwarshuis,2018,Kings XI Punjab,0.2,1.4,sold,Bowler,Overseas
+KM Asif,2018,Chennai Super Kings,0.2,0.4,sold,,
+Sandeep Lamichhane,2018,Delhi Daredevils,0.2,0.2,sold,Bowler,Overseas
+Lungisani Ngidi,2018,Chennai Super Kings,0.5,0.5,sold,Bowler,Overseas
+Sharad Lumba,2018,Mumbai Indians,0.2,0.2,sold,Batsman,Indian
+Kanishk Seth,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian
+Dhruv Shorey,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian
+Aniruddha Joshi,2018,Royal Challengers Bangalore,0.2,0.2,sold,,
+Sudhesan Midhun,2018,Rajasthan Royals,0.2,0.2,sold,,
+Murali Vijay,2018,Chennai Super Kings,2.0,2.0,sold,Batsman,Indian
+Sam Billings,2018,Chennai Super Kings,1.0,1.0,sold,Wicket Keeper,Overseas
+Naman Ojha,2018,Delhi Daredevils,0.75,1.4,sold,Wicket Keeper,Indian
+Parthiv Patel,2018,Royal Challengers Bangalore,1.0,1.7,sold,Wicket Keeper,Indian
+Mitchell Johnson,2018,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Overseas
+Tim Southee,2018,Royal Challengers Bangalore,1.0,1.0,sold,Bowler,Overseas
+Siddhesh Lad,2018,Mumbai Indians,0.2,0.2,sold,,
+Prashant Chopra,2018,Rajasthan Royals,0.2,0.2,sold,Wicket Keeper,Indian
+Aditya Tare,2018,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Indian
+Bipul Sharma,2018,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian
+Sayan Ghosh,2018,Delhi Daredevils,0.2,0.2,sold,Bowler,Indian
+Mayank Markande,2018,Mumbai Indians,0.2,0.2,sold,Bowler,Indian
+Ben Laughlin,2018,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas
+Akila Dananjaya,2018,Mumbai Indians,0.5,0.5,sold,,
+Pardeep Sahu,2018,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian
+Mayank Dagar,2018,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian
+Anukul Roy,2018,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+Mark Wood,2018,Chennai Super Kings,1.5,1.5,sold,Bowler,Overseas
+Mahipal Lomror,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Mohsin Khan,2018,Mumbai Indians,0.2,0.2,sold,Bowler,Indian
+Mehdi Hasan,2018,Sunrisers Hyderabad,0.2,0.2,sold,,
+Kshitiz Sharma,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian
+Monu Kumar,2018,Chennai Super Kings,0.2,0.2,sold,,
+Chaitanya Bishnoi,2018,Chennai Super Kings,0.2,0.2,sold,All-Rounder,Indian
+Jatin Saxena,2018,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Aryaman Birla,2018,Rajasthan Royals,0.2,0.3,sold,,
+Pavan Deshpande,2018,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian
+Chris Gayle,2018,Kings XI Punjab,2.0,2.0,sold,,
+Dushmantha Chameera,2018,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas
+M. D. Nidheesh,2018,Mumbai Indians,0.2,0.2,sold,,
+Manzoor Dar,2018,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian
+Javon Searles,2018,Kolkata Knight Riders,0.3,0.3,sold,,
+Hanuma Vihari,2019,Delhi Capitals,0.5,2.0,sold,Batsman,Indian
+Shimron Hetmyer,2019,Royal Challengers Bangalore,0.5,4.2,sold,Batsman,Overseas
+Carlos Brathwaite,2019,Kolkata Knight Riders,0.75,5.0,sold,All-Rounder,Overseas
+Gurkeerat Singh,2019,Royal Challengers Bangalore,0.5,0.5,sold,,
+Moises Henriques,2019,Kings XI Punjab,1.0,1.0,sold,All-Rounder,Overseas
+Axar Patel,2019,Delhi Capitals,1.0,5.0,sold,,
+Jonny Bairstow,2019,Sunrisers Hyderabad,1.5,2.2,sold,Wicket Keeper,Overseas
+Nicholas Pooran,2019,Kings XI Punjab,0.75,4.2,sold,,
+Wriddhiman Saha,2019,Sunrisers Hyderabad,1.0,1.2,sold,Wicket Keeper,Indian
+Jaydev Unadkat,2019,Rajasthan Royals,1.5,8.4,sold,Bowler,Indian
+Ishant Sharma,2019,Delhi Capitals,0.75,1.1,sold,Bowler,Indian
+Lasith Malinga,2019,Mumbai Indians,2.0,2.0,sold,Bowler,Overseas
+Mohammad Shami,2019,Kings XI Punjab,1.0,4.8,sold,Bowler,Indian
+Varun Aaron,2019,Rajasthan Royals,0.5,2.4,sold,Bowler,Indian
+Mohit Sharma,2019,Chennai Super Kings,0.5,5.0,sold,Bowler,Indian
+Devdutt Padikkal,2019,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian
+Anmolpreet Singh,2019,Mumbai Indians,0.2,0.8,sold,Batsman,Indian
+Sarfaraz Khan,2019,Kings XI Punjab,0.2,0.25,sold,,
+Shivam Dube,2019,Royal Challengers Bangalore,0.2,5.0,sold,All-Rounder,Indian
+Varun Chakravarthy,2019,Kings XI Punjab,0.2,8.4,sold,,
+Ankush Bains,2019,Delhi Capitals,0.2,0.2,sold,Wicket Keeper,Indian
+Nathu Singh,2019,Delhi Capitals,0.2,0.2,sold,Bowler,Indian
+Colin Ingram,2019,Delhi Capitals,2.0,6.4,sold,Batsman,Overseas
+Sam Curran,2019,Kings XI Punjab,2.0,7.2,sold,All-Rounder,Overseas
+Heinrich Klaasen,2019,Royal Challengers Bangalore,0.5,0.5,sold,Wicket Keeper,Overseas
+Barinder Sran,2019,Mumbai Indians,0.5,3.4,sold,,
+Lockie Ferguson,2019,Kolkata Knight Riders,1.0,1.6,sold,Bowler,Overseas
+Sherfane Rutherford,2019,Delhi Capitals,0.4,2.0,sold,All-Rounder,Overseas
+Anrich Nortje,2019,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Overseas
+Oshane Thomas,2019,Rajasthan Royals,0.5,1.1,sold,Bowler,Overseas
+Hardus Viljoen,2019,Kings XI Punjab,0.75,0.75,sold,Bowler,Overseas
+Himmat Singh,2019,Royal Challengers Bangalore,0.2,0.65,sold,Batsman,Indian
+Nikhil Naik,2019,Kolkata Knight Riders,0.2,0.2,sold,,
+Arshdeep Singh,2019,Kings XI Punjab,0.2,0.2,sold,Bowler,Indian
+Harry Gurney,2019,Kolkata Knight Riders,0.75,0.75,sold,Bowler,Overseas
+Pankaj Jaiswal,2019,Mumbai Indians,0.2,0.2,sold,,
+Milind Kumar,2019,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian
+Darshan Nalkande,2019,Kings XI Punjab,0.2,0.3,sold,All-Rounder,Indian
+Shashank Singh,2019,Rajasthan Royals,0.2,0.3,sold,All-Rounder,Indian
+Prab Simran Singh,2019,Kings XI Punjab,0.2,4.8,sold,,
+Rasikh Salam,2019,Mumbai Indians,0.2,0.2,sold,,
+Prithvi Raj Yarra,2019,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian
+Liam Livingstone,2019,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Overseas
+Keemo Paul,2019,Delhi Capitals,0.5,0.5,sold,All-Rounder,Overseas
+Prayas Ray Barman,2019,Royal Challengers Bangalore,0.2,1.5,sold,All-Rounder,Indian
+Agnivesh Ayachi,2019,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian
+Harpreet Brar,2019,Kings XI Punjab,0.2,0.2,sold,All-Rounder,Indian
+Martin Guptill,2019,Sunrisers Hyderabad,1.0,1.0,sold,Batsman,Overseas
+Yuvraj Singh,2019,Mumbai Indians,1.0,1.0,sold,All-Rounder,Indian
+Akshdeep Nath,2019,Royal Challengers Bangalore,0.2,3.6,sold,All-Rounder,Indian
+Jalaj Saxena,2019,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+Murugan Ashwin,2019,Kings XI Punjab,0.2,0.2,sold,,
+Ruturaj Gaikwad,2019,Chennai Super Kings,0.2,0.2,sold,Batsman,Indian
+Shubham Ranjane,2019,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Joe Denly,2019,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Overseas
+Bandaru Ayyappa,2019,Delhi Capitals,0.2,0.2,sold,Bowler,Indian
+Shrikant Mundhe,2019,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian
+Manan Vohra,2019,Rajasthan Royals,0.2,0.2,sold,Batsman,Indian
+Ashton Turner,2019,Rajasthan Royals,0.5,0.5,sold,All-Rounder,Indian
+Riyan Parag,2019,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Chris Lynn,2020,Mumbai Indians,2.0,2.0,sold,Batsman,Overseas
+Eoin Morgan,2020,Kolkata Knight Riders,2.0,5.25,sold,Batsman,Overseas
+Robin Uthappa,2020,Rajasthan Royals,1.5,3.0,sold,Batsman,Indian
+Jason Roy,2020,Delhi Capitals,1.5,1.5,sold,Batsman,Overseas
+Aaron Finch,2020,Royal Challengers Bangalore,1.0,4.4,sold,Batsman,Overseas
+Glenn Maxwell,2020,Kings XI Punjab,2.0,10.75,sold,All-Rounder,Overseas
+Chris Woakes,2020,Delhi Capitals,1.5,1.5,sold,All-Rounder,Overseas
+Pat Cummins,2020,Kolkata Knight Riders,2.0,15.5,sold,All-Rounder,Overseas
+Sam Curran,2020,Chennai Super Kings,1.0,5.5,sold,All-Rounder,Overseas
+Chris Morris,2020,Royal Challengers Bangalore,1.5,10.0,sold,,
+Alex Carey,2020,Delhi Capitals,0.5,2.4,sold,Wicket Keeper,Overseas
+Jaydev Unadkat,2020,Rajasthan Royals,1.0,3.0,sold,Bowler,Indian
+Nathan Coulter-Nile,2020,Mumbai Indians,1.0,8.0,sold,Bowler,Overseas
+Sheldon Cottrell,2020,Kings XI Punjab,0.5,8.5,sold,Bowler,Overseas
+Piyush Chawla,2020,Chennai Super Kings,1.0,6.75,sold,Bowler,Indian
+Rahul Tripathi,2020,Kolkata Knight Riders,0.2,0.6,sold,Batsman,Indian
+Virat Singh,2020,Sunrisers Hyderabad,0.2,1.9,sold,Batsman,Indian
+Priyam Garg,2020,Sunrisers Hyderabad,0.2,1.9,sold,Batsman,Indian
+Deepak Hooda,2020,Kings XI Punjab,0.4,0.5,sold,All-Rounder,Indian
+Varun Chakravarthy,2020,Kolkata Knight Riders,0.3,4.0,sold,,
+Yashasvi Jaiswal,2020,Rajasthan Royals,0.2,2.4,sold,All-Rounder,Indian
+Anuj Rawat,2020,Rajasthan Royals,0.2,0.8,sold,Wicket Keeper,Indian
+Akash Singh,2020,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Kartik Tyagi,2020,Rajasthan Royals,0.2,1.3,sold,Bowler,Indian
+Ishan Porel,2020,Kings XI Punjab,0.2,0.2,sold,,
+M Siddharth,2020,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian
+Ravi Bishnoi,2020,Kings XI Punjab,0.2,2.0,sold,Bowler,Indian
+Shimron Hetmyer,2020,Delhi Capitals,0.5,7.75,sold,Batsman,Overseas
+David Miller,2020,Rajasthan Royals,0.75,0.75,sold,Batsman,Overseas
+Saurabh Tiwary,2020,Mumbai Indians,0.5,0.5,sold,Batsman,Indian
+Mitchell Marsh,2020,Sunrisers Hyderabad,2.0,2.0,sold,All-Rounder,Overseas
+James Neesham,2020,Kings XI Punjab,0.5,0.5,sold,All-Rounder,Overseas
+Josh Hazlewood,2020,Chennai Super Kings,2.0,2.0,sold,Bowler,Overseas
+Bavanaka Sandeep,2020,Sunrisers Hyderabad,0.2,0.2,sold,,
+Chris Green,2020,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Overseas
+Josh Philippe,2020,Royal Challengers Bangalore,0.2,0.2,sold,,
+Mohsin Khan,2020,Mumbai Indians,0.2,0.2,sold,Bowler,Indian
+Tom Banton,2020,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Overseas
+Fabian Allen,2020,Sunrisers Hyderabad,0.5,0.5,sold,All-Rounder,Overseas
+Chris Jordan,2020,Kings XI Punjab,0.75,3.0,sold,All-Rounder,Overseas
+Kane Richardson,2020,Royal Challengers Bangalore,1.5,4.0,sold,Bowler,Overseas
+Oshane Thomas,2020,Rajasthan Royals,0.5,0.5,sold,Bowler,Overseas
+Pravin Tambe,2020,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian
+Tajinder Singh Dhillon,2020,Kings XI Punjab,0.2,0.2,sold,,
+Abdul Samad,2020,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian
+Aniruddha Joshi,2020,Rajasthan Royals,0.2,0.2,sold,,
+Digvijay Deshmukh,2020,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+Prince Balwant Rai,2020,Mumbai Indians,0.2,0.2,sold,,
+Sanjay Yadav,2020,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian
+Mohit Sharma,2020,Delhi Capitals,0.5,0.5,sold,Bowler,Indian
+Pavan Deshpande,2020,Royal Challengers Bangalore,0.2,0.2,sold,All-Rounder,Indian
+Prab Simran Singh,2020,Kings XI Punjab,0.2,0.55,sold,,
+Tushar Deshpande,2020,Delhi Capitals,0.2,0.2,sold,Bowler,Indian
+R Sai Kishore,2020,Chennai Super Kings,0.2,0.2,sold,,
+Marcus Stoinis,2020,Delhi Capitals,1.0,4.8,sold,All-Rounder,Overseas
+Dale Steyn,2020,Royal Challengers Bangalore,2.0,2.0,sold,Bowler,Overseas
+Andrew Tye,2020,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas
+Lalit Yadav,2020,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+Shahbaz Ahmed,2020,Royal Challengers Bangalore,0.2,0.2,sold,,
+Nikhil Naik,2020,Kolkata Knight Riders,0.2,0.2,sold,,
+Tom Curran,2020,Rajasthan Royals,1.0,1.0,sold,All-Rounder,Overseas
+Isuru Udana,2020,Royal Challengers Bangalore,0.5,0.5,sold,All-Rounder,Overseas
+Steve Smith,2021,Delhi Capitals,2.0,2.2,sold,,
+Glenn Maxwell,2021,Royal Challengers Bangalore,2.0,14.25,sold,All-Rounder,Overseas
+Shakib Al Hasan,2021,Kolkata Knight Riders,2.0,3.2,sold,All-Rounder,Overseas
+Moeen Ali,2021,Chennai Super Kings,2.0,7.0,sold,All-Rounder,Overseas
+Shivam Dube,2021,Rajasthan Royals,0.5,4.4,sold,All-Rounder,Indian
+Chris Morris,2021,Rajasthan Royals,0.75,16.25,sold,,
+Dawid Malan,2021,Punjab Kings,1.5,1.5,sold,All-Rounder,Overseas
+Adam Milne,2021,Mumbai Indians,0.5,3.2,sold,Bowler,Overseas
+Mustafizur Rahman,2021,Rajasthan Royals,1.0,1.0,sold,Bowler,Overseas
+Jhye Richardson,2021,Punjab Kings,1.5,14.0,sold,Bowler,Overseas
+Nathan Coulter-Nile,2021,Mumbai Indians,1.5,5.0,sold,Bowler,Overseas
+Umesh Yadav,2021,Delhi Capitals,1.0,1.0,sold,Bowler,Indian
+Piyush Chawla,2021,Mumbai Indians,0.5,2.4,sold,Bowler,Indian
+Sachin Baby,2021,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian
+Rajat Patidar,2021,Royal Challengers Bangalore,0.2,0.2,sold,Batsman,Indian
+Ripal Patel,2021,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+Shahrukh Khan,2021,Punjab Kings,0.2,5.25,sold,All-Rounder,Indian
+Krishnappa Gowtham,2021,Chennai Super Kings,0.2,9.25,sold,All-Rounder,Indian
+Vishnu Vinod,2021,Delhi Capitals,0.2,0.2,sold,Wicket Keeper,Indian
+Sheldon Jackson,2021,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian
+Mohammed Azharuddeen,2021,Royal Challengers Bangalore,0.2,0.2,sold,,
+Lukman Hussain Meriwala,2021,Delhi Capitals,0.2,0.2,sold,Bowler,Indian
+Chetan Sakariya,2021,Rajasthan Royals,0.2,1.2,sold,Bowler,Indian
+Riley Meredith,2021,Punjab Kings,0.4,8.0,sold,Bowler,Overseas
+Manimaran Siddharth,2021,Delhi Capitals,0.2,0.2,sold,,
+Jagadeesha Suchith,2021,Sunrisers Hyderabad,0.2,0.3,sold,,
+K. C. Cariappa,2021,Rajasthan Royals,0.2,0.2,sold,,
+Cheteshwar Pujara,2021,Chennai Super Kings,0.5,0.5,sold,Batsman,Indian
+Kyle Jamieson,2021,Royal Challengers Bangalore,0.75,15.0,sold,All-Rounder,Overseas
+Tom Curran,2021,Delhi Capitals,1.5,5.25,sold,All-Rounder,Overseas
+Moises Henriques,2021,Punjab Kings,1.0,4.2,sold,All-Rounder,Overseas
+Jalaj Saxena,2021,Punjab Kings,0.2,0.3,sold,All-Rounder,Indian
+Utkarsh Singh,2021,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Vaibhav Arora,2021,Kolkata Knight Riders,0.2,0.2,sold,Bowler,Indian
+Fabian Allen,2021,Punjab Kings,0.75,0.75,sold,All-Rounder,Overseas
+Dan Christian,2021,Royal Challengers Bangalore,0.75,4.8,sold,All-Rounder,Overseas
+Liam Livingstone,2021,Rajasthan Royals,0.75,0.75,sold,All-Rounder,Overseas
+Suyash Prabhudessai,2021,Royal Challengers Bangalore,0.2,0.2,sold,,
+Kona Srikar Bharat,2021,Royal Challengers Bangalore,0.2,0.2,sold,Wicket Keeper,Indian
+Harishankar Reddy,2021,Chennai Super Kings,0.2,0.2,sold,,
+Kuldip Yadav,2021,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+James Neesham,2021,Mumbai Indians,0.5,0.5,sold,All-Rounder,Overseas
+Yudhvir Charak,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+Bhagath Varma,2021,Chennai Super Kings,0.2,0.2,sold,,
+Marco Jansen,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Overseas
+Saurabh Kumar,2021,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Karun Nair,2021,Kolkata Knight Riders,0.5,0.5,sold,Batsman,Indian
+Kedar Jadhav,2021,Sunrisers Hyderabad,2.0,2.0,sold,All-Rounder,Indian
+Sam Billings,2021,Delhi Capitals,2.0,2.0,sold,Wicket Keeper,Overseas
+Mujeeb Ur Rahman,2021,Sunrisers Hyderabad,1.5,1.5,sold,,
+Harbhajan Singh,2021,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Indian
+Chezhian Harinishanth,2021,Chennai Super Kings,0.2,0.2,sold,,
+Ben Cutting,2021,Kolkata Knight Riders,0.75,0.75,sold,All-Rounder,Overseas
+Venkatesh Iyer,2021,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian
+Pawan Negi,2021,Kolkata Knight Riders,0.5,0.5,sold,All-Rounder,Indian
+Akash Singh,2021,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Arjun Tendulkar,2021,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+Shikhar Dhawan,2022,Punjab Kings,2.0,8.25,sold,Batsman,Indian
+Ravichandran Ashwin,2022,Rajasthan Royals,2.0,5.0,sold,,
+Pat Cummins,2022,Kolkata Knight Riders,2.0,7.25,sold,All-Rounder,Overseas
+Kagiso Rabada,2022,Punjab Kings,2.0,9.25,sold,Bowler,Overseas
+Trent Boult,2022,Rajasthan Royals,2.0,8.0,sold,Bowler,Overseas
+Shreyas Iyer,2022,Kolkata Knight Riders,2.0,12.25,sold,Batsman,Indian
+Mohammed Shami,2022,Gujarat Titans,2.0,6.25,sold,,
+Faf du Plessis,2022,Royal Challengers Bangalore,2.0,7.0,sold,,
+Quinton de Kock,2022,Lucknow Super Giants,2.0,6.75,sold,,
+David Warner,2022,Delhi Capitals,2.0,6.25,sold,Batsman,Overseas
+Manish Pandey,2022,Lucknow Super Giants,1.5,4.6,sold,Batsman,Indian
+Shimron Hetmyer,2022,Rajasthan Royals,1.5,8.5,sold,Batsman,Overseas
+Robin Uthappa,2022,Chennai Super Kings,2.0,2.0,sold,Batsman,Indian
+Jason Roy,2022,Gujarat Titans,2.0,2.0,sold,Batsman,Overseas
+Devdutt Padikkal,2022,Rajasthan Royals,1.5,7.75,sold,Batsman,Indian
+Dwayne Bravo,2022,Chennai Super Kings,1.5,4.4,sold,All-Rounder,Overseas
+Nitish Rana,2022,Kolkata Knight Riders,1.5,8.0,sold,All-Rounder,Indian
+Jason Holder,2022,Lucknow Super Giants,1.5,8.75,sold,All-Rounder,Overseas
+Harshal Patel,2022,Royal Challengers Bangalore,1.5,10.75,sold,All-Rounder,Indian
+Deepak Hooda,2022,Lucknow Super Giants,0.75,5.75,sold,All-Rounder,Indian
+Wanindu Hasaranga,2022,Royal Challengers Bangalore,1.0,10.75,sold,All-Rounder,Overseas
+Washington Sundar,2022,Sunrisers Hyderabad,1.5,8.75,sold,All-Rounder,Indian
+Krunal Pandya,2022,Lucknow Super Giants,2.0,8.25,sold,All-Rounder,Indian
+Mitchell Marsh,2022,Delhi Capitals,2.0,6.5,sold,All-Rounder,Overseas
+Ambati Rayudu,2022,Chennai Super Kings,2.0,6.75,sold,Wicket Keeper,Indian
+Ishan Kishan,2022,Mumbai Indians,1.5,15.25,sold,Wicket Keeper,Indian
+Jonny Bairstow,2022,Punjab Kings,1.0,6.75,sold,Wicket Keeper,Overseas
+Dinesh Karthik,2022,Royal Challengers Bangalore,2.0,5.5,sold,Wicket Keeper,Indian
+Nicholas Pooran,2022,Sunrisers Hyderabad,1.5,10.75,sold,,
+T. Natarajan,2022,Sunrisers Hyderabad,1.0,4.0,sold,Bowler,Indian
+Deepak Chahar,2022,Chennai Super Kings,2.0,14.0,sold,Bowler,Indian
+Prasidh Krishna,2022,Rajasthan Royals,1.0,10.0,sold,Bowler,Indian
+Lockie Ferguson,2022,Gujarat Titans,2.0,10.0,sold,Bowler,Overseas
+Josh Hazlewood,2022,Royal Challengers Bangalore,1.5,7.75,sold,Bowler,Overseas
+Mark Wood,2022,Lucknow Super Giants,2.0,7.5,sold,Bowler,Overseas
+Bhuvneshwar Kumar,2022,Sunrisers Hyderabad,2.0,4.2,sold,Bowler,Indian
+Shardul Thakur,2022,Delhi Capitals,2.0,10.75,sold,Bowler,Indian
+Mustafizur Rahman,2022,Delhi Capitals,2.0,2.0,sold,Bowler,Overseas
+Kuldeep Yadav,2022,Delhi Capitals,1.0,2.0,sold,Bowler,Indian
+Rahul Chahar,2022,Punjab Kings,0.75,5.25,sold,Bowler,Indian
+Yuzvendra Chahal,2022,Rajasthan Royals,2.0,6.5,sold,Bowler,Indian
+Priyam Garg,2022,Sunrisers Hyderabad,0.2,0.2,sold,Batsman,Indian
+Abhinav Manohar Sadarangani,2022,Gujarat Titans,0.2,2.6,sold,,
+Dewald Brevis,2022,Mumbai Indians,0.2,3.0,sold,Batsman,Overseas
+Ashwin Hebbar,2022,Delhi Capitals,0.2,0.2,sold,Batsman,Indian
+Rahul Tripathi,2022,Sunrisers Hyderabad,0.4,8.5,sold,Batsman,Indian
+Riyan Parag,2022,Rajasthan Royals,0.3,3.8,sold,All-Rounder,Indian
+Abhishek Sharma,2022,Sunrisers Hyderabad,0.2,6.5,sold,All-Rounder,Indian
+Sarfaraz Khan,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+M. Shahrukh Khan,2022,Punjab Kings,0.4,9.0,sold,,
+Shivam Mavi,2022,Kolkata Knight Riders,0.4,7.25,sold,All-Rounder,Indian
+Rahul Tewatia,2022,Gujarat Titans,0.4,9.0,sold,All-Rounder,Indian
+Kamlesh Nagarkoti,2022,Delhi Capitals,0.4,1.1,sold,All-Rounder,Indian
+Harpreet Brar,2022,Punjab Kings,0.2,3.8,sold,All-Rounder,Indian
+Shahbaz Ahmed,2022,Royal Challengers Bangalore,0.3,2.4,sold,,
+K. S. Bharat,2022,Delhi Capitals,0.2,2.0,sold,,
+Anuj Rawat,2022,Royal Challengers Bangalore,0.2,3.4,sold,Wicket Keeper,Indian
+Prabhsimran Singh,2022,Punjab Kings,0.2,0.6,sold,Wicket Keeper,Indian
+Sheldon Jackson,2022,Kolkata Knight Riders,0.3,0.6,sold,Wicket Keeper,Indian
+Jitesh Sharma,2022,Punjab Kings,0.2,0.2,sold,Wicket Keeper,Indian
+Basil Thampi,2022,Mumbai Indians,0.3,0.3,sold,Bowler,Indian
+Kartik Tyagi,2022,Sunrisers Hyderabad,0.2,4.0,sold,Bowler,Indian
+Akash Deep,2022,Royal Challengers Bangalore,0.2,0.2,sold,Bowler,Indian
+KM Asif,2022,Chennai Super Kings,0.2,0.2,sold,,
+Avesh Khan,2022,Lucknow Super Giants,0.2,10.0,sold,Bowler,Indian
+Ishan Porel,2022,Punjab Kings,0.2,0.25,sold,Bowler,Indian
+Tushar Deshpande,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian
+Ankit Rajpoot,2022,Lucknow Super Giants,0.2,0.5,sold,,
+Noor Ahmad,2022,Gujarat Titans,0.3,0.3,sold,Bowler,Overseas
+Murugan Ashwin,2022,Mumbai Indians,0.2,1.6,sold,Bowler,Indian
+K. C. Cariappa,2022,Rajasthan Royals,0.2,0.3,sold,,
+Shreyas Gopal,2022,Sunrisers Hyderabad,0.2,0.75,sold,Bowler,Indian
+Jagadeesha Suchith,2022,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian
+Ravisrinivasan Sai Kishore,2022,Gujarat Titans,0.2,3.0,sold,,
+Aiden Markram,2022,Sunrisers Hyderabad,1.0,2.6,sold,Batsman,Overseas
+Ajinkya Rahane,2022,Kolkata Knight Riders,1.0,1.0,sold,Batsman,Indian
+Mandeep Singh,2022,Delhi Capitals,0.5,1.1,sold,Batsman,Indian
+Liam Livingstone,2022,Punjab Kings,1.0,11.5,sold,All-Rounder,Overseas
+Dominic Drakes,2022,Gujarat Titans,0.75,1.1,sold,All-Rounder,Overseas
+Jayant Yadav,2022,Gujarat Titans,1.0,1.7,sold,All-Rounder,Indian
+Vijay Shankar,2022,Gujarat Titans,0.5,1.4,sold,All-Rounder,Indian
+Odean Smith,2022,Punjab Kings,1.0,6.0,sold,All-Rounder,Overseas
+Marco Jansen,2022,Sunrisers Hyderabad,0.5,4.2,sold,All-Rounder,Overseas
+Shivam Dube,2022,Chennai Super Kings,0.5,4.0,sold,All-Rounder,Indian
+Krishnappa Gowtham,2022,Lucknow Super Giants,0.5,0.9,sold,All-Rounder,Indian
+Khaleel Ahmed,2022,Delhi Capitals,0.5,5.25,sold,,
+Dushmantha Chameera,2022,Lucknow Super Giants,0.5,2.0,sold,,
+Chetan Sakariya,2022,Delhi Capitals,0.5,4.2,sold,Bowler,Indian
+Sandeep Sharma,2022,Punjab Kings,0.5,0.5,sold,Bowler,Indian
+Navdeep Saini,2022,Rajasthan Royals,0.75,2.6,sold,Bowler,Indian
+Jaydev Unadkat,2022,Mumbai Indians,0.75,1.3,sold,Bowler,Indian
+Mayank Markande,2022,Mumbai Indians,0.5,0.65,sold,Bowler,Indian
+Shahbaz Nadeem,2022,Lucknow Super Giants,0.5,0.5,sold,Bowler,Indian
+Maheesh Theekshana,2022,Chennai Super Kings,0.5,0.7,sold,Bowler,Overseas
+Rinku Singh,2022,Kolkata Knight Riders,0.2,0.55,sold,Batsman,Indian
+Manan Vohra,2022,Lucknow Super Giants,0.2,0.2,sold,Batsman,Indian
+Lalit Yadav,2022,Delhi Capitals,0.2,0.65,sold,All-Rounder,Indian
+Ripal Patel,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+Yash Dhull,2022,Delhi Capitals,0.2,0.5,sold,All-Rounder,Indian
+Tilak Varma,2022,Mumbai Indians,0.2,1.7,sold,,
+Mahipal Lomror,2022,Royal Challengers Bangalore,0.4,0.95,sold,All-Rounder,Indian
+Anukul Roy,2022,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian
+Darshan Nalkande,2022,Gujarat Titans,0.2,0.2,sold,All-Rounder,Indian
+R. Sanjay Yadav,2022,Mumbai Indians,0.2,0.5,sold,,
+Raj Angad Bawa,2022,Punjab Kings,0.2,2.0,sold,All-Rounder,Indian
+Rajvardhan Hangargekar,2022,Chennai Super Kings,0.3,1.5,sold,All-Rounder,Indian
+Yash Dayal,2022,Gujarat Titans,0.2,3.2,sold,Bowler,Indian
+Simarjeet Singh,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian
+Finn Allen,2022,Royal Challengers Bangalore,0.5,0.8,sold,Batsman,Overseas
+Devon Conway,2022,Chennai Super Kings,1.0,1.0,sold,Batsman,Overseas
+Rovman Powell,2022,Delhi Capitals,0.75,2.8,sold,Batsman,Overseas
+Jofra Archer,2022,Mumbai Indians,2.0,8.0,sold,All-Rounder,Overseas
+Rishi Dhawan,2022,Punjab Kings,0.5,0.55,sold,All-Rounder,Indian
+Dwaine Pretorius,2022,Chennai Super Kings,0.5,0.5,sold,All-Rounder,Overseas
+Sherfane Rutherford,2022,Royal Challengers Bangalore,1.0,1.0,sold,All-Rounder,Overseas
+Daniel Sams,2022,Mumbai Indians,1.0,2.6,sold,All-Rounder,Overseas
+Mitchell Santner,2022,Chennai Super Kings,1.0,1.9,sold,All-Rounder,Overseas
+Romario Shepherd,2022,Sunrisers Hyderabad,0.75,7.75,sold,All-Rounder,Overseas
+Jason Behrendorff,2022,Royal Challengers Bangalore,0.75,0.75,sold,Bowler,Overseas
+Obed McCoy,2022,Rajasthan Royals,0.75,0.75,sold,,
+Tymal Mills,2022,Mumbai Indians,1.0,1.5,sold,Bowler,Overseas
+Adam Milne,2022,Chennai Super Kings,1.5,1.9,sold,Bowler,Overseas
+Subhranshu Senapati,2022,Chennai Super Kings,0.2,0.2,sold,Batsman,Indian
+Tim David,2022,Mumbai Indians,0.4,8.25,sold,All-Rounder,Overseas
+Pravin Dubey,2022,Delhi Capitals,0.2,0.5,sold,All-Rounder,Indian
+Prerak Mankad,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Suyash Prabhudessai,2022,Royal Challengers Bangalore,0.2,0.3,sold,All-Rounder,Indian
+Vaibhav Arora,2022,Punjab Kings,0.2,2.0,sold,Bowler,Indian
+Mukesh Choudhary,2022,Chennai Super Kings,0.2,0.2,sold,Bowler,Indian
+Rasikh Salam Dar,2022,Kolkata Knight Riders,0.2,0.2,sold,,
+Mohsin Khan,2022,Lucknow Super Giants,0.2,0.2,sold,Bowler,Indian
+Chama Milind,2022,Royal Challengers Bangalore,0.2,0.25,sold,Bowler,Indian
+Prashant Solanki,2022,Chennai Super Kings,0.2,1.2,sold,Bowler,Indian
+Sean Abbott,2022,Sunrisers Hyderabad,0.2,2.4,sold,Bowler,Overseas
+Alzarri Joseph,2022,Gujarat Titans,0.75,2.4,sold,Bowler,Overseas
+Riley Meredith,2022,Mumbai Indians,1.0,1.0,sold,Bowler,Overseas
+Ayush Badoni,2022,Lucknow Super Giants,0.2,0.2,sold,All-Rounder,Indian
+Aneeshwar Gautam,2022,Royal Challengers Bangalore,1.0,1.0,sold,All-Rounder,Indian
+Baba Indrajith,2022,Kolkata Knight Riders,0.2,0.2,sold,Wicket Keeper,Indian
+Chamika Karunaratne,2022,Kolkata Knight Riders,0.5,0.5,sold,All-Rounder,Overseas
+Ravikumar Samarth,2022,Sunrisers Hyderabad,0.2,0.2,sold,,
+Abhijeet Tomar,2022,Kolkata Knight Riders,0.2,0.4,sold,Batsman,Indian
+Pradeep Sangwan,2022,Gujarat Titans,0.2,0.2,sold,All-Rounder,Indian
+Writtick Chatterjee,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Pratham Singh,2022,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian
+Shashank Singh,2022,Sunrisers Hyderabad,0.2,0.2,sold,All-Rounder,Indian
+Kyle Mayers,2022,Lucknow Super Giants,0.5,0.5,sold,All-Rounder,Overseas
+Karan Sharma,2022,Lucknow Super Giants,0.2,0.2,sold,All-Rounder,Indian
+Baltej Singh,2022,Punjab Kings,0.2,0.2,sold,,
+Saurabh Dubey,2022,Sunrisers Hyderabad,0.2,0.2,sold,Bowler,Indian
+Mohammed Arshad Khan,2022,Mumbai Indians,0.2,0.2,sold,,
+Ansh Patel,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Ashok Sharma,2022,Kolkata Knight Riders,0.2,0.5,sold,Bowler,Indian
+Anunay Singh,2022,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+David Miller,2022,Gujarat Titans,1.0,3.0,sold,Batsman,Overseas
+Sam Billings,2022,Kolkata Knight Riders,2.0,2.0,sold,Wicket Keeper,Overseas
+Wriddhiman Saha,2022,Gujarat Titans,1.0,1.9,sold,Wicket Keeper,Indian
+Matthew Wade,2022,Gujarat Titans,2.0,2.4,sold,Wicket Keeper,Overseas
+C. Hari Nishanth,2022,Chennai Super Kings,0.2,0.2,sold,,
+Anmolpreet Singh,2022,Mumbai Indians,0.2,0.2,sold,Batsman,Indian
+Narayan Jagadeesan,2022,Chennai Super Kings,0.2,0.2,sold,,
+Vishnu Vinod,2022,Sunrisers Hyderabad,0.2,0.5,sold,Wicket Keeper,Indian
+Chris Jordan,2022,Chennai Super Kings,2.0,3.6,sold,All-Rounder,Overseas
+Lungi Ngidi,2022,Delhi Capitals,0.5,0.5,sold,,
+Karn Sharma,2022,Royal Challengers Bangalore,0.5,0.5,sold,Bowler,Indian
+Kuldeep Sen,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Alex Hales,2022,Kolkata Knight Riders,1.5,1.5,sold,Batsman,Overseas
+Evin Lewis,2022,Lucknow Super Giants,2.0,2.0,sold,Batsman,Overseas
+Karun Nair,2022,Rajasthan Royals,0.5,1.4,sold,Batsman,Indian
+Glenn Phillips,2022,Sunrisers Hyderabad,1.5,1.5,sold,Wicket Keeper,Overseas
+Tim Seifert,2022,Delhi Capitals,0.5,0.5,sold,Wicket Keeper,Overseas
+Nathan Ellis,2022,Punjab Kings,0.75,0.75,sold,Bowler,Overseas
+Fazalhaq Farooqi,2022,Sunrisers Hyderabad,0.5,0.5,sold,Bowler,Overseas
+Ramandeep Singh,2022,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+Atharva Taide,2022,Punjab Kings,0.2,0.2,sold,All-Rounder,Indian
+Dhruv Jurel,2022,Rajasthan Royals,0.2,0.2,sold,Wicket Keeper,Indian
+Mayank Yadav,2022,Lucknow Super Giants,0.2,0.2,sold,Bowler,Indian
+Tejas Baroka,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Bhanuka Rajapaksa,2022,Punjab Kings,0.5,0.5,sold,Batsman,Overseas
+Gurkeerat Singh,2022,Gujarat Titans,0.5,0.5,sold,,
+Tim Southee,2022,Kolkata Knight Riders,1.5,1.5,sold,Bowler,Overseas
+Rahul Buddhi,2022,Mumbai Indians,0.2,0.2,sold,Batsman,Indian
+Benny Howell,2022,Punjab Kings,0.4,0.4,sold,All-Rounder,Overseas
+Kuldip Yadav,2022,Rajasthan Royals,0.2,0.2,sold,Bowler,Indian
+Varun Aaron,2022,Gujarat Titans,0.5,0.5,sold,Bowler,Indian
+Ramesh Kumar,2022,Kolkata Knight Riders,0.2,0.2,sold,Batsman,Indian
+Hrithik Shokeen,2022,Mumbai Indians,0.2,0.2,sold,All-Rounder,Indian
+K. Bhagath Varma,2022,Chennai Super Kings,0.2,0.2,sold,,
+Arjun Tendulkar,2022,Mumbai Indians,0.2,0.3,sold,All-Rounder,Indian
+Shubham Garhwal,2022,Rajasthan Royals,0.2,0.2,sold,All-Rounder,Indian
+Mohammad Nabi,2022,Kolkata Knight Riders,1.0,1.0,sold,All-Rounder,Overseas
+Umesh Yadav,2022,Kolkata Knight Riders,2.0,2.0,sold,Bowler,Indian
+James Neesham,2022,Rajasthan Royals,1.5,1.5,sold,All-Rounder,Overseas
+Nathan Coulter-Nile,2022,Rajasthan Royals,2.0,2.0,sold,Bowler,Overseas
+Vicky Ostwal,2022,Delhi Capitals,0.2,0.2,sold,All-Rounder,Indian
+Rassie van der Dussen,2022,Rajasthan Royals,1.0,1.0,sold,,
+Daryl Mitchell,2022,Rajasthan Royals,0.75,0.75,sold,All-Rounder,Overseas
+Siddharth Kaul,2022,Royal Challengers Bangalore,0.75,0.75,sold,Bowler,Indian
+B. Sai Sudharshan,2022,Gujarat Titans,0.2,0.2,sold,,
+Aryan Juyal,2022,Mumbai Indians,0.2,0.2,sold,Wicket Keeper,Indian
+Luvnith Sisodia,2022,Royal Challengers Bangalore,0.2,0.2,sold,Wicket Keeper,Indian
+Fabian Allen,2022,Mumbai Indians,0.75,0.75,sold,All-Rounder,Overseas
+David Willey,2022,Royal Challengers Bangalore,2.0,2.0,sold,All-Rounder,Overseas
+Aman Khan,2022,Kolkata Knight Riders,0.2,0.2,sold,All-Rounder,Indian
+Kane Williamson,2023,Gujarat Titans,2.0,2.0,sold,,
+Harry Brook,2023,Sunrisers Hyderabad,1.5,13.25,sold,,
+Mayank Agarwal,2023,Sunrisers Hyderabad,1.0,8.25,sold,,
+Ajinkya Rahane,2023,Chennai Super Kings,0.5,0.5,sold,,
+Sam Curran,2023,Punjab Kings,2.0,18.5,sold,,
+Odean Smith,2023,Gujarat Titans,0.5,0.5,sold,,
+Sikandar Raza,2023,Punjab Kings,0.5,0.5,sold,,
+Jason Holder,2023,Rajasthan Royals,2.0,5.75,sold,,
+Cameron Green,2023,Mumbai Indians,2.0,17.5,sold,,
+Ben Stokes,2023,Chennai Super Kings,2.0,16.25,sold,,
+Nicholas Pooran,2023,Lucknow Super Giants,2.0,16.0,sold,,
+Heinrich Klaasen,2023,Sunrisers Hyderabad,1.0,5.25,sold,,
+Phil Salt,2023,Delhi Capitals,2.0,2.0,sold,,
+Reece Topley,2023,Royal Challengers Bangalore,0.75,1.9,sold,,
+Jaydev Unadkat,2023,Lucknow Super Giants,0.5,0.5,sold,,
+Jhye Richardson,2023,Mumbai Indians,1.5,1.5,sold,,
+Ishant Sharma,2023,Delhi Capitals,0.5,0.5,sold,,
+Adil Rashid,2023,Sunrisers Hyderabad,2.0,2.0,sold,,
+Mayank Markande,2023,Sunrisers Hyderabad,0.5,0.5,sold,,
+Shaik Rasheed,2023,Chennai Super Kings,0.2,0.2,sold,,
+Vivrant Sharma,2023,Sunrisers Hyderabad,0.2,2.6,sold,,
+Samarth Vyas,2023,Sunrisers Hyderabad,0.2,0.2,sold,,
+Sanvir Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold,,
+Nishant Sindhu,2023,Chennai Super Kings,0.2,0.6,sold,,
+N Jagadeesan,2023,Kolkata Knight Riders,0.2,0.9,sold,,
+K. S. Bharat,2023,Gujarat Titans,0.2,1.2,sold,,
+Upendra Yadav,2023,Sunrisers Hyderabad,0.2,0.25,sold,,
+Vaibhav Arora,2023,Kolkata Knight Riders,0.2,0.6,sold,,
+Yash Thakur,2023,Lucknow Super Giants,0.2,0.45,sold,,
+Shivam Mavi,2023,Gujarat Titans,0.4,6.0,sold,,
+Mukesh Kumar,2023,Delhi Capitals,0.2,5.5,sold,,
+Himanshu Sharma,2023,Royal Challengers Bangalore,0.2,0.2,sold,,
+Manish Pandey,2023,Delhi Capitals,1.0,2.4,sold,,
+Will Jacks,2023,Royal Challengers Bangalore,1.5,3.2,sold,,
+Romario Shepherd,2023,Lucknow Super Giants,0.5,0.5,sold,,
+Daniel Sams,2023,Lucknow Super Giants,0.75,0.75,sold,,
+Kyle Jamieson,2023,Chennai Super Kings,1.0,1.0,sold,,
+Piyush Chawla,2023,Mumbai Indians,0.5,0.5,sold,,
+Amit Mishra,2023,Lucknow Super Giants,0.5,0.5,sold,,
+Harpreet Singh Bhatia,2023,Punjab Kings,0.2,0.4,sold,,
+Manoj Bhandage,2023,Royal Challengers Bangalore,0.2,0.2,sold,,
+Mayank Dagar,2023,Sunrisers Hyderabad,0.2,1.8,sold,,
+Duan Jansen,2023,Mumbai Indians,0.2,0.2,sold,,
+Prerak Mankad,2023,Lucknow Super Giants,0.2,1.8,sold,,
+Donavon Ferreira,2023,Rajasthan Royals,0.2,0.2,sold,,
+Urvil Patel,2023,Gujarat Titans,0.2,0.2,sold,,
+Vishnu Vinod,2023,Mumbai Indians,0.2,0.2,sold,,
+Vidwath Kaverappa,2023,Punjab Kings,0.2,0.2,sold,,
+Rajan Kumar,2023,Royal Challengers Bangalore,0.2,0.2,sold,,
+Suyash Sharma,2023,Kolkata Knight Riders,0.2,0.2,sold,,
+Josh Little,2023,Gujarat Titans,0.5,4.4,sold,,
+Mohit Sharma,2023,Gujarat Titans,0.5,0.5,sold,,
+Shams Mulani,2023,Mumbai Indians,0.2,0.2,sold,,
+Swapnil Singh,2023,Lucknow Super Giants,0.2,0.2,sold,,
+David Wiese,2023,Kolkata Knight Riders,1.0,1.0,sold,,
+Nitish Kumar Reddy,2023,Sunrisers Hyderabad,0.2,0.2,sold,,
+Avinash Singh,2023,Royal Challengers Bangalore,0.2,0.6,sold,,
+Kunal Rathore,2023,Rajasthan Royals,0.2,0.2,sold,,
+Sonu Yadav,2023,Royal Challengers Bangalore,0.2,0.2,sold,,
+Kulwant Khejroliya,2023,Kolkata Knight Riders,0.2,0.2,sold,,
+Ajay Mandal,2023,Chennai Super Kings,0.2,0.2,sold,,
+Mohit Rathee,2023,Punjab Kings,0.2,0.2,sold,,
+Nehal Wadhera,2023,Mumbai Indians,0.2,0.2,sold,,
+Bhagath Varma,2023,Chennai Super Kings,0.2,0.2,sold,,
+Shivam Singh,2023,Punjab Kings,0.2,0.2,sold,,
+Rilee Rossouw,2023,Royal Challengers Bangalore,2.0,4.6,sold,,
+Litton Das,2023,Kolkata Knight Riders,0.5,0.5,sold,,
+Akeal Hosein,2023,Sunrisers Hyderabad,1.0,1.0,sold,,
+Adam Zampa,2023,Rajasthan Royals,1.5,1.5,sold,,
+Anmolpreet Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold,,
+KM Asif,2023,Rajasthan Royals,0.2,0.3,sold,,
+Murugan Ashwin,2023,Rajasthan Royals,0.2,0.2,sold,,
+Mandeep Singh,2023,Kolkata Knight Riders,0.5,0.5,sold,,
+Akash Vasisht,2023,Rajasthan Royals,0.2,0.2,sold,,
+Naveen-ul-Haq,2023,Lucknow Super Giants,0.5,0.5,sold,,
+Yudhvir Singh Charak,2023,Lucknow Super Giants,0.2,0.2,sold,,
+Raghav Goyal,2023,Mumbai Indians,0.2,0.2,sold,,
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold,,
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold,,
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold,,
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold,,
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold,,
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold,,
+Virat Kohli,2025,RCB,,21.0,sold,Batsman,
+Rajat Patidar,2025,RCB,,11.0,sold,Batsman,
+Yash Dayal,2025,RCB,,5.0,sold,Bowler,
+Jasprit Bumrah,2025,MI,,18.0,sold,Bowler,
+Suryakumar Yadav,2025,MI,,16.35,sold,Batsman,
+Hardik Pandya,2025,MI,,16.35,sold,All-Rounder,
+Rohit Sharma,2025,MI,,16.3,sold,Batsman,
+Tilak Varma,2025,MI,,8.0,sold,All-Rounder,
+Heinrich Klaasen,2025,SRH,,23.0,sold,Batsman,
+Pat Cummins,2025,SRH,,18.0,sold,All-Rounder,
+Abhishek Sharma,2025,SRH,,14.0,sold,All-Rounder,
+Travis Head,2025,SRH,,14.0,sold,Batsman,
+Nitish Kumar Reddy,2025,SRH,,6.0,sold,All-Rounder,
+Ruturaj Gaikwad,2025,CSK,,18.0,sold,Batsman,
+Ravindra Jadeja,2025,CSK,,18.0,sold,All-Rounder,
+Matheesha Pathirana,2025,CSK,,13.0,sold,Bowler,
+Shivam Dube,2025,CSK,,12.0,sold,All-Rounder,
+MS Dhoni,2025,CSK,,4.0,sold,Batsman,
+Axar Patel,2025,DC,,16.5,sold,All-Rounder,
+Kuldeep Yadav,2025,DC,,13.25,sold,Bowler,
+Tristan Stubbs,2025,DC,,10.0,sold,Batsman,
+Abishek Porel,2025,DC,,4.0,sold,Batsman,
+Rinku Singh,2025,KKR,,13.0,sold,Batsman,
+Varun Chakravarthy,2025,KKR,,12.0,sold,All-Rounder,
+Sunil Narine,2025,KKR,,12.0,sold,Bowler,
+Andre Russell,2025,KKR,,12.0,sold,All-Rounder,
+Harshit Rana,2025,KKR,,4.0,sold,Bowler,
+Ramandeep Singh,2025,KKR,,4.0,sold,All-Rounder,
+Sanju Samson,2025,RR,,18.0,sold,Batsman,
+Yashasvi Jaiswal,2025,RR,,18.0,sold,All-Rounder,
+Riyan Parag,2025,RR,,14.0,sold,All-Rounder,
+Dhruv Jurel,2025,RR,,14.0,sold,Batsman,
+Shimron Hetmyer,2025,RR,,11.0,sold,Batsman,
+Sandeep Sharma,2025,RR,,4.0,sold,Bowler,
+Rashid Khan,2025,GT,,18.0,sold,Bowler,
+Shubman Gill,2025,GT,,16.5,sold,Batsman,
+Sai Sudharsan,2025,GT,,8.5,sold,All-Rounder,
+Rahul Tewatia,2025,GT,,4.0,sold,All-Rounder,
+M Shahrukh Khan,2025,GT,,4.0,sold,All-Rounder,
+Nicholas Pooran,2025,LSG,,21.0,sold,Batsman,
+Ravi Bishnoi,2025,LSG,,11.0,sold,Bowler,
+Mayank Yadav,2025,LSG,,11.0,sold,Bowler,
+Mohsin Khan,2025,LSG,,4.0,sold,Bowler,
+Ayush Badoni,2025,LSG,,4.0,sold,All-Rounder,
+Shashank Singh,2025,PBKS,,5.5,sold,All-Rounder,
+Prabhsimran Singh,2025,PBKS,,4.0,sold,Batsman,
+Jos Buttler,2025,GT,2.0,15.75,sold,Batsman,
+Shreyas Iyer,2025,PBKS,2.0,26.75,sold,Batsman,
+Rishabh Pant,2025,LSG,2.0,27.0,sold,Batsman,
+Kagiso Rabada,2025,GT,2.0,10.75,sold,Bowler,
+Arshdeep Singh,2025,PBKS,2.0,18.0,sold,Bowler,
+Mitchell Starc,2025,DC,2.0,11.75,sold,Bowler,
+Yuzvendra Chahal,2025,PBKS,2.0,18.0,sold,Bowler,
+Liam Livingstone,2025,RCB,2.0,8.75,sold,All-Rounder,
+David Miller,2025,LSG,1.5,7.5,sold,Batsman,
+KL Rahul,2025,DC,2.0,14.0,sold,Batsman,
+Mohammed Shami,2025,SRH,2.0,10.0,sold,Bowler,
+Mohammed Siraj,2025,GT,2.0,12.25,sold,Bowler,
+Harry Brook,2025,DC,2.0,6.25,sold,Batsman,
+Devon Conway,2025,CSK,2.0,6.25,sold,Batsman,
+Jake Fraser-McGurk,2025,DC,2.0,9.0,sold,Batsman,
+Aiden Markram,2025,LSG,2.0,2.0,sold,Batsman,
+Devdutt Padikkal,2025,RCB,2.0,2.0,sold,Batsman,
+Rahul Tripathi,2025,CSK,0.75,3.4,sold,Batsman,
+Ravichandran Ashwin,2025,CSK,2.0,9.75,sold,All-Rounder,
+Venkatesh Iyer,2025,KKR,2.0,23.75,sold,All-Rounder,
+Mitchell Marsh,2025,LSG,2.0,3.4,sold,All-Rounder,
+Glenn Maxwell,2025,PBKS,2.0,4.2,sold,All-Rounder,
+Harshal Patel,2025,SRH,2.0,8.0,sold,All-Rounder,
+Rachin Ravindra,2025,CSK,1.5,4.0,sold,All-Rounder,
+Marcus Stoinis,2025,PBKS,2.0,11.0,sold,All-Rounder,
+Quinton de Kock,2025,KKR,2.0,3.6,sold,Batsman,
+Rahmanullah Gurbaz,2025,KKR,2.0,2.0,sold,Batsman,
+Ishan Kishan,2025,SRH,2.0,11.25,sold,Batsman,
+Phil Salt,2025,RCB,2.0,11.5,sold,Batsman,
+Jitesh Sharma,2025,RCB,1.0,11.0,sold,Batsman,
+Khaleel Ahmed,2025,CSK,2.0,4.8,sold,Bowler,
+Trent Boult,2025,MI,2.0,12.5,sold,Bowler,
+Josh Hazlewood,2025,RCB,2.0,12.5,sold,Bowler,
+Avesh Khan,2025,LSG,2.0,9.75,sold,Bowler,
+Prasidh Krishna,2025,GT,2.0,9.5,sold,Bowler,
+T Natarajan,2025,DC,2.0,10.75,sold,Bowler,
+Anrich Nortje,2025,KKR,2.0,6.5,sold,Bowler,
+Noor Ahmad,2025,CSK,2.0,10.0,sold,Bowler,
+Rahul Chahar,2025,SRH,1.0,3.2,sold,Bowler,
+Wanindu Hasaranga,2025,RR,2.0,5.25,sold,Bowler,
+Maheesh Theekshana,2025,RR,2.0,4.4,sold,Bowler,
+Adam Zampa,2025,SRH,2.0,2.4,sold,Bowler,
+Abhinav Manohar,2025,SRH,0.3,3.2,sold,Batsman,
+Karun Nair,2025,DC,0.3,0.5,sold,Batsman,
+Angkrish Raghuvanshi,2025,KKR,0.3,3.0,sold,Batsman,
+Atharva Taide,2025,SRH,0.3,0.3,sold,Batsman,
+Nehal Wadhera,2025,PBKS,0.3,4.2,sold,Batsman,
+Harpreet Brar,2025,PBKS,0.3,1.5,sold,All-Rounder,
+Naman Dhir,2025,MI,0.3,5.25,sold,All-Rounder,
+Mahipal Lomror,2025,GT,0.5,1.7,sold,All-Rounder,
+Sameer Rizvi,2025,DC,0.3,0.95,sold,All-Rounder,
+Abdul Samad,2025,LSG,0.3,4.2,sold,All-Rounder,
+Vijay Shankar,2025,CSK,0.3,1.2,sold,All-Rounder,
+Ashutosh Sharma,2025,DC,0.3,3.8,sold,All-Rounder,
+Nishant Sindhu,2025,GT,0.3,0.3,sold,All-Rounder,
+Aryan Juyal,2025,LSG,0.3,0.3,sold,Batsman,
+Kumar Kushagra,2025,GT,0.3,0.65,sold,Batsman,
+Robin Minz,2025,MI,0.3,0.65,sold,Batsman,
+Anuj Rawat,2025,GT,0.3,0.3,sold,Batsman,
+Luvnith Sisodia,2025,KKR,0.3,0.3,sold,Batsman,
+Vishnu Vinod,2025,PBKS,0.3,0.95,sold,Batsman,
+Vaibhav Arora,2025,KKR,0.3,1.8,sold,Bowler,
+Rasikh Salam,2025,RCB,0.3,6.0,sold,Bowler,
+Akash Madhwal,2025,RR,0.3,1.2,sold,Bowler,
+Mohit Sharma,2025,DC,0.5,2.2,sold,Bowler,
+Simarjeet Singh,2025,SRH,0.3,1.5,sold,Bowler,
+Yash Thakur,2025,PBKS,0.4,1.6,sold,Bowler,
+Vijaykumar Vyshak,2025,PBKS,0.3,1.8,sold,Bowler,
+Shreyas Gopal,2025,CSK,0.3,0.3,sold,Bowler,
+Mayank Markande,2025,KKR,0.3,0.3,sold,Bowler,
+Suyash Sharma,2025,RCB,0.3,2.6,sold,Bowler,
+Karn Sharma,2025,MI,0.5,0.5,sold,Bowler,
+Kumar Kartikeya,2025,RR,0.3,0.3,sold,Bowler,
+Manav Suthar,2025,GT,0.3,0.3,sold,Bowler,
+Faf du Plessis,2025,DC,2.0,2.0,sold,Batsman,
+Glenn Phillips,2025,GT,2.0,2.0,sold,Batsman,
+Rovman Powell,2025,KKR,1.5,1.5,sold,Batsman,
+Ajinkya Rahane,2025,KKR,1.5,1.5,sold,Batsman,
+Sam Curran,2025,CSK,2.0,2.4,sold,All-Rounder,
+Marco Jansen,2025,PBKS,1.25,7.0,sold,All-Rounder,
+Krunal Pandya,2025,RCB,2.0,5.75,sold,All-Rounder,
+Nitish Rana,2025,RR,1.5,4.2,sold,All-Rounder,
+Washington Sundar,2025,GT,2.0,3.2,sold,All-Rounder,
+Donovan Ferreira,2025,DC,0.75,0.75,sold,Batsman,
+Josh Inglis,2025,PBKS,2.0,2.6,sold,Batsman,
+Ryan Rickelton,2025,MI,1.0,1.0,sold,Batsman,
+Deepak Chahar,2025,MI,2.0,9.25,sold,Bowler,
+Gerald Coetzee,2025,GT,1.25,2.4,sold,Bowler,
+Akash Deep,2025,LSG,1.0,8.0,sold,Bowler,
+Tushar Deshpande,2025,RR,1.0,6.5,sold,Bowler,
+Lockie Ferguson,2025,PBKS,2.0,2.0,sold,Bowler,
+Bhuvneshwar Kumar,2025,RCB,2.0,10.75,sold,Bowler,
+Mukesh Kumar,2025,DC,2.0,8.0,sold,Bowler,
+AM Ghazanfar,2025,MI,0.75,4.8,sold,Bowler,
+Swastik Chikara,2025,RCB,0.3,0.3,sold,Batsman,
+Shubham Dubey,2025,RR,0.3,0.8,sold,Batsman,
+Shaik Rasheed,2025,CSK,0.3,0.3,sold,Batsman,
+Himmat Singh,2025,LSG,0.3,0.3,sold,Batsman,
+Anshul Kamboj,2025,CSK,0.3,3.4,sold,All-Rounder,
+Arshad Khan,2025,GT,0.3,1.3,sold,All-Rounder,
+Darshan Nalkande,2025,DC,0.3,0.3,sold,All-Rounder,
+Anukul Roy,2025,KKR,0.3,0.4,sold,All-Rounder,
+Swapnil Singh,2025,RCB,0.3,0.5,sold,All-Rounder,
+Vansh Bedi,2025,CSK,0.3,0.55,sold,Batsman,
+Kunal Singh Rathore,2025,RR,0.3,0.3,sold,Batsman,
+Gurnoor Brar,2025,GT,0.3,1.3,sold,Bowler,
+Mukesh Choudhary,2025,CSK,0.3,0.3,sold,Bowler,
+Arjun Tendulkar,2025,MI,0.3,0.3,sold,Bowler,
+Zeeshan Ansari,2025,SRH,0.3,0.4,sold,Bowler,
+Manimaran Siddharth,2025,LSG,0.3,0.75,sold,Bowler,
+Digvesh Singh,2025,LSG,0.3,0.3,sold,Bowler,
+Manish Pandey,2025,KKR,0.75,0.75,sold,Batsman,
+Sherfane Rutherford,2025,GT,1.5,2.6,sold,Batsman,
+Shahbaz Ahmed,2025,LSG,1.0,2.4,sold,All-Rounder,
+Moeen Ali,2025,KKR,2.0,2.0,sold,All-Rounder,
+Tim David,2025,RCB,2.0,3.0,sold,All-Rounder,
+Deepak Hooda,2025,CSK,0.75,1.7,sold,All-Rounder,
+Will Jacks,2025,MI,2.0,5.25,sold,All-Rounder,
+Azmatullah Omarzai,2025,PBKS,1.5,2.4,sold,All-Rounder,
+Sai Kishore,2025,GT,0.75,2.0,sold,All-Rounder,
+Romario Shepherd,2025,RCB,1.5,1.5,sold,All-Rounder,
+Spencer Johnson,2025,KKR,2.0,2.8,sold,Bowler,
+Umran Malik,2025,KKR,0.75,0.75,sold,Bowler,
+Ishant Sharma,2025,GT,0.75,0.75,sold,Bowler,
+Nuwan Thushara,2025,RCB,0.75,1.6,sold,Bowler,
+Jaydev Unadkat,2025,SRH,1.0,1.0,sold,Bowler,
+Sachin Baby,2025,SRH,0.3,0.3,sold,Batsman,
+Harnoor Singh,2025,PBKS,0.3,0.3,sold,Batsman,
+C Andre Siddarth,2025,CSK,0.3,0.3,sold,Batsman,
+Yudhvir Singh,2025,RR,0.3,0.35,sold,All-Rounder,
+Rajvardhan Hangargekar,2025,LSG,0.3,0.3,sold,All-Rounder,
+Arshin Kulkarni,2025,LSG,0.3,0.3,sold,All-Rounder,
+Ashwani Kumar,2025,MI,0.3,0.3,sold,Bowler,
+Akash Singh,2025,LSG,0.3,0.3,sold,Batsman,
+Gurjapneet Singh,2025,CSK,0.3,2.2,sold,Bowler,
+Matthew Breetzke,2025,LSG,0.75,0.75,sold,Batsman,
+Mitchell Santner,2025,MI,2.0,2.0,sold,All-Rounder,
+Jayant Yadav,2025,GT,0.75,0.75,sold,All-Rounder,
+Fazalhaq Farooqi,2025,RR,2.0,2.0,sold,Bowler,
+Kwena Maphaka,2025,RR,0.75,1.5,sold,Bowler,
+Kuldeep Sen,2025,PBKS,0.75,0.8,sold,Bowler,
+Reece Topley,2025,MI,0.75,0.75,sold,Bowler,
+Lizaad Williams,2025,MI,0.75,0.75,sold,Bowler,
+Priyansh Arya,2025,PBKS,0.3,3.8,sold,All-Rounder,
+Manoj Bhandage,2025,RCB,0.3,0.3,sold,All-Rounder,
+Praveen Dubey,2025,PBKS,0.3,0.3,sold,All-Rounder,
+Ajay Mandal,2025,DC,0.3,0.3,sold,All-Rounder,
+Vipraj Nigam,2025,DC,0.3,0.5,sold,All-Rounder,
+Krishnan Shrijith,2025,MI,0.3,0.3,sold,Batsman,
+Mohit Rathee,2025,RCB,0.3,0.3,sold,Bowler,
+Jacob Bethell,2025,RCB,1.25,2.6,sold,All-Rounder,
+Brydon Carse,2025,SRH,1.0,1.0,sold,All-Rounder,
+Aaron Hardie,2025,PBKS,1.25,1.25,sold,All-Rounder,
+Kamindu Mendis,2025,SRH,0.75,0.75,sold,All-Rounder,
+Dushmantha Chameera,2025,DC,0.75,0.75,sold,Bowler,
+Nathan Ellis,2025,CSK,1.25,2.0,sold,Bowler,
+Shamar Joseph,2025,LSG,0.75,0.75,sold,Bowler,
+Aniket Verma,2025,SRH,0.3,0.3,sold,Batsman,
+Raj Bawa,2025,MI,0.3,0.3,sold,All-Rounder,
+Musheer Khan,2025,PBKS,0.3,0.3,sold,All-Rounder,
+Manvanth Kumar,2025,DC,0.3,0.3,sold,All-Rounder,
+Suryansh Shedge,2025,PBKS,0.3,0.3,sold,All-Rounder,
+Kulwant Khejroliya,2025,GT,0.3,0.3,sold,Bowler,
+Prince Yadav,2025,LSG,0.3,0.3,sold,Bowler,
+Jamie Overton,2025,CSK,1.5,1.5,sold,All-Rounder,
+Xavier Bartlett,2025,PBKS,0.75,0.8,sold,Bowler,
+Lungi Ngidi,2025,RCB,1.0,1.0,sold,Bowler,
+Kamlesh Nagarkoti,2025,CSK,0.3,0.3,sold,All-Rounder,
+Abhinandan Singh,2025,RCB,0.3,0.3,sold,Bowler,
+Karim Janat,2025,GT,0.75,0.75,sold,All-Rounder,
+Pyla Avinash,2025,PBKS,0.3,0.3,sold,Batsman,
+Ramakrishna Ghosh,2025,CSK,0.3,0.3,sold,All-Rounder,
+Satyanarayana Raju,2025,MI,0.3,0.3,sold,Bowler,
+Bevon Jacobs,2025,MI,0.3,0.3,sold,Batsman,
+Ashok Sharma,2025,RR,0.3,0.3,sold,Bowler,
+Vaibhav Suryavanshi,2025,RR,0.3,1.1,sold,Batsman,
+Eshan Malinga,2025,SRH,0.3,1.2,sold,Bowler,
+Tripurana Vijay,2025,DC,0.3,0.3,sold,All-Rounder,
+Madhav Tiwari,2025,DC,0.3,0.4,sold,All-Rounder,
+Vignesh Puthur,2025,MI,0.3,0.3,sold,All-Rounder,
+Jofra Archer,2025,RR,2.0,12.5,sold,Bowler,
