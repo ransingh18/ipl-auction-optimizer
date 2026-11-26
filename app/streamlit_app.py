@@ -83,8 +83,8 @@ st.sidebar.markdown("---")
 
 page = st.sidebar.radio(
     "Navigate",
-    ["🏠 Overview", "💰 Price Predictor", "🏆 Squad Optimizer",
-     "🧠 Bias Analysis", "📊 Player Explorer"],
+    ["📌 Executive Summary", "🏠 Overview", "💰 Price Predictor", "🏆 Squad Optimizer",
+     "🧠 Bias Analysis", "📊 Player Explorer", "💡 Strategy", "🔭 What's Next"],
     index=0
 )
 
@@ -97,9 +97,145 @@ st.sidebar.markdown(
 
 
 # ═══════════════════════════════════════════════
+# PAGE 0: EXECUTIVE SUMMARY
+# ═══════════════════════════════════════════════
+if page == "📌 Executive Summary":
+    st.title("📌 Executive Summary")
+    st.markdown(
+        "*A business-language overview of what this tool does, what it found, "
+        "and why it matters for franchise decision-making.*"
+    )
+
+    st.markdown("---")
+
+    # ── The headline numbers ──
+    st.subheader("The Bottom Line")
+    h1, h2, h3 = st.columns(3)
+    with h1:
+        st.markdown("""
+        <div class="metric-card">
+            <h2>₹297 Cr</h2>
+            <p>Total overspend identified<br>across 12 auction cycles</p>
+        </div>
+        """, unsafe_allow_html=True)
+    with h2:
+        st.markdown("""
+        <div class="metric-card" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
+            <h2>₹594 Cr</h2>
+            <p>Total pricing inefficiency<br>captured by the model</p>
+        </div>
+        """, unsafe_allow_html=True)
+    with h3:
+        st.markdown("""
+        <div class="metric-card" style="background: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);">
+            <h2>78%</h2>
+            <p>Mega-auction price premium<br>over mini auctions</p>
+        </div>
+        """, unsafe_allow_html=True)
+
+    st.markdown("---")
+
+    # ── What this tool does ──
+    st.subheader("What This Tool Does")
+    st.markdown("""
+    This system combines **machine learning** and **integer linear programming**
+    to give IPL franchises a data-driven edge at the auction table:
+
+    | Module | What It Does | Business Value |
+    |--------|-------------|----------------|
+    | **Price Predictor** | Estimates fair price from 37 performance & market features | Know when you're overpaying *before* you bid |
+    | **Squad Optimizer** | Builds the best squad under real constraints (₹120 Cr budget, 8 overseas, role minimums) | Maximise squad strength per rupee |
+    | **Bias Detector** | Quantifies 6 cognitive biases with statistical tests | Exploit competitors' systematic mistakes |
+    """)
+
+    st.markdown("---")
+
+    # ── Three findings that matter ──
+    st.subheader("Three Findings That Matter")
+
+    f1, f2 = st.columns(2)
+    with f1:
+        st.markdown("#### 1. Base Price Anchoring Costs Franchises Crores")
+        st.markdown(
+            "The base price set by the BCCI explains **20% of final sale price** "
+            "beyond all performance stats combined. That means franchises are "
+            "psychologically anchored to an arbitrary starting number — "
+            "a textbook example of Kahneman & Tversky's anchoring effect "
+            "playing out in a ₹1,000+ Cr market."
+        )
+        # Mini chart: anchoring
+        has_base = df[df['base_price_cr'] > 0]
+        fig_anchor = px.scatter(has_base, x='base_price_cr', y='sold_price_cr',
+                                opacity=0.3, trendline='ols',
+                                labels={'base_price_cr': 'Base Price (₹ Cr)',
+                                        'sold_price_cr': 'Sale Price (₹ Cr)'},
+                                color_discrete_sequence=['#667eea'])
+        fig_anchor.update_layout(height=300, margin=dict(t=10, b=10),
+                                 showlegend=False)
+        st.plotly_chart(fig_anchor, use_container_width=True)
+
+    with f2:
+        st.markdown("#### 2. The ₹5.21 Cr Problem")
+        st.markdown(
+            "The 2025 mega auction averaged **₹5.21 Cr per player** — "
+            "the highest in IPL history. When 10 teams rebuild simultaneously, "
+            "competitive bidding inflates prices 78% above mini-auction levels. "
+            "A franchise that recognised this structural inflation could have "
+            "saved ₹2-3 Cr per marquee signing."
+        )
+        yearly = df.groupby('auction_year')['sold_price_cr'].mean().reset_index()
+        mega_years = [2014, 2018, 2022, 2025]
+        yearly['type'] = yearly['auction_year'].apply(
+            lambda y: 'Mega' if y in mega_years else 'Mini')
+        fig_yr = px.bar(yearly, x='auction_year', y='sold_price_cr', color='type',
+                        color_discrete_map={'Mega': '#eb3349', 'Mini': '#3498db'},
+                        labels={'sold_price_cr': 'Avg Price (₹ Cr)', 'auction_year': ''},
+                        text_auto='.1f')
+        fig_yr.update_layout(height=300, margin=dict(t=10, b=10),
+                             showlegend=False)
+        st.plotly_chart(fig_yr, use_container_width=True)
+
+    st.markdown("#### 3. The Mid-Tier Sweet Spot")
+    st.markdown(
+        "Players with **3-5 Player of the Match awards** average ₹5.68 Cr — "
+        "80% of the performance signal of elite 6+ POTM players (₹7.10 Cr) "
+        "at a 20% discount. A franchise targeting mid-tier stars over marquee names "
+        "could build a stronger squad for less, exploiting the market's tendency "
+        "to overpay for star power."
+    )
+
+    st.markdown("---")
+
+    # ── Methods at a glance ──
+    st.subheader("Methods at a Glance")
+    m1, m2, m3 = st.columns(3)
+    with m1:
+        st.markdown("**Data**")
+        st.markdown("1,279 player-auctions across 12 IPL seasons (2013-2025)")
+    with m2:
+        st.markdown("**Models**")
+        st.markdown(
+            "Gradient Boosting (best), plus Ridge, Random Forest, XGBoost. "
+            "Temporal train/test split to prevent data leakage."
+        )
+    with m3:
+        st.markdown("**Optimization**")
+        st.markdown(
+            "Integer Linear Programming (PuLP + HiGHS solver) with real IPL "
+            "constraints: budget, roster size, overseas cap, role minimums."
+        )
+
+    st.markdown("---")
+    st.markdown(
+        "*Built by **Ranveer Singh** · BCom (Finance & Business Analytics) · "
+        "University of Auckland · 2025*"
+    )
+
+
+# ═══════════════════════════════════════════════
 # PAGE 1: OVERVIEW
 # ═══════════════════════════════════════════════
-if page == "🏠 Overview":
+elif page == "🏠 Overview":
     st.title("🏏 IPL Auction Optimizer")
     st.markdown(
         "Predict player auction values, detect behavioural biases, "
@@ -581,3 +717,207 @@ elif page == "📊 Player Explorer":
             title="Player Comparison", height=500
         )
         st.plotly_chart(fig, use_container_width=True)
+
+
+# ═══════════════════════════════════════════════
+# PAGE 6: STRATEGY RECOMMENDATIONS
+# ═══════════════════════════════════════════════
+elif page == "💡 Strategy":
+    st.title("💡 Strategy Recommendations")
+    st.markdown(
+        "*Translating data findings into actionable franchise advice — "
+        "the bridge from analytics to decisions.*"
+    )
+    st.markdown("---")
+
+    # Strategy 1
+    st.subheader("1. Target the Mid-Tier Sweet Spot")
+    s1a, s1b = st.columns([2, 1])
+    with s1a:
+        st.markdown("""
+        **The insight:** Players with 3-5 POTM awards deliver **80% of the
+        performance signal** of elite 6+ POTM stars at a **20% lower price**.
+
+        **The play:** A franchise that systematically targets mid-tier stars
+        (3-5 POTM) over marquee names can build a deeper, more balanced squad.
+        Instead of spending ₹7+ Cr on one elite player, spend ₹5.68 Cr on a
+        mid-tier performer and reinvest the ₹1.42 Cr saving into depth picks.
+
+        **Who this helps:** Budget-constrained franchises, or any team that
+        already has 2-3 marquee retentions locked in.
+        """)
+    with s1b:
+        tier_data = df.groupby('star_tier', observed=True)['sold_price_cr'].mean().reset_index()
+        tier_data = tier_data.sort_values('sold_price_cr')
+        fig_tier = px.bar(tier_data, x='star_tier', y='sold_price_cr',
+                          color='sold_price_cr', color_continuous_scale='Greens',
+                          labels={'sold_price_cr': 'Avg ₹ Cr', 'star_tier': ''},
+                          text_auto='.2f')
+        fig_tier.update_layout(height=250, margin=dict(t=10), coloraxis_showscale=False)
+        st.plotly_chart(fig_tier, use_container_width=True)
+
+    st.markdown("---")
+
+    # Strategy 2
+    st.subheader("2. Exploit Mega-Auction Inflation")
+    s2a, s2b = st.columns([2, 1])
+    with s2a:
+        st.markdown("""
+        **The insight:** Mega auctions inflate prices **78%** above mini auctions.
+        The 2025 mega averaged ₹5.21 Cr — the highest in IPL history.
+
+        **The play:** In mega auctions, patience pays. Let other franchises
+        overpay for the first wave of marquee names. The model shows that
+        late-auction picks in mega years are systematically underpriced
+        relative to their performance.
+
+        **Quantified edge:** RR and DC overspent by ₹2+ Cr each in the 2025
+        mega, while MI and RCB found ₹1.5+ Cr in undervalued picks.
+        """)
+    with s2b:
+        team_err = df[df['auction_year'] == 2025].groupby('team')['prediction_error'].sum().reset_index()
+        team_err = team_err.sort_values('prediction_error', ascending=False)
+        team_err['color'] = team_err['prediction_error'].apply(
+            lambda x: '#eb3349' if x > 0 else '#38ef7d')
+        fig_team = px.bar(team_err, x='team', y='prediction_error',
+                          color='prediction_error',
+                          color_continuous_scale='RdYlGn_r',
+                          labels={'prediction_error': 'Net Over/Underspend ₹ Cr', 'team': ''},
+                          text_auto='.1f')
+        fig_team.update_layout(height=250, margin=dict(t=10), coloraxis_showscale=False)
+        st.plotly_chart(fig_team, use_container_width=True)
+
+    st.markdown("---")
+
+    # Strategy 3
+    st.subheader("3. Use Base-Price Anchoring to Your Advantage")
+    st.markdown("""
+    **The insight:** Base price explains 20% of sale price *beyond* all
+    performance metrics. The market treats BCCI's starting number as a
+    signal of quality — a classic anchoring bias.
+
+    **The play:** When you're *buying*, target players with low base prices
+    but strong underlying stats — the market will undervalue them because
+    their anchor is low. When *retaining*, set high base prices for your
+    stars to signal quality to competitors and drive up their bidding
+    thresholds.
+
+    **Example from data:** Players with ₹0.2 Cr base prices who had
+    strong career stats sold for 3-4× base — but that's still a fraction
+    of what equivalently-performing players with ₹1+ Cr bases fetched.
+    """)
+
+    st.markdown("---")
+
+    # Strategy 4
+    st.subheader("4. Factor in the Overseas Tax — But Don't Avoid It")
+    st.markdown("""
+    **The insight:** Overseas players cost 48% more per 1,000 career runs.
+    But this premium is *partly rational* — the 8-player cap creates genuine
+    scarcity.
+
+    **The play:** Don't avoid overseas players; be selective about *which*
+    ones. The model identifies which overseas players are overpriced relative
+    to their stats (the Price Predictor page flags them). Fill 6-7 overseas
+    slots, leaving 1-2 for mid-season replacements via trading window.
+    """)
+
+    st.markdown("---")
+    st.markdown(
+        "💡 *These strategies are derived from statistical patterns across "
+        "1,279 player-auctions (2013-2025). They represent systematic market "
+        "inefficiencies, not guarantees — but a franchise that consistently "
+        "exploits even one of these edges compounds its advantage over "
+        "multiple auction cycles.*"
+    )
+
+
+# ═══════════════════════════════════════════════
+# PAGE 7: WHAT'S NEXT
+# ═══════════════════════════════════════════════
+elif page == "🔭 What's Next":
+    st.title("🔭 What I'd Do With More Data")
+    st.markdown(
+        "*Showing where this project could go next — the questions "
+        "I'd tackle with more time and data access.*"
+    )
+    st.markdown("---")
+
+    # Extensions grid
+    st.subheader("Five Extensions That Would Make This Better")
+
+    e1, e2 = st.columns(2)
+    with e1:
+        st.markdown("""
+        #### 🏏 Ball-by-Ball Match Impact Scores
+        **What:** Use CricSheet ball-by-ball data to build a "match impact"
+        metric — how much each player shifted win probability on each delivery.
+
+        **Why it matters:** Raw runs and wickets don't capture *when* those
+        contributions happened. A 30-run knock in a losing cause is worth
+        less than 15 runs in the final over of a chase. This would create
+        a "clutch factor" that the current model can't see.
+
+        **Data source:** CricSheet.org (open, ball-by-ball)
+        """)
+
+        st.markdown("""
+        #### 📱 Social Media Sentiment
+        **What:** Scrape Twitter/X mentions before auction day and test
+        whether player hype correlates with overpayment.
+
+        **Why it matters:** If franchises are influenced by public sentiment
+        (fans demanding a signing), that's a measurable behavioural bias —
+        and one a data-driven franchise could exploit by targeting
+        "unfashionable" players who perform.
+
+        **Data source:** Twitter/X API
+        """)
+
+    with e2:
+        st.markdown("""
+        #### 🏥 Injury & Availability History
+        **What:** Add player injury records and percentage of matches
+        available over career.
+
+        **Why it matters:** A ₹15 Cr player who misses 40% of the season
+        is effectively a ₹25 Cr player in cost-per-match terms. Availability
+        is the most underweighted factor in current auction pricing.
+
+        **Data source:** ESPNcricinfo injury data
+        """)
+
+        st.markdown("""
+        #### 💰 Franchise Budget Dynamics
+        **What:** Model how remaining budget and roster slots affect
+        late-auction pricing (the "desperation premium").
+
+        **Why it matters:** When a franchise has ₹30 Cr left and needs
+        3 overseas players, they'll overpay. This creates a game-theoretic
+        opportunity for franchises that fill key slots early.
+
+        **Data source:** IPL auction logs + RTM tracking
+        """)
+
+    st.markdown("""
+    #### 🤖 Real-Time Auction Advisor
+    **What:** A live dashboard that updates during the auction, recalculating
+    fair prices as the remaining player pool shrinks and franchise budgets
+    deplete.
+
+    **Why it matters:** This is the ultimate application — from retrospective
+    analysis to real-time decision support. Each sold player changes the
+    fair price of every remaining player (fewer alternatives = higher
+    scarcity premium).
+
+    **Tech stack:** WebSocket feed + streaming model inference + live
+    constraint updates to the ILP solver
+    """)
+
+    st.markdown("---")
+    st.markdown(
+        "🔭 *These extensions represent where sports analytics is heading — "
+        "from backward-looking evaluation to forward-looking decision systems. "
+        "Each one is achievable with publicly available data and standard "
+        "ML/OR techniques.*"
+    )
